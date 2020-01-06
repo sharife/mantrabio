@@ -1,21 +1,24 @@
-<div class="bg-grey-1 pv4">
-	<div class="ph3 mw7 center">
+<div class="bg-grey-4 white pv4 mt2">
+	<div class="ph3 mw7 center shadow-b">
 
-		<div class="flex-l mhn2-l">
-			<div class="w-40-l ph2-l">
-				<h2 class="f2 b lh-title mb2">{{.heading}}</h2>
+		<div class="flex mhn2">
+			<div class="w-50-m ph2-m mb4">
+				<h2 class="f3 b lh-title mb2 hideme">{{.heading}}</h2>
 
-				<p>{{.text}}</p>
+				<p class="hideme">{{.text}}</p>
 			</div>
 
-			<div class="w-60-l ph2-l">
-				<img src="img/home-about-section.jpg" alt="" class="mb3">
+			<div class="w-50-m ph2-m relative mb0">
+				<div class="absolute" style="bottom:-8px;">
+					<img src="{{.image}}" alt="" class="mb0 pv0 w-100 hideme">
+				</div>
 			</div>
 		</div>
 
-		<div class="tc">
+		{{ if .buttonText }}
+		<div class="tc hideme">
 			<a href="{{.buttonLink}}" class="btn raise">{{.buttonText}}</a>
 		</div>
-
+		{{ end }}
 	</div>
 </div>

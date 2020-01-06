@@ -1,0 +1,18 @@
+<div class="pv3 pv1-l hideme" style="background: linear-gradient(rgba(0,0,0,.35), rgba(0,0,0,.7)), url('{{.image}}') no-repeat center; background-size: cover;">
+	<div class="ph3 mw7 center pa6 white">
+
+		<h2 class="f3 b lh-title mb2 tc hideme">{{.heading}}</h2>
+		<p class="center tc hideme">{{.text}}</p>
+
+		<div class="tc mb4 hideme">
+			{{ if .buttonText }}
+			<div class="center tc f6 b module-border-wrap">
+		      <div class="module">
+		        <a href="{{.buttonLink}}" class="no-underline">{{.buttonText}}</a>
+		      </div>
+		    </div>
+			{{ end }}
+		</div>
+
+	</div>
+</div>

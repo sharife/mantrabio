@@ -1,0 +1,25 @@
+<div class="bg-grey-4 white pv4">
+  <div class="ph3 mw7 center tc pb3">
+    <h2 class="f3 b lh-title mb2 hideme">{{.intro.heading}}</h2>
+    <p class="center mb4 mw6 hideme">{{.intro.text}}</p>
+
+    <div class="flex-ns mhn2-ns mb3">
+      {{ range .icons }}
+      <div class="ph2-ns w-33-ns hideme">
+        <img src="{{.image}}" alt="" class="center db mb3" style="max-width: 220px">
+        <p class="small">{{.text}}</p>
+      </div>
+      {{ end }}
+    </div>
+
+    <p class="center mb4 mw6 hideme">{{.outro.text}}</p>
+
+    <div class="hideme">
+      <div class="center tc f6 b module-border-wrap">
+        <div class="module">
+          <a href="/science" class="no-underline">Learn more</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
