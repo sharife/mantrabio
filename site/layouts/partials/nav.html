@@ -21,3 +21,44 @@
 	</ul>
 
 </nav>
+
+
+
+<nav id="nav-mobile" class="w-100 absolute fixed z-999">
+	<div class="fr br1 pa1 ma1" style="background:rgba(0,0,0,0.75);">
+		<a class="white b f4 ph2 no-underline" onclick="javascript:toggleMenu();">&#9776;</a>
+	</div>
+</nav>
+
+<div id="mobile-menu" class="absolute fixed bg-grey-4 z-max">
+	<div class="gradient-divider"></div>
+	<ul class="pa3 w-100 center tc b white bg-black">
+		<li>
+			<a href="/">
+				<img src="/img/logo.svg" alt="Mantra Bio logo" class="pa3 br0 mb0 w-100 mw4"/>
+			</a>
+		</li>
+
+		<li><a href="/science" class="pa3 no-underline db">Science</a></li>
+
+		<li><a href="/partnering" class="pa3 no-underline db">Partnering</a></li>
+		
+		<li><a href="/team" class="pa3 no-underline db">Team</a></li>
+
+		<li><a href="/news" class="pa3 no-underline db">News</a></li>
+
+		<li><a href="/careers" class="pa3 no-underline db">Careers</a></li>		
+
+		<li><a href="/contact" class="pa3 no-underline db">Contact</a></li>
+	</ul>
+	<div class="gradient-divider"></div>
+	<p class="pt3 f6 b white center tc w-100"><a onclick="javascript:toggleMenu();">[ EXIT ]</a></p>
+</div>
+
+<script type="text/javascript">
+	function toggleMenu (){
+		$('#mobile-menu').fadeToggle();
+	}
+</script>
+
+
