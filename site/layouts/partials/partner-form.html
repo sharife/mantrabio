@@ -1,8 +1,8 @@
 <!-- Contact -->
 <div class="mb4">
-  <h4 class="f3 b lh-title mb3">Contact us</h4>
+  <h4 class="f3 b lh-title mb3 hideme">Get in touch</h4>
 
-  <form action="netlify">
+  <form action="netlify" class="hideme">
     
     <fieldset>
       <input type="text" id="name" name="name" placeholder="Name" class="w-100 mb2">
@@ -13,6 +13,13 @@
       <input type="email" id="email" name="email" placeholder="Email" class="w-100 mb2">
       <label for="email">Email</label>
     </fieldset>
+    <fieldset>
+      <select name="interest" class="w-100 mb2">
+        <option value="" disabled selected>I'm interested in...</option>
+        <option value="research">Research collaboration</option>
+        <option value="commercial">Commercial development</option>
+      </select>
+    </fieldset>
     <!-- Message -->
     <fieldset>
       <textarea id="message" name="message" placeholder="Your message" rows="8" cols="80" class="w-100"></textarea>
@@ -22,7 +29,7 @@
     <div>
       <!-- <button type="submit" class="btn w-100 w-auto-ns raise"><p class="f6 small mb0 ph4">Send</p></button> -->
       <button type="submit" class="bg-grey-4 pa0 w-100">
-        <div class="tc f6 b module-border-wrap">
+        <div class="center tc f6 b module-border-wrap">
           <div class="module">
             Send
           </div>

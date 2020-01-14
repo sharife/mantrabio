@@ -1,13 +1,14 @@
 {{ define "main" }}
 
-{{ partial "header" (dict "imageUrl" "/img/blog-index.jpg" "title" "Latest stories") }}
+{{ partial "header" (dict "imageUrl" "/img/header-news.jpg" "title" "News & Publications") }}
 
-<div class="mw7 center">
+<div class="mw7 center fade-4">
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
-      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
-          <div class="w-50-ns ph1-ns flex">
+      {{ range (.Paginator 8).Pages.ByPublishDate.Reverse }}
+          <div class="w-100-ns ph1-ns flex">
             {{ .Render "li"}}
           </div>
+          <hr class="w-100" />
       {{ end }}
   </ul>
   {{ partial "pagination" . }}

@@ -3,16 +3,16 @@
 
 		<h2 class="f3 b lh-title mb2 tc hideme">{{.heading}}</h2>
 		<p class="center tc hideme">{{.text}}</p>
-
+		{{ if .buttonText }}
 		<div class="tc mb4 hideme">
-			{{ if .buttonText }}
-			<div class="center tc f6 b module-border-wrap">
-		      <div class="module">
-		        <a href="{{.buttonLink}}" class="no-underline">{{.buttonText}}</a>
-		      </div>
-		    </div>
-			{{ end }}
+			<a href="{{.buttonLink}}" class="no-underline">
+				<div class="center tc f6 b module-border-wrap">
+			      <div class="module">
+			        {{.buttonText}}
+			      </div>
+			    </div>
+			</a>
 		</div>
-
+		{{ end }}
 	</div>
 </div>

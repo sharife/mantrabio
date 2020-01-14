@@ -1,0 +1,20 @@
+<a href="team/#open-modal-{{.name}}" class="no-underline pa3 white br1 mb2 db raise w-100">
+	<img src="{{.image}}" class="w-100 mb2 pa0" />
+	<h3 class="f5 b lh-title mb1 white">{{ .name }}</h3>
+	<p class="mb0 small">{{ .title }}</p>
+	<p class="small link b dib mb0">Bio →</p>
+</a>
+
+<div id="open-modal-{{.name}}" class="modal-window">
+	<div>
+	  <a href="team/#!" title="Close" class="modal-close"><img src="/img/close-button.svg" alt="close" class="w-40 mt2 ml3"></a>
+	  <div class="scrollme">
+	    {{ if .image }}
+	      <img src="{{.image}}" alt="" class="db mb1 mr3 w-40" align="left">
+	    {{ end }}
+	    <p class="f5 b mb0">{{.name}}</p>
+	    <p class="mb0 small mb2">{{ .title }}</p>
+	    <p class="cms small mb1">{{.bio | markdownify}}</p>
+	  </div>
+	</div>
+</div>

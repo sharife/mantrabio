@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+{{ partial "header" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
+
+<div class="mw7 center ph3 fade-4">
+
+  {{ range $index, $element := .Params.values }}
+    {{ if modBool $index 2 }}
+      {{ partial "media-block-reverse" $element }}
+    {{ else }}
+      {{ partial "media-block" $element }}
+    {{ end }}
+  {{ end }}
+
+  <div class="center tc pb4">
+  	<h2 class="f3 white b lh-title">Open positions</h2>
+
+  </div>
+
+</div>
+
+{{ end }}

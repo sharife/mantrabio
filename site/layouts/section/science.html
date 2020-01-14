@@ -1,31 +1,33 @@
 {{ define "main" }}
 
-{{ partial "header" (dict "imageUrl" .Params.image "title" .Title) }}
+{{ partial "header" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle ) }}
 
-{{ partial "4-up" .Params.intro }}
+<div class="fade-4">
+
+{{ partial "media-block" (dict "imageUrl" .Params.intro.image "heading" .Params.intro.heading "text" .Params.intro.description) }}
 
 
-{{ with .Params.main }}
-<div class="mw7 center">
-  <div class="mw6 ph3 mb3">
+{{ with .Params.approach }}
+<div class="mw7 center tc white shadow-b pb3">
+  <div class="mw7 ph3 mb3">
     <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
-    <p>{{ .description }}</p>
+    <p class="center">{{ .before }}</p>
+
+    <div>
+		<img src="/img/approach-hyperloop.svg" class="mb3" />    	
+    </div>
+
+    <p class="center">{{ .after }}</p>
   </div>
 </div>
-
-<!-- Image grid -->
-{{ partial "image-grid" . }}
 {{ end }}
 
-<div class="pb4">
-  {{ range .Params.testimonials }}
-    {{ partial "blockquote" . }}
-  {{ end }}
-</div>
+{{ partial "media-block-reverse-alt" (dict "imageUrl" .Params.outro.image "heading" .Params.outro.heading "text" .Params.outro.description "link" .Params.outro.link "linklabel" .Params.outro.linklabel) }}
+
 
 <!-- Full-width image -->
-<img src="{{ .Params.full_image }}" alt="" class="db w-100">
+<!-- <img src="{{ .Params.full_image }}" alt="" class="db w-100"> -->
 
-{{ partial "table" .Params.pricing }}
+</div>
 
 {{ end }}

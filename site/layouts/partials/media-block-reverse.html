@@ -1,12 +1,23 @@
-<div class="flex-m mhn3-m mb4">
+<div class="flex-m mhn3-m mb4 mw7 center shadow-b">
 
-  <div class="ph3-m w-50-m order-last-m">
-    <img src="{{.imageUrl}}" alt="" class="db mb2">
+  <div class="ph3-m w-50-m order-last-m white mt4">
+    <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
+    <p>{{.text}}</p>
+    {{ if .link }}
+    <div>
+      <a href="{{.link}}" class="no-underline">
+        <div class="tc f6 b module-border-wrap">
+          <div class="module">
+            {{.linklabel}}
+          </div>
+        </div>
+      </a>
+    </div>
+    {{ end }}
   </div>
 
   <div class="ph3-m w-50-m">
-    <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
-    <p>{{.text}}</p>
+    <img src="{{.imageUrl}}" alt="" class="db mb0 br0">
   </div>
 
 </div>
