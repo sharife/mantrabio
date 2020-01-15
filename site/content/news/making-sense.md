@@ -1,9 +1,9 @@
 ---
-title: "Making sense of the SCAA’s new Flavor Wheel"
+title: "Cras sed tellus a augue luctus varius vitae non diam"
 date: 2016-12-17T15:04:10.000Z
 category: publication
 link: https://google.com
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+description: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed iaculis, erat vitae tristique varius, mi massa gravida metus, id maximus ante est eget massa. Nam non lacus ullamcorper, hendrerit felis vel, mollis lectus.
 image: /img/blog-flavor_wheel.jpg
 ---
 

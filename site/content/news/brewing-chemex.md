@@ -1,12 +1,10 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: Phasellus et arcu vitae arcu sagittis ullamcorper vitae eu arcu
 date: 2017-01-04T15:04:10.000Z
 category: press release
 link: https://google.com
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  Aenean iaculis lacinia viverra. Praesent eget fringilla tellus, non pharetra felis. Nulla sed risus vitae libero scelerisque mattis. Pellentesque tempor ut massa id sollicitudin.
 image: /img/blog-chemex.jpg
 ---
 

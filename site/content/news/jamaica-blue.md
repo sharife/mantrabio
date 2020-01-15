@@ -1,11 +1,10 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'Donec cursus ut justo eu elementum'
 category: news
 link: https://google.com
 date: 2017-01-04T15:04:10.000Z
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Suspendisse in est quis purus sagittis euismod ut a lorem. Nulla quis turpis a justo feugiat posuere. In vitae risus placerat massa mattis congue ac non elit. Ut laoreet, velit at elementum egestas, nibh leo blandit lorem, rhoncus ornare enim nulla sit amet sapien.
 ---
 
 We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
