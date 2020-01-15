@@ -10,7 +10,7 @@ before:
     commercially under other trees that provided shade. The
     forest-like structure of shade coffee farms provides habitat for
     a great number of migratory and resident species.
-  image: "/img/about-shade-grown.jpg"
+  image: "/img/partnering-1.jpg"
 after:
   heading: Who you are
   text: >
@@ -19,7 +19,7 @@ after:
     specific collection of beans from a single country. The name of
     the coffee is then usually the place it was grown to whatever
     degree available.
-  image: "/img/about-single-origin.jpg"
+  image: "/img/partnering-2.jpg"
 intro:
   heading: What we offer
   text: Sed ac tortor lacinia, aliquam magna eget, hendrerit arcu. Etiam non aliquet diam. Nunc fringilla lacinia auctor.

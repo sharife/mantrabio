@@ -4,15 +4,7 @@
 
 <div class="mw7 center ph3 pt4">
 
-  <!-- {{ range $index, $element := .Params.values }}
-    {{ if modBool $index 2 }}
-      {{ partial "media-block" $element }}
-    {{ else }}
-      {{ partial "media-block-reverse" $element }}
-    {{ end }}
-  {{ end }} -->
-
-  <div class="flex-ns flex-wrap mhn1-ns">
+  <div class="flex-ns flex-wrap mhn1-ns mb3 fade-4">
   	{{ range $index, $element := .Params.employees }}
   	<div class="flex w-33-ns ph1-ns">
   		{{ partial "employee" $element }}
@@ -20,19 +12,19 @@
   	{{ end }}
   </div>
 
-  <h3 class="center tc b f3 white pv3">Advisory Board</h3>
+  <h3 class="center tc b f3 white pv3 hideme">Advisory Board</h3>
   <div class="flex-ns flex-wrap mhn1-ns">
   	{{ range $index, $element := .Params.advisors }}
-  	<div class="flex w-33-ns ph1-ns">
+  	<div class="flex w-33-ns ph1-ns hideme">
   		{{ partial "advisor" $element }}
   	</div>
   	{{ end }}
   </div>
 
-  <h3 class="center tc b f3 white pv3">Investors</h3>
+  <h3 class="center tc b f3 white pv3 hideme">Investors</h3>
   <div class="flex-ns flex-wrap mhn1-ns mb4">
   	{{ range $index, $element := .Params.investors }}
-  	<div class="flex w-33-ns ph1-ns">
+  	<div class="flex w-33-ns ph1-ns hideme">
   		{{ partial "investor" $element }}
   	</div>
   	{{ end }}

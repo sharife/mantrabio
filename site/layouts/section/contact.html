@@ -2,16 +2,16 @@
 
 <div class="ph3 pt5-l white">
 	<div class="center mw7 pv3 flex-ns">
-		<div class="w-50-ns ph3">
+		<div class="w-50-ns ph3 fade-1">
 			{{ partial "contact-form" . }}
 		</div>
 
 		<div class="w-50-ns ph3">
-			<img src="/img/map.jpg" class="br3 mb2" />
+			<img src="/img/map.jpg" class="br3 mb2 fade-2" />
 
 			{{ range .Params.contact_entries }}
-				{{if .heading}}<p class="b mb0">{{.heading}}</p>{{end}}
-				<p class="small mb0">{{.text}}</p>
+				{{if .heading}}<p class="b mb0 fade-3">{{.heading}}</p>{{end}}
+				<p class="small mb0 fade-3">{{.text}}</p>
 			{{ end }}
 			<p>
 			</p>

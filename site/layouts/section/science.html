@@ -10,14 +10,14 @@
 {{ with .Params.approach }}
 <div class="mw7 center tc white shadow-b pb3">
   <div class="mw7 ph3 mb3">
-    <h3 class="f3 b lh-title mb2">{{ .heading }}</h3>
-    <p class="center">{{ .before }}</p>
+    <h3 class="f3 b lh-title mb2 hideme">{{ .heading }}</h3>
+    <p class="center hideme">{{ .before }}</p>
 
-    <div>
+    <div class="hideme">
 		<img src="/img/approach-hyperloop.svg" class="mb3" />    	
     </div>
 
-    <p class="center">{{ .after }}</p>
+    <p class="center hideme">{{ .after }}</p>
   </div>
 </div>
 {{ end }}
