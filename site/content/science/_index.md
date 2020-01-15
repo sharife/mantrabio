@@ -6,7 +6,7 @@ intro:
   heading: What are exosomes?
   image: /img/illustration-exosomes.png
   description: >-
-    Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor.
 approach:
   heading: Our unique approach
   before: >
