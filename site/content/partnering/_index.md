@@ -5,20 +5,12 @@ image: /img/header-partnering.jpg
 before:
   heading: Collaborating with us
   text: >
-    Coffee is a small tree or shrub that grows in the forest
-    understory in its wild form, and traditionally was grown
-    commercially under other trees that provided shade. The
-    forest-like structure of shade coffee farms provides habitat for
-    a great number of migratory and resident species.
+    Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor.
   image: "/img/partnering-1.jpg"
 after:
   heading: Who you are
   text: >
-    Single-origin coffee is coffee grown within a single known
-    geographic origin. Sometimes, this is a single farm or a
-    specific collection of beans from a single country. The name of
-    the coffee is then usually the place it was grown to whatever
-    degree available.
+    Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam ut orci eget nunc accumsan bibendum ac vel quam.
   image: "/img/partnering-2.jpg"
 intro:
   heading: What we offer
