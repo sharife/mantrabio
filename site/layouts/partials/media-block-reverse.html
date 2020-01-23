@@ -5,13 +5,13 @@
     <p>{{.text}}</p>
     {{ if .link }}
     <div>
-      <a href="{{.link}}" class="no-underline">
-        <div class="tc f6 b module-border-wrap">
+      <div class="tc f6 b module-border-wrap">
+        <a href="{{.link}}" class="no-underline">
           <div class="module">
             {{.linklabel}}
           </div>
-        </div>
-      </a>
+        </a>
+      </div>
     </div>
     {{ end }}
   </div>
