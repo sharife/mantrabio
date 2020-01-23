@@ -1,7 +1,7 @@
-<a href="{{ .Params.link }}" class="no-underline pa3 white br1 mb2 db raise w-100">
+<div class="no-underline pa3 white br1 mb2 db w-100">
 	<p class="f6 small grey-2 mb1">{{.Params.category}}</p>
 	<h2 class="f3 b lh-title mb1 white">{{ .Title }}</h2>
 	<p class="grey-2 lh-title mb2 small">{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
 	<p class="mb0 small">{{ .Description }}</p>
-	<p class="link b dib mb0">Read more →</p>
-</a>
+	<a href="{{ .Params.link }}"><p class="link b dib mb0">Read more →</p></a>
+</div>

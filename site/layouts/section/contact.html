@@ -7,7 +7,9 @@
 		</div>
 
 		<div class="w-50-ns ph3">
-			<img src="/img/map.jpg" class="br3 mb2 fade-2" />
+			<!-- <img src="/img/map.jpg" class="br3 mb2 fade-2" /> -->
+
+			<div style="width: 100%"><iframe width="100%" height="350" src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=455%20Mission%20Bay%20Blvd%20South+(Mantra%20Bio)&amp;ie=UTF8&amp;t=&amp;z=15&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div><br />
 
 			{{ range .Params.contact_entries }}
 				{{if .heading}}<p class="b mb0 fade-3">{{.heading}}</p>{{end}}
