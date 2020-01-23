@@ -35,21 +35,53 @@ $(document).ready(function() {
 
 
 
-function sticktothetop() {
-    var window_top = $(window).scrollTop();
-    var top = $('#stick-here').offset().top;
-    if (window_top > top) {
-        $('#stickThis').addClass('stick');
-        $('#stick-here').height($('#stickThis').outerHeight());
-    } else {
-        $('#stickThis').removeClass('stick');
-        $('#stick-here').height(0);
-    }
-}
+// function sticktothetop() {
+//     var window_top = $(window).scrollTop();
+//     var top = $('#stick-here').offset().top;
+//     if (window_top > top) {
+//         $('#stickThis').addClass('stick');
+//         $('#stick-here').height($('#stickThis').outerHeight());
+//     } else {
+//         $('#stickThis').removeClass('stick');
+//         $('#stick-here').height(0);
+//     }
+// }
+// $(function() {
+//     $(window).scroll(sticktothetop);
+//     sticktothetop();
+// });
+
+
+
 $(function() {
-    $(window).scroll(sticktothetop);
-    sticktothetop();
-});
+  var allowed = true;
+  var heading = $('figheading');
+  var output = $('figcaption');
+  $('g').each(function() {
+    var that = $(this);
+    that.on('mouseenter', function() {
+      allowed = true;
+      //$(this).attr('fill', '#08f');
+      //output.text($(this).attr('data-desc')); // Could grab a cool data-something description or link somewhere.
+    });
+    that.on('mouseleave', function() {
+      //$(this).attr('fill', '#d3d3d3');
+    });
+    that.on('click', function() {
+      //$(this).toggleClass('active'); Doesn't work with svg
+      var that = $(this);
+      // if (allowed === true) {
+      //   alert($(this).attr('data-desc'));
+      //   allowed = false;
+      // }
+      heading.text($(this).attr('data-title'));
+      output.text($(this).attr('data-desc'));
+      // (that.attr('data-active') === 'true') ? that.attr('data-active', 'false') : that.attr('data-active', 'true');      
+    });
+  });
+
+}); // end jQuery ready
+
 
 
 // Select all links with hashes
