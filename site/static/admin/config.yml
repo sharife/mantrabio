@@ -1,19 +1,21 @@
 backend:
   name: git-gateway
-
+publish_mode: editorial_workflow
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "post" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Post" # Used in the UI, ie.: "New Post"
+  - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "News" # Used in the UI, ie.: "New Post"
     preview: false
-    folder: "site/content/post" # The path to the folder where the documents are stored
+    folder: "site/content/news" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Intro Blurb", name: "description", widget: "text"}
+      - {label: "Category", name: "category", widget: "string"}
+      - {label: "Link", name: "link", widget: "string"}
+      - {label: "Intro", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
@@ -27,25 +29,120 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string}
           - {label: Image, name: image, widget: image}
-          - {label: "Blurb", name: blurb, widget: object, fields: [
+          - {label: "Overview", name: overview, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
+              {label: Image, name: image, widget: image},
               {label: "Text", name: "text", widget: "text"}]}
           - {label: "Intro", name: intro, widget: object, fields: [
-              {label: "Heading", name: "heading", widget: string},
+              {label: "Heading", name: "heading", widget: string, required: false},
               {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Products", name: products, widget: list, fields: [
+          - {label: "Highlights", name: items, widget: list, fields: [
+              {label: "Heading", name: "heading", widget: string, required: false},
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "text", widget: "text"}]}
-          - {label: "Values", name: "values", widget: "object", fields: [
+          - {label: "Outro", name: "outro", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: string, required: false},
+              {label: "Link", name: "link", widget: string, required: false},
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Careers", name: "careers", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Button label", name: "buttonText", widget: "string"}]}
+      - file: "site/content/science/_index.md"
+        label: "Science Page"
+        name: "science"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string, required: false}
+          - {label: Image, name: image, widget: image}
+          - {label: "Intro", name: "intro", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "description", widget: markdown}]}
+          - {label: "Approach", name: "approach", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Above graphic", name: "before", widget: markdown},
+              {label: "Below graphic", name: "after", widget: markdown, required: false}]}
+          - {label: "Outro", name: "outro", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "description", widget: markdown},
+              {label: "Button link", name: "link", widget: "string"},
+              {label: "Button label", name: "linklabel", widget: "string"}]}
+      - file: "site/content/partnering/_index.md"
+        label: "Partnering Page"
+        name: "partnering"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string, required: false}
+          - {label: Image, name: image, widget: image}
+          - {label: "Intro", name: before, widget: object, fields: [
+              {label: "Heading", name: "heading", widget: string},
+              {label: Image, name: image, widget: image},
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Overview", name: intro, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Highlights", name: items, widget: list, fields: [
+              {label: "Heading", name: "heading", widget: string, required: false},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "text"}]}
+          - {label: "Outro", name: "after", widget: "object", fields: [
+              {label: "Heading", name: "heading", widget: string, required: false},
+              {label: "Image", name: "image", widget: "image"},
+              {label: "Text", name: "text", widget: "text"}]}
+      - file: "site/content/team/_index.md"
+        label: "Team Page"
+        name: "team"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string, required: false}
+          - {label: Image, name: image, widget: image}
+          - {label: "Employees", name: employees, widget: list, fields: [
+              {label: "Name", name: "heading", widget: string},
+              {label: "Title", name: "title", widget: string},
+              {label: Image, name: image, widget: image},
+              {label: "Bio", name: "Bio", widget: "markdown"}]}
+          - {label: "Advisors", name: advisors, widget: list, fields: [
+              {label: "Name", name: "heading", widget: string},
+              {label: "Affiliation", name: "affiliation", widget: string},
+              {label: Image, name: image, widget: image},
+              {label: "Link", name: "string", widget: "string"}]}
+          - {label: "Investors", name: investors, widget: list, fields: [
+              {label: Image, name: image, widget: image}]}
+      - file: "site/content/careers/_index.md"
+        label: "Careers Page"
+        name: "careers"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Subtitle, name: subtitle, widget: string, required: false}
+          - {label: Image, name: image, widget: image}
+          - label: Values
+            name: values
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Image, name: imageUrl, widget: image}
+          - label: Values diagram
+            name: diagram
+            widget: object
+            fields:
+              - {label: Heading, name: heading, widget: string}
+              - {label: Text, name: text, widget: text}
+              - {label: Image, name: imageUrl, widget: image}
+              - {label: "Value 1", name: value1, widget: object, fields: [{label: "Heading", name: "heading", widget: string},{label: "Text", name: "text", widget: "markdown"}]}
+              - {label: "Value 2", name: value2, widget: object, fields: [{label: "Heading", name: "heading", widget: string},{label: "Text", name: "text", widget: "markdown"}]}
+              - {label: "Value 3", name: value3, widget: object, fields: [{label: "Heading", name: "heading", widget: string},{label: "Text", name: "text", widget: "markdown"}]}
+              - {label: "Value 4", name: value4, widget: object, fields: [{label: "Heading", name: "heading", widget: string},{label: "Text", name: "text", widget: "markdown"}]}
+              - {label: "Value 5", name: value5, widget: object, fields: [{label: "Heading", name: "heading", widget: string},{label: "Text", name: "text", widget: "markdown"}]}
+              - {label: "Value 6", name: value6, widget: object, fields: [{label: "Heading", name: "heading", widget: string},{label: "Text", name: "text", widget: "markdown"}]}
+              - {label: "Value 7", name: value7, widget: object, fields: [{label: "Heading", name: "heading", widget: string},{label: "Text", name: "text", widget: "markdown"}]}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Logo, name: logo, widget: image}
-          - {label: Body, name: body, widget: markdown}
           - label: Contact Entries
             name: contact_entries
             widget: list
@@ -53,32 +150,7 @@ collections: # A list of collections the CMS should be able to edit
               - label: Heading
                 name: heading
                 widget: string
+                required: false
               - label: Text
                 name: text
                 widget: text
-      - file: "site/content/products/_index.md"
-        label: "Products Page"
-        name: "products"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - {label: Heading, name: heading, widget: string}
-          - {label: Description, name: description, widget: string}
-          - {label: Intro, name: intro, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Blurbs, name: blurbs, widget: list, fields: [{label: Image, name: image, widget: image}, {label: Text, name: text, widget: text}]}]}
-          - {label: Main, name: main, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: text}, {label: Image1, name: image1, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image2, name: image2, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}, {label: Image3, name: image3, widget: object, fields: [{label: Image, name: image, widget: image}, {label: Alt, name: alt, widget: string}]}]}
-          - {label: Testimonials, name: testimonials, widget: list, fields: [{label: Quote, name: quote, widget: string}, {label: Author, name: author, widget: string}]}
-          - {label: Full_image, name: full_image, widget: image}
-          - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
-      - file: "site/content/values/_index.md"
-        label: "Values Page"
-        name: "values"
-        fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - label: Values
-            name: values
-            widget: list
-            fields:
-              - {label: Heading, name: heading, widget: string}
-              - {label: Text, name: text, widget: text}
-              - {label: Image, name: imageUrl, widget: image}
