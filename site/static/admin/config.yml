@@ -119,7 +119,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string, required: false}
           - {label: Image, name: image, widget: image}
-          - {label: Values, name: values, widget: object, fields: [
+          - {label: Values, name: valuesintro, widget: object, fields: [
               {label: Heading, name: heading, widget: string},
               {label: Text, name: text, widget: text},
               {label: Image, name: imageUrl, widget: image}]}
