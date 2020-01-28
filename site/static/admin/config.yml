@@ -10,6 +10,8 @@ collections: # A list of collections the CMS should be able to edit
     preview: false
     folder: "site/content/news" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
+    editor:
+      preview: false
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -99,12 +101,12 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Subtitle, name: subtitle, widget: string, required: false}
           - {label: Image, name: image, widget: image}
           - {label: "Employees", name: employees, widget: list, fields: [
-              {label: "Name", name: "heading", widget: string},
+              {label: "Name", name: "name", widget: string},
               {label: "Title", name: "title", widget: string},
               {label: Image, name: image, widget: image},
               {label: "Bio", name: "Bio", widget: "markdown"}]}
           - {label: "Advisors", name: advisors, widget: list, fields: [
-              {label: "Name", name: "heading", widget: string},
+              {label: "Name", name: "name", widget: string},
               {label: "Affiliation", name: "affiliation", widget: string},
               {label: Image, name: image, widget: image},
               {label: "Link", name: "string", widget: "string"}]}
