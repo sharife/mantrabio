@@ -147,7 +147,7 @@ collections: # A list of collections the CMS should be able to edit
                 {label: "Text", name: "text", widget: "markdown"}]},
               {label: "Value 7", name: value7, widget: object, fields: [
                 {label: "Heading", name: "heading", widget: string},
-                {label: "Text", name: "text", widget: "markdown"}]}}]}
+                {label: "Text", name: "text", widget: "markdown"}]}]}
       - file: "site/content/contact/_index.md"
         label: "Contact Page"
         name: "contact"
