@@ -1,0 +1,14 @@
+body, html {
+	color: white;
+}
+#logo, #content, h1, h2 {
+	display:none;
+}
+
+a {
+	color: #ffb600;
+}
+
+section {
+	text-align:center;
+}
