@@ -4,7 +4,6 @@ date: 2016-12-17T15:04:10.000Z
 category: publication
 link: https://google.com
 description: Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed iaculis, erat vitae tristique varius, mi massa gravida metus, id maximus ante est eget massa. Nam non lacus ullamcorper, hendrerit felis vel, mollis lectus.
-image: /img/blog-flavor_wheel.jpg
 ---
 
 The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
