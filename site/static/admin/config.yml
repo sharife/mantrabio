@@ -28,8 +28,8 @@ collections: # A list of collections the CMS should be able to edit
         label: "Home Page"
         name: "home"
         fields:
-          - {label: Title, name: title, widget: string}
-          - {label: Subtitle, name: subtitle, widget: string}
+          - {label: "Page title", name: title, widget: string}
+          - {label: "Header text", name: subtitle, widget: string}
           - {label: Image, name: image, widget: image}
           - {label: "Overview", name: overview, widget: object, fields: [
               {label: "Heading", name: "heading", widget: string},
