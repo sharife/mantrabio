@@ -4,14 +4,7 @@
 
 <div class="mw7 center ph3 fade-4">
 
-  {{ range $index, $element := .Params.values }}
-    {{ if modBool $index 2 }}
-      {{ partial "media-block-reverse" $element }}
-    {{ else }}
-      {{ partial "media-block" $element }}
-    {{ end }}
-  {{ end }}
-
+  {{ partial "media-block-reverse" (dict "imageUrl" .Params.values.imageUrl "heading" .Params.values.heading "text" .Params.values.text) }}
 
   {{ partial "values-diagram" .Params.diagram }}
 
