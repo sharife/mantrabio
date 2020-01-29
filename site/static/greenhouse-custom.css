@@ -5,6 +5,10 @@ body, html {
 	display:none;
 }
 
+#app_body #content {
+	display: block;
+}
+
 a {
 	color: #ffb600;
 }
