@@ -47,8 +47,10 @@ function sticktothetop() {
     }
 }
 $(function() {
-    $(window).scroll(sticktothetop);
-    sticktothetop();
+    if ($('#stick-here')) {
+      $(window).scroll(sticktothetop);
+      sticktothetop();
+    }
 });
 
 
