@@ -37,17 +37,19 @@ $(document).ready(function() {
 
 function sticktothetop() {
     var window_top = $(window).scrollTop();
-    var top = $('#stick-here').offset().top;
-    if (window_top > top) {
+    if ($('#stick-here').length) {
+      var top = $('#stick-here').offset().top;
+      if (window_top > top) {
         $('#stickThis').addClass('stick');
         $('#stick-here').height($('#stickThis').outerHeight());
-    } else {
-        $('#stickThis').removeClass('stick');
-        $('#stick-here').height(0);
+      } else {
+          $('#stickThis').removeClass('stick');
+          $('#stick-here').height(0);
+      }
     }
 }
 $(function() {
-    if ($('#stick-here')) {
+    if ($('#stick-here').length) {
       $(window).scroll(sticktothetop);
       sticktothetop();
     }
