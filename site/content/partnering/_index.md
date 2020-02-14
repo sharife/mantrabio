@@ -6,9 +6,10 @@ before:
   heading: Partner with us
   image: /img/partnering-1.jpg
   text: >-
-    Our integrated team of scientists and software engineers is eager to find
-    the next cure with you! Contact us to discuss possible partnership
-    structures or technical capabilities with our dedicated partnering team.
+    We have a track record of working with some of the top pharmaceutical
+    corporations and leading academic institutions to foster valuable
+    innovation. We are eager to collaborate closely with partners to broaden the
+    impact of our exosome technologies across a diversity of therapeutic areas.
 intro:
   heading: What we offer
   text: >-
