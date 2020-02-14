@@ -1,27 +1,53 @@
 ---
-title: "We harness exosomes to deliver safe, highly targeted medicines."
-subtitle: We harness exosomes to deliver safe, highly targeted medicines.
+title: 'We harness exosomes to deliver safe, highly targeted medicines.'
+subtitle: 'We harness exosomes to deliver safe, highly targeted medicines.'
 image: /img/cover-bg-alt.jpg
 overview:
-    heading: Targeted exosomes – a new paradigm
-    image: /img/illustration-exosome-1.png
-    text: "Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque."
+  heading: Targeted Exosomes - a new paradigm for drug delivery
+  image: /img/illustration-exosome-1.png
+  text: >-
+    Exosomes are powerful nano-messengers that comprise nature’s broad cellular
+    communication network. Through highly targeted mechanisms, exosomes bind to
+    specific tissues and deploy their contents, thereby altering biological
+    function. Ongoing scientific discovery of the exosome network has birthed a
+    transformative class of biologics that are targeted to specific tissues and
+    cells to deliver a variety of therapeutic payloads. Importantly, exosome
+    therapies have been shown to be safe in human trials.
 intro:
-    heading: "A powerful discovery platform"
-    text: "Donec est dui, accumsan id lacinia ut, sodales sit amet lacus. Vestibulum tristique risus vitae ipsum fermentum, at tristique lacus dignissim."
+  heading: Exosome drug discovery powered by REVEAL
+  text: >-
+    Mantra Bio is the creator of REVEAL, an exosome engineering platform
+    combining computational biology, lab automation, and screening to generate
+    targeted exosome vehicles (TEVs) for a broad set of therapeutic areas.
 items:
-    - image: /img/icon-placeholder.svg
-      text: "Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat."
-    - image: /img/icon-placeholder.svg
-      text: "Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam."
-    - image: /img/icon-placeholder.svg
-      text: "Donec est dui, accumsan id lacinia ut, sodales sit amet lacus. Vestibulum tristique risus vitae ipsum fermentum."
+  - heading: Target discovery enabled by computational biology
+    image: /img/icon-placeholder.svg
+    text: >-
+      Novel targets are identified through data science and machine-learning of
+      Mantra’s deep, proprietary database of human exosome-to-cell-to-tissue
+      OMICs data.
+  - heading: Bioengineered potent drug-loaded TEVs
+    image: /img/icon-placeholder.svg
+    text: >-
+      Best-in-class exosome engineering methods display targeting motifs on the
+      exosome surface to achieve tissue specificity and load TEVs with proteins,
+      nucleic acids, and small molecules for delivery.
+  - heading: Automated screening in living systems
+    image: /img/icon-placeholder.svg
+    text: >-
+      TEV candidates are rapidly screened through cell-based assays and in vivo
+      animal models to measure selectivity and potency.
 outro:
-    text: Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam.
-    link: /science
+  link: /science
+  text: >-
+    At the heart of REVEAL lies a powerful dry lab-to-wet lab interface that
+    drives the discovery of best-in-class medicines at unprecedented speeds. By
+    leveraging rational design and cutting-edge technology in computation,
+    robotics, and bioengineering, Mantra Bio is building next-generation
+    therapies that can solve some of the most intractable diseases. 
 careers:
-    heading: We're looking for great people to join our team.
-    image: /img/montage.jpg
-    buttonText: Open Positions
+  buttonText: Join us
+  heading: We’re looking for extraordinary people to join us in finding cures.
+  image: /img/montage.jpg
 ---
 
