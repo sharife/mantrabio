@@ -9,10 +9,10 @@ overview:
     Exosomes are powerful nano-messengers that comprise nature’s broad cellular
     communication network. Through highly targeted mechanisms, exosomes bind to
     specific tissues and deploy their contents, thereby altering biological
-    function. Ongoing scientific discovery of the exosome network has birthed a
-    transformative class of biologics that are targeted to specific tissues and
-    cells to deliver a variety of therapeutic payloads. Importantly, exosome
-    therapies have been shown to be safe in human trials.
+    function. Cutting-edge scientific discovery of the exosome network has
+    birthed a transformative class of biologics that are targeted to specific
+    tissues and cells to deliver a variety of therapeutic payloads. Importantly,
+    exosome therapies have been shown to be safe in human trials.
 intro:
   heading: Exosome drug discovery powered by REVEAL
   text: >-
