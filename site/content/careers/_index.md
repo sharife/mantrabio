@@ -8,17 +8,19 @@ values:
   heading: Discover with us
   imageUrl: /img/careers-group.jpg
   text: >-
-    Mantra Bio is comprised of a family of curious scientists, all who are
+    Our team is comprised of a family of curious scientists, who are each
     looking to make a difference and leave the world a better place at the end
     of every day. Join us in our mission of achieving our mantra, Well Being for
     All.
 diagram:
   heading: Our values
   imageUrl: /img/values-diagram.svg
-  text: >
+  text: >-
     Mantra Bio is founded on seven pillars that we put into practice in our
     daily work lives. These values maintain Mantra Bio as an exciting and
-    friendly place of work. Click each bubble to learn more. 
+    friendly place of work. 
+
+    Click each bubble to learn more. 
   value1:
     heading: Seek Truth Wisely
     text: >-
@@ -38,26 +40,25 @@ diagram:
       “Celebrate individual talents and efforts” - We encourage celebration of
       all milestones, at work, and in personal lives. Frequent kudos, team
       off-sites, happy hours, and other events are just some of the ways we say
-      thanks and spread appreciation for the hard work of our team.  
+      thanks and spread appreciation for the hard work of our team.
   value4:
     heading: Move together with compassion
     text: >-
       “We will go farther and do it better, if we do it together” - Through
       differences in perspectives and opinions, we strive to reach consensus and
-      commit to our decisions together, as the only way we succeed is as a
-      team. 
+      commit to our decisions together, as the only way we succeed is as a team.
   value5:
     heading: Communicate with Candor and Clarity
     text: >-
       “Care Personally, Challenge Directly” - We strive to build strong
       relationships with each other based on trust and respect by providing
-      frequent, considerate, and candid feedback. 
+      frequent, considerate, and candid feedback.
   value6:
     heading: Growth throgh self-empowerment
     text: >-
       “We believe that everyone is a Mantrapreneur” - Through monthly feedback
       and personal growth sessions we strive to provide our employees with the
-      autonomy to build mastery in the areas they are passionate about. 
+      autonomy to build mastery in the areas they are passionate about.
   value7:
     heading: Lead with curiosity
     text: >-
