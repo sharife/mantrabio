@@ -17,9 +17,9 @@ approach:
   heading: Our exosome engineering platform
 outro:
   description: >-
-    Reflecting our mission to develop better medicines faster using our AI
-    platform, our business model is a collaborative one where we work hand in
-    hand with our partners.
+    Reflecting our mission to use our AI platform to develop better medicines,
+    faster, our business model is a collaborative one where we work hand in hand
+    with our partners.
   heading: Therapeutic applications
   image: /img/science-closeup.jpg
   link: /partnering
