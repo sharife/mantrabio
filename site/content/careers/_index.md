@@ -8,10 +8,10 @@ values:
   heading: Discover with us
   imageUrl: /img/careers-group.jpg
   text: >-
-    Our team is comprised of a family of curious scientists, who are each
-    looking to make a difference and leave the world a better place at the end
-    of every day. Join us in our mission of achieving our mantra, Well Being for
-    All.
+    Our team is comprised of a family of curious scientists, united under the
+    common goal of making a difference and leaving the world a better place at
+    the end of every day. Join us in our mission of achieving our mantra, Well
+    Being for All.
 diagram:
   heading: Our values
   imageUrl: /img/values-diagram.svg
@@ -32,8 +32,8 @@ diagram:
     heading: Pursue Excellence
     text: >-
       “Work hard and maintain strong ethics and integrity” - We do what is
-      necessary to achieve our objectives, upholding the highest standards of
-      innovation, while upholding integrity and making ethical decisions.
+      necessary to achieve our objectives of innovation, while upholding
+      integrity and making ethical decisions.
   value3:
     heading: Celebrate People
     text: >-
