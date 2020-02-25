@@ -39,7 +39,6 @@ items:
       animal models to measure selectivity and efficacy.
 outro:
   link: /science
-  text: Make this field optional
 careers:
   buttonText: Join us
   heading: We’re looking for extraordinary people to join us in finding cures.
