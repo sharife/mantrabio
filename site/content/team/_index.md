@@ -1,6 +1,6 @@
 ---
 title: Our Team
-subtitle: Lorem ipsum dolor sit amet prius executor unum.
+subtitle: ''
 image: /img/header-team.jpg
 employees:
   - bio: >
