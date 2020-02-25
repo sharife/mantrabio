@@ -10,7 +10,7 @@ employees:
       non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
       lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
     name: Alex Mok
-    title: Employee
+    title: Co-founder & CEO
     image: /img/portraits/mantrabio-6501.jpg
   - bio: >
       Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
@@ -19,7 +19,7 @@ employees:
       non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
       lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
     name: Terry Gaige
-    title: Employee
+    title: Co-founder & VP of Automation
     image: /img/portraits/mantrabio-6575.jpg
   - bio: >
       Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
@@ -28,7 +28,7 @@ employees:
       non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
       lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
     name: Katie Planey
-    title: Employee
+    title: Co-founder & CTO
     image: /img/portraits/mantrabio-6605.jpg
   - bio: >
       Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
