@@ -37,7 +37,7 @@ employees:
       non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
       lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
     name: Mitch Gordon
-    title: Business operations associate
+    title: Business Ops. Associate
     image: /img/portraits/mantrabio-6717.jpg
   - bio: >
       Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
