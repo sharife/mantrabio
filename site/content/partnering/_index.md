@@ -1,21 +1,21 @@
 ---
 title: Partnering
-subtitle: Lorem ipsum dolor sit amet prius executor unum
+subtitle: ''
 image: /img/header-partnering.jpg
 before:
   heading: Partner with us
   image: /img/partnering-1.jpg
   text: >-
-    We have a track record of working with some of the top pharmaceutical
-    corporations and leading academic institutions to foster valuable
-    innovation. We are eager to collaborate closely with partners to broaden the
-    impact of our exosome technologies across a diversity of therapeutic areas.
+    We have a track record of working with top pharmaceutical corporations and
+    leading academic institutions to foster valuable innovation. We are eager to
+    collaborate closely with partners to broaden the impact of our Exosome
+    Therapeutics platform across a diversity of disease areas.
 intro:
   heading: What we offer
   text: >-
     We are dedicated to developing targeted exosome therapies to solve complex
-    diseases and are seeking core partnerships to enable their accelerated
-    development and commercialization.
+    diseases and are seeking core partnerships to accelerate their development
+    and enable their commercialization.
 items:
   - heading: REVEAL Platform & Technology access
     image: /img/icon-placeholder.svg
@@ -36,9 +36,9 @@ after:
   heading: Who you are
   image: /img/partnering-2.jpg
   text: >-
-    We are excited to collaborate with companies with deep disease knowledge,
-    indication expertise, and complementary capabilities in regenerative
-    medicine, metabolic and cardiovascular disorders, rare diseases,
-    neurodegenerative disease, and more.
+    We are excited to collaborate with companies with deep indication expertise
+    and complementary capabilities in regenerative medicine, metabolic and
+    cardiovascular disorders, rare diseases, neurodegenerative disease, and
+    more.
 ---
 
