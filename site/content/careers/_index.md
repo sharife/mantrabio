@@ -2,7 +2,7 @@
 title: Join Us
 subtitle: >-
   Mantra Bio is always looking for passionate and talented individuals to join
-  our team.
+  our team. 
 image: /img/header-careers.jpg
 values:
   heading: Discover with us
@@ -10,43 +10,43 @@ values:
   text: >-
     Our team is comprised of a family of curious scientists, united under the
     common goal of making a difference and leaving the world a better place at
-    the end of every day. Join us in our mission of achieving our mantra, Well
-    Being for All.
+    the end of every day. Join us in our mission and mantra, Well Being for All.
 diagram:
   heading: Our values
   imageUrl: /img/values-diagram.svg
   text: >-
-    Mantra Bio is founded on seven pillars that we put into practice in our
-    daily work lives. These values maintain Mantra Bio as an exciting and
-    friendly place of work. 
+    Mantra Bio is founded on seven value pillars that we put into daily practice
+    and core to how we wish to show up in the world. These pillars are key to
+    sustaining Mantra Bio as an exciting, innovative and friendly place of
+    work. 
 
     Click each bubble to learn more. 
   value1:
     heading: Seek Truth Wisely
     text: >-
-      “Consider wider perspectives and avoid blame” - Being open and receptive
-      to all ideas, while challenging assumptions (including your own) and
-      considering what’s right rather than who’s right allows us to keep things
-      in perspective and gives space for all conversations. 
+      “Consider wider perspectives and avoid blame” - Be open and receptive to
+      all ideas, while challenging false assumptions (including your own).
+      Consider what’s right rather than who’s right allows us to keep things in
+      perspective and gives space for all conversations. 
   value2:
     heading: Pursue Excellence
     text: >-
-      “Work hard and maintain strong ethics and integrity” - We do what is
+      “Work hard while having strong ethics and integrity” - Do what is
       necessary to achieve our objectives of innovation, while upholding
       integrity and making ethical decisions.
   value3:
     heading: Celebrate People
     text: >-
-      “Celebrate individual talents and efforts” - We encourage celebration of
-      all milestones, at work, and in personal lives. Frequent kudos, team
-      off-sites, happy hours, and other events are just some of the ways we say
-      thanks and spread appreciation for the hard work of our team.
+      “Celebrate individual talents and efforts” - Celebrate all milestones, at
+      work and in personal lives. Frequent kudos, team off-sites, happy hours,
+      and other events are just some of the ways we say thanks and spread
+      appreciation for the hard work of our team.
   value4:
     heading: Move together with compassion
     text: >-
       “We will go farther and do it better, if we do it together” - Through
-      differences in perspectives and opinions, we strive to reach consensus and
-      commit to our decisions together, as the only way we succeed is as a team.
+      differences in perspectives and opinions, we commit to our decisions
+      together. The only way we succeed is as a team.
   value5:
     heading: Communicate with Candor and Clarity
     text: >-
