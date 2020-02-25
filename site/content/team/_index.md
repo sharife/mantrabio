@@ -1,5 +1,5 @@
 ---
-title: The team behind Mantra Bio
+title: Who we are
 subtitle: ''
 image: /img/header-team.jpg
 employees:
@@ -10,7 +10,7 @@ employees:
       non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
       lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
     name: Alex Mok
-    title: Co-founder & CEO
+    title: CEO & Co-founder
     image: /img/portraits/mantrabio-6501.jpg
   - bio: >
       Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
@@ -19,7 +19,7 @@ employees:
       non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
       lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
     name: Terry Gaige
-    title: Co-founder & VP of Automation
+    title: VP of Automation & Co-founder
     image: /img/portraits/mantrabio-6575.jpg
   - bio: >
       Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
@@ -28,7 +28,7 @@ employees:
       non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
       lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
     name: Katie Planey
-    title: Co-founder & CTO
+    title: CTO & Co-founder
     image: /img/portraits/mantrabio-6605.jpg
   - bio: >
       Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
