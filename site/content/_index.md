@@ -22,9 +22,9 @@ items:
   - heading: Target discovery enabled by computational biology
     image: /img/icon-placeholder.svg
     text: >-
-      Novel targets are identified through data science and machine-learning of
-      Mantra’s proprietary database of human exosome-to-cell-to-tissue OMICs
-      data.
+      Novel targets are identified through data science and machine-learning
+      using Mantra Bio's proprietary database of human exosome-to-cell-to-tissue
+      OMICs data.
   - heading: 'Bioengineered, drug-loaded TEVs'
     image: /img/icon-placeholder.svg
     text: >-
@@ -39,6 +39,7 @@ items:
       animal models to measure selectivity and efficacy.
 outro:
   link: /science
+  text: Make this field optional
 careers:
   buttonText: Join us
   heading: We’re looking for extraordinary people to join us in finding cures.
