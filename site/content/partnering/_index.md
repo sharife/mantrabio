@@ -11,7 +11,7 @@ before:
     collaborate closely with partners to broaden the impact of our Exosome
     Therapeutics platform across a diversity of disease areas.
 intro:
-  heading: Novel therapies for complex diseases
+  heading: Novel solutions for complex diseases
   text: >-
     We are dedicated to developing targeted exosome therapies and are seeking
     core partnerships to accelerate their development and enable their
