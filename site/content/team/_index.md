@@ -1,5 +1,5 @@
 ---
-title: Our Team
+title: The team behind Mantra Bio
 subtitle: ''
 image: /img/header-team.jpg
 employees:
