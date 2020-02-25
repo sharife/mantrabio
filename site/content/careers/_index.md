@@ -26,12 +26,12 @@ diagram:
     text: >-
       “Consider wider perspectives and avoid blame” - Be open and receptive to
       all ideas, while challenging false assumptions (including your own).
-      Consider what’s right rather than who’s right allows us to keep things in
-      perspective and gives space for all conversations. 
+      Considering what’s right rather than who’s right allows us to keep things
+      in perspective and gives space for all conversations. 
   value2:
     heading: Pursue Excellence
     text: >-
-      “Work hard while having strong ethics and integrity” - Do what is
+      “Work hard while having strong ethics and integrity” - We do what is
       necessary to achieve our objectives of innovation, while upholding
       integrity and making ethical decisions.
   value3:
