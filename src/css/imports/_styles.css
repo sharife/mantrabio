@@ -208,3 +208,10 @@ hr {
     color: white;
   }
 }
+
+.modal-window .cancel {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  cursor: default;
+}
