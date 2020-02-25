@@ -39,12 +39,6 @@ items:
       animal models to measure selectivity and efficacy.
 outro:
   link: /science
-  text: >-
-    At the heart of REVEAL lies a powerful dry lab-to-wet lab interface that
-    drives the discovery of first-in-class medicines at unprecedented speeds. By
-    leveraging rational design and cutting-edge technology in computation,
-    robotics, and bioengineering, Mantra Bio is building next-generation
-    therapies that can solve some of the most intractable diseases. 
 careers:
   buttonText: Join us
   heading: We’re looking for extraordinary people to join us in finding cures.
