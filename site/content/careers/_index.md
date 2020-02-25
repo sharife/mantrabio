@@ -2,7 +2,7 @@
 title: Join Us
 subtitle: >-
   Mantra Bio is always looking for passionate and talented individuals to join
-  our team.
+  our team. 
 image: /img/header-careers.jpg
 values:
   heading: Discover with us
