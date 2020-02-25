@@ -1,88 +1,141 @@
 ---
-title: "Our Team"
-subtitle: Lorem ipsum dolor sit amet prius executor unum
+title: Our Team
+subtitle: Lorem ipsum dolor sit amet prius executor unum.
 image: /img/header-team.jpg
 employees:
-  - name: "Firstname Last"
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Alex Mok
     title: Employee
-    bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    image: "/img/portraits/mantrabio-6501.jpg"
-  - name: "Firstname Last"
+    image: /img/portraits/mantrabio-6501.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Terry Gaige
     title: Employee
-    bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    image: "/img/portraits/mantrabio-6575.jpg"
-  - name: "Firstname Last"
+    image: /img/portraits/mantrabio-6575.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Katie Planey
     title: Employee
-    bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    image: "/img/portraits/mantrabio-6605.jpg"
-  - name: "Firstname Last"
+    image: /img/portraits/mantrabio-6605.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Mitch Gordon
+    title: Business operations associate
+    image: /img/portraits/mantrabio-6717.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Pranali Deshpande
     title: Employee
-    bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    image: "/img/portraits/mantrabio-6717.jpg"
-  - name: "Firstname Last"
+    image: /img/portraits/mantrabio-6528.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Raeline Valbuena
     title: Employee
-    bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    image: "/img/portraits/mantrabio-6528.jpg"
-  - name: "Firstname Last"
+    image: /img/portraits/mantrabio-6561.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Zach Swinney
     title: Employee
-    bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    image: "/img/portraits/mantrabio-6561.jpg"
-  - name: "Firstname Last"
+    image: /img/portraits/mantrabio-6440.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Daniel Goodman
     title: Employee
-    bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    image: "/img/portraits/mantrabio-6440.jpg"
-  - name: "Firstname Last"
+    image: /img/portraits/mantrabio-6741.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Linda Szabo
     title: Employee
-    bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    image: "/img/portraits/mantrabio-6741.jpg"
-  - name: "Firstname Last"
+    image: /img/portraits/mantrabio-6805.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Ishai Padawer
     title: Employee
-    bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    image: "/img/portraits/mantrabio-6805.jpg"
-  - name: "Firstname Last"
+    image: /img/portraits/mantrabio-6792.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Colin Gottlieb
     title: Employee
-    bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    image: "/img/portraits/mantrabio-6792.jpg"
-  - name: "Firstname Last"
+    image: /img/portraits/mantrabio-6485.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Ginny Kang
     title: Employee
-    bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    image: "/img/portraits/mantrabio-6485.jpg"
-  - name: "Firstname Last"
+    image: /img/portraits/mantrabio-6693.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Jacob Strelnikov
     title: Employee
-    bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    image: "/img/portraits/mantrabio-6693.jpg"
-  - name: "Firstname Last"
-    title: Employee
-    bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    image: "/img/portraits/mantrabio-6661.jpg"
+    image: /img/portraits/mantrabio-6661.jpg
 advisors:
-  - name: "Firstname Last"
-    affiliation: Advisor
-    image: "/img/fpo-box.png"
-    link: #
-  - name: "Firstname Last"
-    affiliation: Advisor
-    image: "/img/fpo-box.png"
-    link: #
-  - name: "Firstname Last"
-    affiliation: Advisor
-    image: "/img/fpo-box.png"
-    link: #
+  - affiliation: Advisor
+    image: /img/fpo-box.png
+    link: 'https://mantrabio.netlify.com/team/'
+    name: Firstname Last
+  - affiliation: Advisor
+    image: /img/fpo-box.png
+    link: 'https://mantrabio.netlify.com/team/'
+    name: Firstname Last
+  - affiliation: Advisor
+    image: /img/fpo-box.png
+    link: 'https://mantrabio.netlify.com/team/'
+    name: Firstname Last
 investors:
-  - image: "/img/fpo-box.png"
-  - image: "/img/fpo-box.png"
-  - image: "/img/fpo-box.png"
+  - image: /img/fpo-box.png
+  - image: /img/fpo-box.png
+  - image: /img/fpo-box.png
 ---
+
