@@ -23,7 +23,7 @@
 	</div>
 	{{ end }}
 
-	{{ partial "media-block" (dict "imageUrl" .Params.second.image "heading" .Params.second.heading "text" .Params.second.description) }}
+	{{ partial "media-block-alt" (dict "imageUrl" .Params.second.image "heading" .Params.second.heading "text" .Params.second.description) }}
 
 	{{ partial "media-block-reverse-alt" (dict "imageUrl" .Params.third.image "heading" .Params.third.heading "text" .Params.third.description "link" .Params.third.link "linklabel" .Params.third.linklabel) }}
 

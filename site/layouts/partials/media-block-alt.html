@@ -1,0 +1,23 @@
+<div class="flex-ns mhn3-ns mb0 mw7 center shadow-b">
+
+  <div class="ph3-ns w-50-ns white mt4 pl3-ns">
+    <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
+    <p>{{.text}}</p>
+    {{ if .link }}
+    <div>
+      <div class="center tc f6 b module-border-wrap">
+        <a href="{{.link}}" class="no-underline">
+          <div class="module">
+            {{.linklabel}}
+          </div>
+        </a>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+
+  <div class="ph3-m w-50-ns flex" style="align-items: flex-end;">
+    <img src="{{.imageUrl}}" alt="" class="db mb0 br0 w-100">
+  </div>
+
+</div>
