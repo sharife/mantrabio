@@ -3,7 +3,7 @@
   <div class="ph3-ns w-50-ns white mt4 pl3-ns flex" style="align-items:center;">
     <div class="mb5-ns">
       <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
-      <p>{{.text}}</p>
+      <p>{{ .text | markdownify }}</p>
     </div>
   </div>
 
