@@ -20,6 +20,7 @@ diagram:
     sustaining Mantra Bio as an exciting, innovative and friendly place of
     work. 
 
+
     Click each bubble to learn more. 
   value1:
     heading: Seek Truth Wisely
