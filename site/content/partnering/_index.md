@@ -17,21 +17,21 @@ intro:
     core partnerships to accelerate their development and enable their
     commercialization.
 items:
+  - heading: Research collaborations
+    image: /img/icon-collaboration.png
+    text: >-
+      Curabitur nulla metus, tincidunt ac faucibus nec, aliquam vel mi. Sed
+      convallis metus nec urna laoreet.
   - heading: REVEAL Platform & Technology access
-    image: /img/icon-placeholder.svg
+    image: /img/icon-access.png
     text: >-
       Curabitur hendrerit libero scelerisque orci mollis, at mollis quam
       molestie. Etiam ut orci eget nunc accumsan.
   - heading: Co-development opportunities
-    image: /img/icon-placeholder.svg
+    image: /img/icon-handshake.png
     text: >-
       Sed ac tortor lacinia, aliquam magna eget, hendrerit arcu. Etiam non
       aliquet diam. Nunc fringilla lacinia auctor.
-  - heading: Research collaborations
-    image: /img/icon-placeholder.svg
-    text: >-
-      Curabitur nulla metus, tincidunt ac faucibus nec, aliquam vel mi. Sed
-      convallis metus nec urna laoreet.
 after:
   heading: Who you are
   image: /img/partnering-2.jpg
