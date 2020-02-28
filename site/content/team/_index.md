@@ -9,9 +9,9 @@ employees:
       vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
       non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
       lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    name: Alex Mok
-    title: CEO & Co-founder
-    image: /img/portraits/mantrabio-6501.jpg
+    name: Pranali Deshpande
+    title: Employee
+    image: /img/portraits/mantrabio-6528.jpg
   - bio: >
       Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
       Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
@@ -27,72 +27,21 @@ employees:
       vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
       non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
       lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    name: Katie Planey
-    title: CTO & Co-founder
-    image: /img/portraits/mantrabio-6605.jpg
-  - bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
-      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
-      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
-      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
-      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    name: Mitch Gordon
-    title: Business Ops. Associate
-    image: /img/portraits/mantrabio-6717.jpg
-  - bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
-      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
-      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
-      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
-      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    name: Pranali Deshpande
-    title: Employee
-    image: /img/portraits/mantrabio-6528.jpg
-  - bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
-      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
-      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
-      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
-      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    name: Raeline Valbuena
-    title: Employee
-    image: /img/portraits/mantrabio-6561.jpg
-  - bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
-      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
-      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
-      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
-      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    name: Zach Swinney
-    title: Employee
-    image: /img/portraits/mantrabio-6440.jpg
-  - bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
-      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
-      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
-      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
-      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
     name: Daniel Goodman
     title: Employee
     image: /img/portraits/mantrabio-6741.jpg
-  - bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
-      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
-      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
-      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
-      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    name: Linda Szabo
-    title: Employee
-    image: /img/portraits/mantrabio-6805.jpg
-  - bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
-      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
-      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
-      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
-      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    name: Ishai Padawer
-    title: Employee
-    image: /img/portraits/mantrabio-6792.jpg
+  - bio: >-
+      At Mantra, Mitch handles all things operational. From ordering to
+      recruiting, facilities management and business strategy projects, Mitch
+      ensures all the trains run on time. His past experiences include working
+      as a researcher for the SF Veterans Affairs Hospital, and instructing
+      microscopy classes at Merritt Community College. He earned his Bachelors
+      of Science in cell and molecular biology from UC Santa Cruz. Outside of
+      work you’ll find Mitch biking, baking, and backpacking- or racing
+      sailboats on the Bay.
+    name: Mitch Gordon
+    title: Business Ops. Associate
+    image: /img/portraits/mantrabio-6717.jpg
   - bio: >
       Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
       Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
@@ -117,9 +66,72 @@ employees:
       vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
       non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
       lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Alex Mok
+    title: CEO & Co-founder
+    image: /img/portraits/mantrabio-6501.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Ishai Padawer
+    title: Employee
+    image: /img/portraits/mantrabio-6792.jpg
+  - bio: >-
+      As a Co-founder and Mantra Bio’s CTO, Katie Planey leads indications
+      selection, patent portfolio development, data science and infrastructure
+      strategy. Prior to the founding of Mantra, Katie published a dissertation
+      in the journal of Genome Medicine on robust network-based omics
+      unsupervised learning methods highlighted as Editor's choice by Science
+      Translational Medicine. She also led a winning team in an informatics
+      healthcare business case study challenge sponsored by J&J with a $20,000
+      prize and is an alumnus of the Springboard Entrepreneurship Biotech
+      Program. Katie earned a B.S. in Biomedical Engineering from Yale (where
+      she played 4 years of Division I women's rugby), and both an MBA and PhD
+      in Biomedical Informatics from Stanford. Outside of her leadership role at
+      Mantra, Katie enjoys mentoring young graduates interested in data science
+      or business careers, connecting people in her network to help them find
+      fulfilling careers, high intensity exercise, and taking care of her cats.
+    name: Katie Planey
+    title: CTO & Co-founder
+    image: /img/portraits/mantrabio-6605.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
     name: Jacob Strelnikov
     title: Employee
     image: /img/portraits/mantrabio-6661.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Zach Swinney
+    title: Employee
+    image: /img/portraits/mantrabio-6440.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Linda Szabo
+    title: Employee
+    image: /img/portraits/mantrabio-6805.jpg
+  - bio: >
+      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
+      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
+      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
+      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
+      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+    name: Raeline Valbuena
+    title: Employee
+    image: /img/portraits/mantrabio-6561.jpg
 advisors:
   - affiliation: Advisor
     image: /img/fpo-box.png
