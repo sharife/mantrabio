@@ -19,19 +19,13 @@ intro:
 items:
   - heading: Research collaborations
     image: /img/icon-collaboration.png
-    text: >-
-      Curabitur nulla metus, tincidunt ac faucibus nec, aliquam vel mi. Sed
-      convallis metus nec urna laoreet.
+    text: .
   - heading: REVEAL Platform & Technology access
     image: /img/icon-access.png
-    text: >-
-      Curabitur hendrerit libero scelerisque orci mollis, at mollis quam
-      molestie. Etiam ut orci eget nunc accumsan.
+    text: .
   - heading: Co-development opportunities
     image: /img/icon-handshake.png
-    text: >-
-      Sed ac tortor lacinia, aliquam magna eget, hendrerit arcu. Etiam non
-      aliquet diam. Nunc fringilla lacinia auctor.
+    text: .
 after:
   heading: Who you are
   image: /img/partnering-2.jpg
