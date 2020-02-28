@@ -35,10 +35,9 @@ employees:
       recruiting, facilities management and business strategy projects, Mitch
       ensures all the trains run on time. His past experiences include working
       as a researcher for the SF Veterans Affairs Hospital, and instructing
-      microscopy classes at Merritt Community College. He earned his Bachelors
-      of Science in cell and molecular biology from UC Santa Cruz. Outside of
-      work you’ll find Mitch biking, baking, and backpacking- or racing
-      sailboats on the Bay.
+      microscopy classes at Merritt Community College. He earned his B.S. in
+      cell and molecular biology from UC Santa Cruz. Outside of work you’ll find
+      Mitch biking, baking, and backpacking- or racing sailboats on the Bay.
     name: Mitch Gordon
     title: Business Ops. Associate
     image: /img/portraits/mantrabio-6717.jpg
@@ -51,14 +50,20 @@ employees:
     name: Colin Gottlieb
     title: Employee
     image: /img/portraits/mantrabio-6485.jpg
-  - bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
-      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
-      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
-      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
-      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
-    name: Ginny Kang
-    title: Employee
+  - bio: >-
+      At Mantra Bio, Ginny leads EV research study efforts. From *in vitro*
+      potency, to *in vivo* biodistribution and efficacy studies, Ginny leads
+      study design, execution, supervising CROs and data analysis. An
+      accomplished scientist in her field, Ginny holds multiple biomedical
+      patents and awards. She has completed postdoctoral fellowships at UC
+      Berkeley, Lawrence Berkeley National Laboratory, and the Institute of
+      Atomic and Molecular Sciences in Taiwan. Ginny earned her B.S. in plant
+      pathology and microbiology from National Taiwan University, and her Ph.D.
+      in chemistry from the National Tsing-Hua University in Taiwan. In her free
+      time Ginny enjoys attending the opera, symphony, and other musical
+      performances.
+    name: 'Ginny Kang, Ph.D.'
+    title: Scientist
     image: /img/portraits/mantrabio-6693.jpg
   - bio: >
       Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
@@ -79,21 +84,21 @@ employees:
     title: Employee
     image: /img/portraits/mantrabio-6792.jpg
   - bio: >-
-      As a Co-founder and Mantra Bio’s CTO, Katie Planey leads indications
-      selection, patent portfolio development, data science and infrastructure
-      strategy. Prior to the founding of Mantra, Katie published a dissertation
-      in the journal of Genome Medicine on robust network-based omics
-      unsupervised learning methods highlighted as Editor's choice by Science
-      Translational Medicine. She also led a winning team in an informatics
-      healthcare business case study challenge sponsored by J&J with a $20,000
-      prize and is an alumnus of the Springboard Entrepreneurship Biotech
-      Program. Katie earned a B.S. in Biomedical Engineering from Yale (where
-      she played 4 years of Division I women's rugby), and both an MBA and PhD
-      in Biomedical Informatics from Stanford. Outside of her leadership role at
-      Mantra, Katie enjoys mentoring young graduates interested in data science
-      or business careers, connecting people in her network to help them find
-      fulfilling careers, high intensity exercise, and taking care of her cats.
-    name: Katie Planey
+      As Mantra Bio’s CTO, Katie Planey leads indications selection, patent
+      portfolio development, data science and infrastructure strategy. Prior to
+      the founding of Mantra, Katie published a dissertation in the journal of
+      Genome Medicine on robust network-based omics unsupervised learning
+      methods highlighted as Editor's choice by Science Translational Medicine.
+      She also led a winning team in an informatics healthcare business case
+      study challenge sponsored by J&J with a $20,000 prize and is an alumnus of
+      the Springboard Entrepreneurship Biotech Program. Katie earned a B.S. in
+      Biomedical Engineering from Yale (where she played 4 years of Division I
+      women's rugby), and both an M.B.A. and Ph.D. in Biomedical Informatics
+      from Stanford. Outside of her leadership role at Mantra, Katie enjoys
+      mentoring young graduates interested in data science or business careers,
+      connecting people in her network to help them find fulfilling careers,
+      high intensity exercise, and taking care of her cats.
+    name: 'Katie Planey, M.B.A, Ph.D.'
     title: CTO & Co-founder
     image: /img/portraits/mantrabio-6605.jpg
   - bio: >
