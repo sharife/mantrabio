@@ -19,13 +19,13 @@ intro:
 items:
   - heading: Research collaborations
     image: /img/icon-collaboration.png
-    text: .
+    text: Add a one liner description.
   - heading: REVEAL Platform & Technology access
     image: /img/icon-access.png
-    text: .
+    text: Add a one liner description.
   - heading: Co-development opportunities
     image: /img/icon-handshake.png
-    text: .
+    text: Add a one liner description.
 after:
   heading: Who you are
   image: /img/partnering-2.jpg
