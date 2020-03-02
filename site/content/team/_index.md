@@ -139,7 +139,7 @@ employees:
     image: /img/portraits/mantrabio-6561.jpg
 advisors:
   - affiliation: Advisor
-    image: /img/fpo-box.png
+    image: /portraits/mantrabio-6501.jpg
     link: 'https://mantrabio.netlify.com/team/'
     name: Steve Doberstein
   - affiliation: Advisor
