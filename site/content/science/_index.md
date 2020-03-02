@@ -1,12 +1,20 @@
 ---
 title: Our Science and Technology
-subtitle: Lorem ipsum dolor sit amet prius executor unum
+subtitle: ''
 image: /img/header-science.jpg
 intro:
   description: >-
-    Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed
-    convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan
-    bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor.
+    All cells, prokaryotes and eukaryotes, release extracellular vesicles and
+    exosomes as part of their normal physiology and during acquired
+    abnormalities. Depending on the cell of origin, exosomes can contain many
+    cell constituents, including DNA, RNA, lipids, metabolites, and cell-surface
+    proteins. Exosomes have been shown to drive inter-cellular communication by
+    binding to specific tissues and deploying their contents, thereby altering
+    biological function.
+
+
+    Mantra Bio is harnessing the natural exosome pathway to generate engineered
+    Targeted Exosome Vehicles (TEVs) through our REVEAL Platform.
   heading: What are exosomes?
   image: /img/illustration-exosomes.png
 approach:
@@ -16,8 +24,8 @@ approach:
     leveraging rational design and cutting-edge technology in computation,
     robotics, and bioengineering, Mantra Bio is building next-generation
     therapies that can solve some of the most intractable diseases.
-  before: 'A dry lab to wet lab loop for TEV design, testing, and iteration .'
-  heading: Our exosome engineering platform
+  before: 'A dry lab to wet lab loop for TEV design, testing, and iteration.'
+  heading: 'Our exosome engineering platform: REVEAL (TM)'
 part1:
   description: >-
     Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed
