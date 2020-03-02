@@ -8,24 +8,25 @@ before:
   text: >-
     We have a track record of working with top pharmaceutical corporations and
     leading academic institutions to foster valuable innovation. We are eager to
-    collaborate closely with partners to broaden the impact of our Exosome
-    Therapeutics platform across a diversity of disease areas.
+    collaborate closely with partners to broaden the impact of our REVEAL
+    Exosome Therapeutics platform across a diversity of disease areas.
 intro:
-  heading: Novel solutions for complex diseases
+  heading: Multiple Avenues to Collaborate
   text: >-
     We are dedicated to developing targeted exosome therapies and are seeking
     core partnerships to accelerate their development and enable their
-    commercialization.
+    commercialization. Contact us to discuss opportunities to work closely with
+    our team of world-class exosome scientists, engineers, and data scientists.
 items:
   - heading: Research collaborations
     image: /img/icon-collaboration.png
-    text: Add a one liner description.
+    text: Make optional/remove
   - heading: REVEAL Platform & Technology access
     image: /img/icon-access.png
-    text: Add a one liner description.
+    text: Make optional/remove
   - heading: Co-development opportunities
     image: /img/icon-handshake.png
-    text: Add a one liner description.
+    text: Make optional/remove
 after:
   heading: Who you are
   image: /img/partnering-2.jpg
