@@ -5,12 +5,13 @@ image: /img/cover-bg-alt.jpg
 overview:
   heading: Targeted Exosomes - a new paradigm for drug delivery
   image: /img/illustration-exosome-2.png
-  text: >-
+  text: >
     Exosomes are powerful nano-messengers that comprise nature’s cellular
     communication network. After decades of scientific discovery, exosomes are
     being harnessed to form a transformative class of biologics, exosome
     therapeutics, enabling unprecedented targeted delivery of therapeutic
-    payloads.
+    payloads. Importantly, exosome therapeutics have been shown to be safe in
+    many human trials.
 intro:
   heading: Exosome therapeutics powered by REVEAL
   text: >-
