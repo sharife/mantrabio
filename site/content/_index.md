@@ -3,39 +3,36 @@ title: 'We harness exosomes to deliver safe, highly targeted medicines.'
 subtitle: 'We harness exosomes to deliver safe, highly targeted medicines.'
 image: /img/cover-bg-alt.jpg
 overview:
-  heading: Targeted Exosomes - a new paradigm for drug delivery
+  heading: Targeted exosomes - a new paradigm for drug delivery
   image: /img/illustration-exosome-2.png
   text: >
     Exosomes are powerful nano-messengers that comprise nature’s cellular
     communication network. After decades of scientific discovery, exosomes are
-    being harnessed to form a transformative class of biologics, exosome
+    being harnessed to form a new class of biologics, exosome
     therapeutics, enabling unprecedented targeted delivery of therapeutic
-    payloads. Importantly, exosome therapeutics have been shown to be safe in
+    agents. Importantly, exosome therapeutics have been shown to be safe in
     many human trials.
 intro:
-  heading: Exosome therapeutics powered by REVEAL
+  heading: Exosome therapeutics powered by REVEAL™
   text: >-
-    Mantra Bio is the creator of REVEAL, an exosome engineering platform
+    Mantra Bio is the creator of REVEAL™, an exosome engineering platform
     combining computational biology and lab automation to generate targeted
     exosome vehicles (TEVs) for a broad set of therapeutic areas.
 items:
   - heading: Target discovery enabled by computational biology
     image: /img/icon-discovery.png
     text: >-
-      Novel targets are identified through data science and machine-learning
-      using Mantra Bio's proprietary database of human exosome-to-cell-to-tissue
-      OMICs data.
+      We identify novel targets using data science and machine-learning with our proprietary database of human exosome-to-cell-to-tissue OMICs data.
   - heading: 'Bioengineered, drug-loaded TEVs'
     image: /img/icon-tev.png
     text: >-
-      Best-in-class exosome engineering methods display targeting proteins on
-      the exosome surface to achieve tissue specificity and load TEVs with
-      therapeutic payloads such as proteins, nucleic acids, and small molecules
-      for potent delivery.
+      We use advanced exosome engineering methods to display targeting proteins on
+      the exosome surface for tissue specificity and to load TEVs with
+      therapeutic agents such as proteins, nucleic acids, and small molecules.
   - heading: Automated screening in living systems
     image: /img/icon-testing.png
     text: >-
-      TEV candidates are rapidly screened through cell-based assays and in vivo
+      We rapidly screen TEV candidates through cell-based assays and *in vivo*
       animal models to measure selectivity and efficacy.
 outro:
   link: /science
