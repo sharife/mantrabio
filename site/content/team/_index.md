@@ -21,14 +21,17 @@ employees:
     name: Terry Gaige
     title: VP of Automation & Co-founder
     image: /img/portraits/mantrabio-6575.jpg
-  - bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
-      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
-      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
-      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
-      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+  - bio: >-
+      Daniel is part of Mantra’s process sciences team working on upstream
+      bioprocess development.  He brings experience in fermentation sciences
+      from his time at Perfect Day Foods and Lawrence Berkeley National Lab in
+      the Advanced Biofuels and Bioproducts Process Development Unit. Daniel
+      holds Bachelor’s and Master’s of Science degrees in chemical engineering
+      from UC Daivs and UC Los Angeles respectively. Daniel is an active
+      promoter for STEM education and plays in a softball league in San
+      Francisco.
     name: Daniel Goodman
-    title: Employee
+    title: Research Associate
     image: /img/portraits/mantrabio-6741.jpg
   - bio: >-
       At Mantra, Mitch handles all things operational. From ordering to
@@ -110,14 +113,16 @@ employees:
     name: Jacob Strelnikov
     title: Employee
     image: /img/portraits/mantrabio-6661.jpg
-  - bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
-      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
-      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
-      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
-      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+  - bio: >-
+      Zachary is part of Mantra’s process sciences team working on downstream
+      process development. He brings an intimate knowledge of process sciences
+      from his time at Stemcentrx, and later AbbVie, where he developed antibody
+      drug conjugate therapeutics that went on to clinical trials. Zachary
+      earned B.S. degrees in both Microbiology and Molecular & Cellular biology
+      from Cal Poly San Luis Obispo. His passions outside of work include eating
+      food, exploring the mountains, and the Green Bay Packers.
     name: Zach Swinney
-    title: Employee
+    title: Research Associate
     image: /img/portraits/mantrabio-6440.jpg
   - bio: >
       Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
