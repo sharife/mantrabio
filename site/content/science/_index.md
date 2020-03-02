@@ -2,7 +2,7 @@
 title: Our Science and Technology
 subtitle: Lorem ipsum dolor sit amet prius executor unum
 image: /img/header-science.jpg
-first:
+intro:
   description: >-
     Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed
     convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan
@@ -18,14 +18,14 @@ approach:
     therapies that can solve some of the most intractable diseases.
   before: 'A dry lab to wet lab loop for TEV design, testing, and iteration .'
   heading: Our exosome engineering platform
-second:
+part1:
   description: >-
     Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed
     convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan
     bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor.
   heading: Scalable Manufacturing
   image: /img/fpo-box.png
-third:
+part2:
   description: >-
     Mantra Bio is developing a pipeline of exosome therapeutics in undisclosed
     disease areas. Stay tuned for exciting announcements.

@@ -57,7 +57,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: Title, name: title, widget: string}
           - {label: Subtitle, name: subtitle, widget: string, required: false}
           - {label: Image, name: image, widget: image}
-          - {label: "First", name: "first", widget: "object", fields: [
+          - {label: "Intro", name: "intro", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "description", widget: markdown}]}
@@ -65,11 +65,11 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: string},
               {label: "Above graphic", name: "before", widget: markdown},
               {label: "Below graphic", name: "after", widget: markdown, required: false}]}
-          - {label: "Second", name: "second", widget: "object", fields: [
+          - {label: "Highlight 1", name: "part1", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "description", widget: markdown}]}
-          - {label: "Third", name: "third", widget: "object", fields: [
+          - {label: "Highlight 2", name: "part2", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "description", widget: markdown},

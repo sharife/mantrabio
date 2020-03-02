@@ -4,7 +4,7 @@
 
 <div class="mw7 center ph3 fade-4">
 
-	{{ partial "media-block" (dict "imageUrl" .Params.first.image "heading" .Params.first.heading "text" .Params.first.description) }}
+	{{ partial "media-block" (dict "imageUrl" .Params.intro.image "heading" .Params.intro.heading "text" .Params.intro.description) }}
 
 
 	{{ with .Params.approach }}
@@ -23,9 +23,9 @@
 	</div>
 	{{ end }}
 
-	{{ partial "media-block-alt" (dict "imageUrl" .Params.second.image "heading" .Params.second.heading "text" .Params.second.description) }}
+	{{ partial "media-block-alt" (dict "imageUrl" .Params.part1.image "heading" .Params.part1.heading "text" .Params.part1.description) }}
 
-	{{ partial "media-block-reverse-alt" (dict "imageUrl" .Params.third.image "heading" .Params.third.heading "text" .Params.third.description "link" .Params.third.link "linklabel" .Params.third.linklabel) }}
+	{{ partial "media-block-reverse-alt" (dict "imageUrl" .Params.part2.image "heading" .Params.part2.heading "text" .Params.part2.description "link" .Params.part2.link "linklabel" .Params.part2.linklabel) }}
 
 
 	<!-- Full-width image -->
