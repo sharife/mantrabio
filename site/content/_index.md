@@ -20,20 +20,20 @@ intro:
     exosome vehicles (TEVs) for a broad set of therapeutic areas.
 items:
   - heading: Target discovery enabled by computational biology
-    image: /img/icon-placeholder.svg
+    image: /img/icon-discovery.png
     text: >-
       Novel targets are identified through data science and machine-learning
       using Mantra Bio's proprietary database of human exosome-to-cell-to-tissue
       OMICs data.
   - heading: 'Bioengineered, drug-loaded TEVs'
-    image: /img/icon-placeholder.svg
+    image: /img/icon-tev.png
     text: >-
       Best-in-class exosome engineering methods display targeting proteins on
       the exosome surface to achieve tissue specificity and load TEVs with
       therapeutic payloads such as proteins, nucleic acids, and small molecules
       for potent delivery.
   - heading: Automated screening in living systems
-    image: /img/icon-placeholder.svg
+    image: /img/icon-testing.png
     text: >-
       TEV candidates are rapidly screened through cell-based assays and in vivo
       animal models to measure selectivity and efficacy.
