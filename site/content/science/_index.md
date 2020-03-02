@@ -12,10 +12,9 @@ intro:
     binding to specific tissues and deploying their contents, thereby altering
     biological function.
 
-     
 
-    Mantra Bio is harnessing the natural exosome pathway to generate engineered
-    Targeted Exosome Vehicles (TEVs) through our REVEAL Platform.
+    <br>Mantra Bio is harnessing the natural exosome pathway to generate
+    engineered Targeted Exosome Vehicles (TEVs) through our REVEAL Platform.
   heading: What are exosomes?
   image: /img/illustration-exosomes.png
 approach:
