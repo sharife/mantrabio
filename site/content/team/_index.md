@@ -141,15 +141,27 @@ advisors:
   - affiliation: Advisor
     image: /img/fpo-box.png
     link: 'https://mantrabio.netlify.com/team/'
-    name: Firstname Last
+    name: Steve Doberstein
   - affiliation: Advisor
     image: /img/fpo-box.png
     link: 'https://mantrabio.netlify.com/team/'
-    name: Firstname Last
+    name: Hari Kumar
   - affiliation: Advisor
     image: /img/fpo-box.png
     link: 'https://mantrabio.netlify.com/team/'
-    name: Firstname Last
+    name: Andrew Perlman
+  - affiliation: Advisor
+    image: /img/fpo-box.png
+    link: 'https://mantrabio.netlify.com/team/'
+    name: Chirag Patel
+  - affiliation: Advisor
+    image: /img/fpo-box.png
+    link: 'https://mantrabio.netlify.com/team/'
+    name: Sam Saks
+  - affiliation: Advisor
+    image: /img/fpo-box.png
+    link: 'https://mantrabio.netlify.com/team/'
+    name: Joanne Weidhaas
 investors:
   - image: /img/fpo-box.png
   - image: /img/fpo-box.png
