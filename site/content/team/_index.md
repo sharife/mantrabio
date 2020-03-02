@@ -3,14 +3,16 @@ title: We are Mantra Bio
 subtitle: ''
 image: /img/header-team.jpg
 employees:
-  - bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
-      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
-      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
-      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
-      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+  - bio: >-
+      As part of the Preclinical R&D team, Pranali leads the efforts behind
+      payload packaging strategies and analytical characterization methods. Her
+      wide range of experiences include working as a research scientist in R&D
+      groups at large and small pharmaceutical and biotechnology companies in
+      the Bay Area. After completing a Bachelor’s of Pharmacy in India, Pranali
+      earned a Master’s degree followed by a Ph.D. in Pharmaceutical Sciences
+      and Drug Delivery from Northeastern University in Boston.
     name: Pranali Deshpande
-    title: Employee
+    title: Scientist
     image: /img/portraits/mantrabio-6528.jpg
   - bio: >
       Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
