@@ -32,10 +32,7 @@ part1:
     quantity necessary for the clinic. From the company’s inception, we have
     invested significant resources to bring together novel and traditional
     biologics manufacturing technologies to produce exosomes reproducibly at a
-    high yield and high purity. Our manufacturing process is scale-up compatible
-    up to 2,000L.
-
-
+    high purity. Our manufacturing process is scale-up compatible up to 2,000L.
 
 
     We take pride in developing state-of-the-art exosome characterization
