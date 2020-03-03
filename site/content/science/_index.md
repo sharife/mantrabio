@@ -25,7 +25,7 @@ approach:
     robotics, and bioengineering, Mantra Bio is building next-generation
     therapies that can solve some of the most intractable diseases.
   before: 'A dry lab to wet lab loop for TEV design, testing, and iteration.'
-  heading: 'Our exosome engineering platform: REVEAL (TM)'
+  heading: 'Our exosome engineering platform: REVEAL™'
 part1:
   description: >-
     Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed
