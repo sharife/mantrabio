@@ -20,13 +20,18 @@ intro:
 items:
   - heading: Research collaborations
     image: /img/icon-collaboration.png
-    text: Make optional/remove
+    text: >-
+      Collaborate with Mantra to explore how REVEAL can make an impact on your
+      drug development pipeline.
   - heading: REVEAL Platform & Technology access
     image: /img/icon-access.png
-    text: Make optional/remove
+    text: >-
+      Engage in licensing opportunities of Mantra Bio's patented library of
+      Targeted Exosome Vehicles (TEVs) for drug delivery towards specific
+      targets.
   - heading: Co-development opportunities
     image: /img/icon-handshake.png
-    text: Make optional/remove
+    text: Co-develop with Mantra Bio to bring best-in-class medicines to patients.
 after:
   heading: Who you are
   image: /img/partnering-2.jpg
