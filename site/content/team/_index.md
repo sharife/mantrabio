@@ -173,5 +173,8 @@ investors:
   - image: /img/fpo-box.png
   - image: /img/fpo-box.png
   - image: /img/fpo-box.png
+  - image: /img/fpo-box.png
+  - image: /img/fpo-box.png
+  - image: /img/boxgroup-logo.png
 ---
 
