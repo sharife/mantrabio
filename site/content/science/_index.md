@@ -4,13 +4,12 @@ subtitle: ''
 image: /img/header-science.jpg
 intro:
   description: >-
-    All cells, prokaryotes and eukaryotes, release extracellular vesicles and
-    exosomes as part of their normal physiology and during acquired
-    abnormalities. Depending on the cell of origin, exosomes can contain many
-    cell constituents, including DNA, RNA, lipids, metabolites, and cell-surface
-    proteins. Exosomes have been shown to drive inter-cellular communication by
-    binding to specific tissues and deploying their contents, thereby altering
-    biological function.
+    All cells release extracellular vesicles and exosomes as part of their
+    normal physiology and during acquired abnormalities. Depending on the cell
+    of origin, exosomes can contain many cell constituents, including DNA, RNA,
+    lipids, metabolites, and cell-surface proteins. Exosomes have been shown to
+    drive inter-cellular communication by binding to specific tissues and
+    deploying their contents, thereby altering biological function.
 
 
     Mantra Bio is harnessing the natural exosome pathway to generate engineered
@@ -28,9 +27,20 @@ approach:
   heading: 'Our exosome engineering platform: REVEAL™'
 part1:
   description: >-
-    Donec vel ante eu nulla mollis finibus. Cras dapibus malesuada feugiat. Sed
-    convallis metus nec urna laoreet vulputate. Etiam ut orci eget nunc accumsan
-    bibendum ac vel quam. Etiam non aliquet diam. Nunc fringilla lacinia auctor.
+    A key pillar at Mantra Bio is the development of a robust, scalable
+    bioprocess capable of meeting the rigorous standards of product quality and
+    quantity necessary for the clinic. From the company’s inception, we have
+    invested significant resources to bring together novel and traditional
+    biologics manufacturing technologies to produce exosomes reproducibly at a
+    high yield and high purity. Our manufacturing process is scale-up compatible
+    up to 2,000L.
+
+
+
+
+    We take pride in developing state-of-the-art exosome characterization
+    technologies to deepen our understanding of our exosome products and to
+    ensure safety and potency of every formulation.
   heading: Scalable Manufacturing
   image: /img/fpo-box.png
 part2:
