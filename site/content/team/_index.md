@@ -146,12 +146,12 @@ employees:
     image: /img/portraits/mantrabio-6561.jpg
 advisors:
   - affiliation: Advisor
-    image: /img/fpo-box.png
-    link: 'https://mantrabio.netlify.com/team/'
+    image: /img/doberstein_steve-2019-009.jpg
+    link: 'https://www.linkedin.com/in/steve-doberstein-41b0171/'
     name: Steve Doberstein
   - affiliation: Advisor
-    image: /img/fpo-box.png
-    link: 'https://mantrabio.netlify.com/team/'
+    image: /img/img_1888.jpg
+    link: 'https://www.linkedin.com/in/hari-kumar-a305027/'
     name: Hari Kumar
   - affiliation: Advisor
     image: /img/fpo-box.png
