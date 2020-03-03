@@ -170,7 +170,7 @@ advisors:
     link: 'https://mantrabio.netlify.com/team/'
     name: Joanne Weidhaas
 investors:
-  - image: /img/fpo-box.png
+  - image: /img/8vc-logo-white.png
   - image: /img/fpo-box.png
   - image: /img/fpo-box.png
   - image: /img/fpo-box.png
