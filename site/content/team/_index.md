@@ -14,12 +14,21 @@ employees:
     name: Pranali Deshpande
     title: Scientist
     image: /img/portraits/mantrabio-6528.jpg
-  - bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
-      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
-      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
-      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
-      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+  - bio: >-
+      Terry is in charge of building Mantra Bio’s internal technological
+      capabilities to engineer and evaluate exosomes as a therapeutic modality.
+      Through his career, he has consistently worked at the intersection of
+      instrumentation and biology with the overarching goal of enabling and
+      increasing the efficiency and effectiveness of biology research. In past
+      experience, as design lead, Terry brought multiple products to market
+      which went on to win innovation awards including *R&D 100*, *The Scientist
+      New Product Award*, and the *Lab Automation New Product Award*. He holds a
+      B.S. and M.S. in mechanical engineering (and a minor in music) from
+      Massachusetts Institute of Technology where he studied the field of
+      magnetic resonance imaging to visualize complex tissue architecture.
+      Outside of work Terry can be found sailing, hiking, or playing chamber
+      music with his friends (an event his his two year old son calls
+      “hoedowns”).
     name: Terry Gaige
     title: VP of Automation & Co-founder
     image: /img/portraits/mantrabio-6575.jpg
