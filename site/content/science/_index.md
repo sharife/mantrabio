@@ -46,7 +46,5 @@ part2:
     disease areas. Stay tuned for exciting announcements.
   heading: Therapeutic applications
   image: /img/science-closeup.jpg
-  link: /partnering
-  linklabel: partnering
 ---
 

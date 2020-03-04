@@ -8,7 +8,7 @@ before:
   text: >-
     We have a track record of working with top pharmaceutical corporations and
     leading academic institutions to foster valuable innovation. We are eager to
-    collaborate closely with partners to broaden the impact of our REVEAL
+    collaborate closely with partners to broaden the impact of our REVEAL™
     Exosome Therapeutics platform across a diversity of disease areas.
 intro:
   heading: Multiple Avenues to Collaborate
@@ -23,7 +23,7 @@ items:
     text: >-
       Collaborate with Mantra to explore how REVEAL can make an impact on your
       drug development pipeline.
-  - heading: REVEAL Platform & Technology access
+  - heading: REVEAL™ Platform & Technology access
     image: /img/icon-access.png
     text: >-
       Engage in licensing opportunities of Mantra Bio's patented library of

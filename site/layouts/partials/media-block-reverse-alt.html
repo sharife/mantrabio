@@ -2,7 +2,7 @@
 
   <div class="ph3-m w-50-ns order-last-ns white mt4">
     <h3 class="f3 b lh-title mb1">{{.heading}}</h3>
-    <p>{{.text}}</p>
+    <p>{{.text | markdownify}}</p>
     {{ if .link }}
     <div class="mb3">
       <div class="tc f6 b module-border-wrap">
