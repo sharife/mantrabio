@@ -73,8 +73,8 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Heading", name: "heading", widget: string},
               {label: "Image", name: "image", widget: "image"},
               {label: "Text", name: "description", widget: markdown},
-              {label: "Button link", name: "link", widget: "string"},
-              {label: "Button label", name: "linklabel", widget: "string"}]}
+              {label: "Button link", name: "link", widget: "string", required: false},
+              {label: "Button label", name: "linklabel", widget: "string", required: false}]}
       - file: "site/content/partnering/_index.md"
         label: "Partnering Page"
         name: "partnering"
