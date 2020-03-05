@@ -15,7 +15,7 @@ intro:
     Mantra Bio is harnessing the natural exosome pathway to generate engineered
     Targeted Exosome Vehicles (TEVs) through our REVEAL™ Platform.
   heading: What are exosomes?
-  image: /img/illustration-exosomes.png
+  image: /img/illustration-exosome-3.png
 approach:
   after: >-
     At the heart of REVEAL™ lies a powerful dry lab-to-wet lab interface that
@@ -39,7 +39,7 @@ part1:
     technologies to deepen our understanding of our exosome products and to
     ensure safety and potency of every formulation.
   heading: Scalable Manufacturing
-  image: /img/fpo-box.png
+  image: /img/science-mfg.jpg
 part2:
   description: >-
     Mantra Bio is developing a pipeline of exosome therapeutics in undisclosed
