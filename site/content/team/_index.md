@@ -120,7 +120,7 @@ employees:
       enjoys mentoring young graduates interested in data science or business
       careers, connecting people in her network to help them find fulfilling
       careers, high intensity exercise, and taking care of her cats.
-    name: 'Katie Planey, M.B.A, Ph.D.'
+    name: 'Katie Planey, M.B.A., Ph.D.'
     title: CTO & Co-founder
     image: /img/portraits/mantrabio-6605.jpg
   - bio: >-
