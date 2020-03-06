@@ -40,7 +40,7 @@ employees:
       holds B.S. and M.S.  degrees in Chemical Engineering from UC Davis and UC
       Los Angeles respectively. Daniel is an active promoter for STEM education
       and plays in a softball league in San Francisco.
-    name: Daniel Goodman
+    name: 'Daniel Goodman, M.S.'
     title: Research Associate
     image: /img/portraits/mantrabio-6741.jpg
   - bio: >-
@@ -189,10 +189,6 @@ advisors:
     image: /img/fpo-box.png
     link: 'https://mantrabio.netlify.com/team/'
     name: Andrew Perlman
-  - affiliation: Advisor
-    image: /img/fpo-box.png
-    link: 'https://mantrabio.netlify.com/team/'
-    name: Chirag Patel
   - affiliation: Advisor
     image: /img/fpo-box.png
     link: 'https://mantrabio.netlify.com/team/'
