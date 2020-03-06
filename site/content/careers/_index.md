@@ -16,8 +16,8 @@ diagram:
   imageUrl: /img/values-diagram.svg
   text: >-
     Mantra Bio is founded on seven value pillars that we put into daily practice
-    and core to how we wish to show up in the world. These pillars are key to
-    sustaining Mantra Bio as an exciting, innovative and friendly place of
+    and are core to how we wish to show up in the world. These pillars are key
+    to sustaining Mantra Bio as an exciting, innovative, and friendly place of
     work.  
       
     Click each bubble to learn more. 
