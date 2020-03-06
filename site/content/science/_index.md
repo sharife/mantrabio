@@ -31,7 +31,7 @@ part1:
     bioprocess capable of meeting the rigorous standards of product quality and
     quantity necessary for the clinic. From the company’s inception, we have
     invested significant resources to bring together novel and traditional
-    biologics manufacturing technologies to produce exosomes reproducibly at a
+    biologics manufacturing technologies to produce exosomes reproducibly, at a
     high purity. Our manufacturing process is scale-up compatible up to 2,000L.
 
 
