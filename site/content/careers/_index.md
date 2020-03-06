@@ -16,8 +16,8 @@ diagram:
   imageUrl: /img/values-diagram.svg
   text: >-
     Mantra Bio is founded on seven value pillars that we put into daily practice
-    and core to how we wish to show up in the world. These pillars are key to
-    sustaining Mantra Bio as an exciting, innovative and friendly place of
+    and are core to how we wish to show up in the world. These pillars are key
+    to sustaining Mantra Bio as an exciting, innovative, and friendly place of
     work.  
       
     Click each bubble to learn more. 
@@ -31,7 +31,7 @@ diagram:
   value2:
     heading: Pursue Excellence
     text: >-
-      “Work hard while having strong ethics and integrity” - We do what is
+      “Work hard and maintain strong ethics and integrity” - We do what is
       necessary to achieve our objectives of innovation, while upholding
       integrity and making ethical decisions.
   value3:
@@ -40,13 +40,13 @@ diagram:
       “Celebrate individual talents and efforts” - Celebrate all milestones, at
       work and in personal lives. Frequent kudos, team off-sites, happy hours,
       and other events are just some of the ways we say thanks and spread
-      appreciation for the hard work of our team.
+      appreciation for the hard work of every individual on our team.
   value4:
     heading: Move together with compassion
     text: >-
       “We will go farther and do it better, if we do it together” - We commit to
-      our decisions together and through differences in perspectives and
-      opinions.  The only way we succeed is as a team.
+      our decisions together- through differences in perspectives and opinions. 
+      The only way we succeed is as a team.
   value5:
     heading: Communicate with Candor and Clarity
     text: >-
@@ -64,6 +64,6 @@ diagram:
     text: >-
       “Encourage Inquiry” - All learning is good. Curiosity and a respect for
       each other's novel ideas allow us to learn quickly and move faster towards
-      having an impact.
+      making an impact.
 ---
 
