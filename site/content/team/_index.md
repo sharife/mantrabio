@@ -192,10 +192,6 @@ advisors:
   - affiliation: Advisor
     image: /img/fpo-box.png
     link: 'https://mantrabio.netlify.com/team/'
-    name: Chirag Patel
-  - affiliation: Advisor
-    image: /img/fpo-box.png
-    link: 'https://mantrabio.netlify.com/team/'
     name: Sam Saks
   - affiliation: Advisor
     image: /img/fpo-box.png
