@@ -11,7 +11,7 @@ employees:
       the Bay Area. After completing a Bachelor’s of Pharmacy in India, Pranali
       earned a Master’s degree followed by a Ph.D. in Pharmaceutical Sciences
       and Drug Delivery from Northeastern University in Boston.
-    name: Pranali Deshpande
+    name: 'Pranali Deshpande, Ph.D.'
     title: Scientist
     image: /img/portraits/mantrabio-6528.jpg
   - bio: >-
@@ -29,7 +29,7 @@ employees:
       Outside of work Terry can be found sailing, hiking, or playing chamber
       music with his friends (an event his his two year old son calls
       “hoedowns”).
-    name: Terry Gaige
+    name: 'Terry Gaige, M.S.'
     title: VP of Automation & Co-founder
     image: /img/portraits/mantrabio-6575.jpg
   - bio: >-
@@ -67,7 +67,7 @@ employees:
       Stanford University.  Outside of work Colin is passionate about public
       policy activism, getting outside, and spending time with animals of all
       kinds (particularly dogs).
-    name: Colin Gottlieb
+    name: 'Colin Gottlieb, Ph.D.'
     title: Scientist
     image: /img/portraits/mantrabio-6485.jpg
   - bio: >-
@@ -102,7 +102,7 @@ employees:
       Stemcentrx/Abbvie. Ishai holds B.S. and M.S. degrees in Chemical
       Engineering from Drexel University. Ishai enjoys spending time with his
       family, playing guitar, and traveling.
-    name: Ishai Padawer
+    name: 'Ishai Padawer, M.S.'
     title: Director of Process Sciences
     image: /img/portraits/mantrabio-6792.jpg
   - bio: >-
@@ -161,7 +161,7 @@ employees:
       from SF State in Cell and Molecular Biology. Between making sure the dog
       gets enough exercise and the kids get enough sleep, Linda enjoys rock
       climbing, ice hockey, and running.
-    name: Linda Szabo
+    name: 'Linda Szabo, M.S., Ph.D.'
     title: Lead Data Scientist
     image: /img/portraits/mantrabio-6805.jpg
   - bio: >-
