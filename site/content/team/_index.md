@@ -202,7 +202,7 @@ investors:
   - image: /img/fpo-box.png
   - image: /img/fpo-box.png
   - image: /img/fpo-box.png
-  - image: /img/fpo-box.png
+  - image: /img/tencent-logo-black-.png
   - image: /img/boxgroup-logo.png
 ---
 
