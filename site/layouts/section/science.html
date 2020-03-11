@@ -23,9 +23,9 @@
 	</div>
 	{{ end }}
 
-	{{ partial "media-block-alt" (dict "imageUrl" .Params.part1.image "heading" .Params.part1.heading "text" .Params.part1.description) }}
+	{{ partial "media-block-reverse-alt" (dict "imageUrl" .Params.part1.image "heading" .Params.part1.heading "text" .Params.part1.description) }}
 
-	{{ partial "media-block-reverse-alt" (dict "imageUrl" .Params.part2.image "heading" .Params.part2.heading "text" .Params.part2.description "link" .Params.part2.link "linklabel" .Params.part2.linklabel) }}
+	{{ partial "media-block-alt" (dict "imageUrl" .Params.part2.image "heading" .Params.part2.heading "text" .Params.part2.description "link" .Params.part2.link "linklabel" .Params.part2.linklabel) }}
 
 
 	<!-- Full-width image -->
