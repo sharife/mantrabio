@@ -85,12 +85,12 @@ employees:
     name: 'Ginny Kang, Ph.D.'
     title: Scientist
     image: /img/portraits/mantrabio-6693.jpg
-  - bio: >
-      Morbi fermentum id ex ut pretium. Donec vel ante eu nulla mollis finibus.
-      Cras dapibus malesuada feugiat. Sed convallis metus nec urna laoreet
-      vulputate. Etiam ut orci eget nunc accumsan bibendum ac vel quam. Etiam
-      non aliquet diam. Nunc fringilla lacinia auctor. Pellentesque suscipit in
-      lacus vel dictum. Etiam id arcu ac ipsum pharetra pellentesque.
+  - bio: >-
+      Alexis an entrepreneur with over a decade’s experience in building life
+      science businesses. Alex was Head of Commercialization at CellASIC
+      (acquired by Merck KgAA), a UC Berkeley spin-out based on microfluidic
+      organ-on-chip technology. Alex has also held senior product management and
+      director level strategy positions within multiple life science companies.
     name: Alex Mok
     title: CEO & Co-founder
     image: /img/portraits/mantrabio-6501.jpg
@@ -180,23 +180,19 @@ advisors:
   - affiliation: Advisor
     image: /img/doberstein_steve-2019-009.jpg
     link: 'https://www.linkedin.com/in/steve-doberstein-41b0171/'
-    name: Steve Doberstein
+    name: 'Steve Doberstein, Ph.D.'
   - affiliation: Advisor
     image: /img/img_1888.jpg
     link: 'https://www.linkedin.com/in/hari-kumar-a305027/'
-    name: Hari Kumar
+    name: 'Hari Kumar, Ph.D.'
   - affiliation: Advisor
-    image: /img/fpo-box.png
+    image: /img/andy-crop-headshot.jpg
     link: 'https://mantrabio.netlify.com/team/'
     name: Andrew Perlman
   - affiliation: Advisor
-    image: /img/fpo-box.png
+    image: /img/saks.jpg
     link: 'https://mantrabio.netlify.com/team/'
-    name: Sam Saks
-  - affiliation: Advisor
-    image: /img/fpo-box.png
-    link: 'https://mantrabio.netlify.com/team/'
-    name: Joanne Weidhaas
+    name: 'Sam Saks, M.D.'
 investors:
   - image: /img/8vc-logo-white.png
   - image: /img/fpo-box.png
