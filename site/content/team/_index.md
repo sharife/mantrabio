@@ -180,19 +180,19 @@ advisors:
   - affiliation: Advisor
     image: /img/doberstein_steve-2019-009.jpg
     link: 'https://www.linkedin.com/in/steve-doberstein-41b0171/'
-    name: Steve Doberstein
+    name: 'Steve Doberstein, Ph.D.'
   - affiliation: Advisor
     image: /img/img_1888.jpg
     link: 'https://www.linkedin.com/in/hari-kumar-a305027/'
-    name: Hari Kumar
+    name: 'Hari Kumar, Ph.D.'
   - affiliation: Advisor
     image: /img/fpo-box.png
     link: 'https://mantrabio.netlify.com/team/'
     name: Andrew Perlman
   - affiliation: Advisor
-    image: /img/fpo-box.png
+    image: /img/saks.jpg
     link: 'https://mantrabio.netlify.com/team/'
-    name: Sam Saks
+    name: 'Sam Saks, M.D.'
 investors:
   - image: /img/8vc-logo-white.png
   - image: /img/fpo-box.png
