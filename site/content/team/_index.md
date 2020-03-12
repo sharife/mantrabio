@@ -186,7 +186,7 @@ advisors:
     link: 'https://www.linkedin.com/in/hari-kumar-a305027/'
     name: 'Hari Kumar, Ph.D.'
   - affiliation: Advisor
-    image: /img/fpo-box.png
+    image: /img/andy-crop-headshot.jpg
     link: 'https://mantrabio.netlify.com/team/'
     name: Andrew Perlman
   - affiliation: Advisor
