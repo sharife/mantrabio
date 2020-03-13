@@ -187,8 +187,8 @@ advisors:
     name: 'Hari Kumar, Ph.D.'
   - affiliation: Advisor
     image: /img/andy-crop-headshot.jpg
-    link: 'https://mantrabio.netlify.com/team/'
-    name: Andrew Perlman
+    link: 'https://www.vpd.net/management_team/Perlman.html'
+    name: 'Andrew Perlman, M.D., Ph.D.'
   - affiliation: Advisor
     image: /img/saks.jpg
     link: 'https://mantrabio.netlify.com/team/'
