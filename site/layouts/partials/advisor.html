@@ -1,4 +1,4 @@
-<a href="{{.link}}" class="no-underline pa3 white br1 mb2 db raise w-100">
+<a href="team/#open-modal-{{.name}}"  class="no-underline pa3 white br1 mb2 db raise w-100">
 	<div class="flex flex-wrap">
 		<div class="pr3 w-40">
 			<img src="{{.image}}" class="w-100 mb2" />
@@ -9,3 +9,22 @@
 		</div>
 	</div>
 </a>
+
+
+<div id="open-modal-{{.name}}" class="modal-window">
+	<a class="cancel" href="team/#!"></a>
+	<div>
+	  <a href="team/#!" title="Close" class="modal-close"><img src="/img/close-button.svg" alt="close" class="w-40 mt2 ml3"></a>
+	  <div>
+	    {{ if .image }}
+	      <img src="{{.image}}" alt="" class="db mb1 mr3 w-20 br0" align="left">
+	    {{ end }}
+	    <p class="f5 b mb0">{{.name}}</p>
+	    <p class="mb0 small mb2">{{ .affiliation }}</p>
+	    <p class="cms small mb2">{{.bio | markdownify}}</p>
+	    {{ if .link }}
+	    <a href="{{.link}}" target="_blank"><img src="/img/icon-linkedin.png" style="max-width:26px;" class="img raise" /></a>
+	    {{ end }}
+	  </div>
+	</div>
+</div>

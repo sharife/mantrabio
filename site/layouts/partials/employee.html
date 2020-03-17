@@ -10,11 +10,14 @@
 	  <a href="team/#!" title="Close" class="modal-close"><img src="/img/close-button.svg" alt="close" class="w-40 mt2 ml3"></a>
 	  <div>
 	    {{ if .image }}
-	      <img src="{{.image}}" alt="" class="db mb1 mr3 w-40" align="left">
+	      <img src="{{.image}}" alt="" class="db mb1 mr3 w-40 br0" align="left">
 	    {{ end }}
 	    <p class="f5 b mb0">{{.name}}</p>
 	    <p class="mb0 small mb2">{{ .title }}</p>
-	    <p class="cms small mb1">{{.bio | markdownify}}</p>
+	    <p class="cms small mb2">{{.bio | markdownify}}</p>
+	    {{ if .link }}
+	    <a href="{{.link}}" target="_blank"><img src="/img/icon-linkedin.png" style="max-width:26px;" class="img raise" /></a>
+	    {{ end }}
 	  </div>
 	</div>
 </div>

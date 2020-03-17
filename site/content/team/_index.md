@@ -13,6 +13,7 @@ employees:
       and Drug Delivery from Northeastern University in Boston.
     name: 'Pranali Deshpande, Ph.D.'
     title: Scientist
+    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6528.jpg
   - bio: >-
       Terry is in charge of building Mantra Bio’s internal technological
@@ -31,6 +32,7 @@ employees:
       “hoedowns”).
     name: 'Terry Gaige, M.S.'
     title: VP of Automation & Co-founder
+    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6575.jpg
   - bio: >-
       Daniel is part of Mantra’s process sciences team working on upstream
@@ -42,6 +44,7 @@ employees:
       and plays in a softball league in San Francisco.
     name: 'Daniel Goodman, M.S.'
     title: Research Associate
+    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6741.jpg
   - bio: >-
       At Mantra, Mitch handles all things operational. From ordering to
@@ -54,6 +57,7 @@ employees:
       backpacking- or racing sailboats on the Bay.
     name: Mitch Gordon
     title: Business Ops. Associate
+    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6717.jpg
   - bio: >-
       As Mantra’s protein engineer, Colin leads the efforts behind cell line
@@ -69,6 +73,7 @@ employees:
       kinds (particularly dogs).
     name: 'Colin Gottlieb, Ph.D.'
     title: Scientist
+    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6485.jpg
   - bio: >-
       At Mantra Bio, Ginny leads preclinical research study efforts. From *in
@@ -84,6 +89,7 @@ employees:
       performances.
     name: 'Ginny Kang, Ph.D.'
     title: Scientist
+    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6693.jpg
   - bio: >-
       Alexis an entrepreneur with over a decade’s experience in building life
@@ -93,6 +99,7 @@ employees:
       director level strategy positions within multiple life science companies.
     name: Alex Mok
     title: CEO & Co-founder
+    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6501.jpg
   - bio: >-
       As Mantra Bio’s Director of Process Science, Ishai leads upstream and
@@ -104,6 +111,7 @@ employees:
       family, playing guitar, and traveling.
     name: 'Ishai Padawer, M.S.'
     title: Director of Process Sciences
+    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6792.jpg
   - bio: >-
       As Mantra Bio’s CTO, Katie Planey leads indications selection, patent
@@ -122,6 +130,7 @@ employees:
       careers, high intensity exercise, and taking care of her cats.
     name: 'Katie Planey, M.B.A., Ph.D.'
     title: CTO & Co-founder
+    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6605.jpg
   - bio: >-
       Jacob is part of Mantra Bio’s Process Sciences team where he handles assay
@@ -133,6 +142,7 @@ employees:
       friends, reading, and hiking.
     name: Jacob Strelnikov
     title: Research Associate
+    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6661.jpg
   - bio: >-
       Zachary is part of Mantra’s process sciences team working on downstream
@@ -144,6 +154,7 @@ employees:
       food, exploring the mountains, and the Green Bay Packers.
     name: Zachary Swinney
     title: Research Associate
+    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6440.jpg
   - bio: >-
       Linda brings a deep expertise in developing statistical models and
@@ -163,6 +174,7 @@ employees:
       climbing, ice hockey, and running.
     name: 'Linda Szabo, M.S., Ph.D.'
     title: Lead Data Scientist
+    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6805.jpg
   - bio: >-
       Raeline is part of Mantra Bio’s preclinical development team where she
@@ -175,24 +187,29 @@ employees:
       to read your horoscope.
     name: Raeline Valbuena
     title: Research Associate
+    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6561.jpg
 advisors:
   - affiliation: Advisor
     image: /img/doberstein_steve-2019-009.jpg
     link: 'https://www.linkedin.com/in/steve-doberstein-41b0171/'
     name: 'Steve Doberstein, Ph.D.'
+    bio: Lorem ipsum
   - affiliation: Advisor
     image: /img/img_1888.jpg
     link: 'https://www.linkedin.com/in/hari-kumar-a305027/'
     name: 'Hari Kumar, Ph.D.'
+    bio: Lorem ipsum
   - affiliation: Advisor
-    image: /img/andy-crop-headshot.jpg
+    image: /img/andy-crop-headshot-2.jpg
     link: 'https://www.vpd.net/management_team/Perlman.html'
     name: 'Andrew Perlman, M.D., Ph.D.'
+    bio: Lorem ipsum
   - affiliation: Advisor
-    image: /img/saks.jpg
+    image: /img/saks-2.jpg
     link: 'https://mantrabio.netlify.com/team/'
     name: 'Sam Saks, M.D.'
+    bio: Lorem ipsum
 investors:
   - image: /img/8vc-logo-white.png
   - image: /img/fpo-box.png

@@ -108,11 +108,13 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Name", name: "name", widget: string},
               {label: "Title", name: "title", widget: string},
               {label: Image, name: image, widget: image},
-              {label: "Bio", name: "bio", widget: "markdown"}]}
+              {label: "Bio", name: "bio", widget: "markdown"},
+              {label: "Link", name: "link", widget: "string"}]}
           - {label: "Advisors", name: advisors, widget: list, fields: [
               {label: "Name", name: "name", widget: string},
               {label: "Affiliation", name: "affiliation", widget: string},
               {label: Image, name: image, widget: image},
+              {label: "Bio", name: "bio", widget: "markdown"},
               {label: "Link", name: "link", widget: "string"}]}
           - {label: "Investors", name: investors, widget: list, fields: [
               {label: Image, name: image, widget: image}]}
