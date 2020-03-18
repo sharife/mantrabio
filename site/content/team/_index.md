@@ -11,9 +11,9 @@ employees:
       the Bay Area. After completing a Bachelor’s of Pharmacy in India, Pranali
       earned a Master’s degree followed by a Ph.D. in Pharmaceutical Sciences
       and Drug Delivery from Northeastern University in Boston.
+    link: 'https://www.linkedin.com/in/pranalideshpande '
     name: 'Pranali Deshpande, Ph.D.'
     title: Scientist
-    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6528.jpg
   - bio: >-
       Terry is in charge of building Mantra Bio’s internal technological
@@ -30,9 +30,9 @@ employees:
       Outside of work Terry can be found sailing, hiking, or playing chamber
       music with his friends (an event his his two year old son calls
       “hoedowns”).
+    link: 'https://www.linkedin.com/in/terry-gaige-9bb99a4 '
     name: 'Terry Gaige, M.S.'
     title: VP of Automation & Co-founder
-    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6575.jpg
   - bio: >-
       Daniel is part of Mantra’s process sciences team working on upstream
@@ -42,9 +42,9 @@ employees:
       holds B.S. and M.S.  degrees in Chemical Engineering from UC Davis and UC
       Los Angeles respectively. Daniel is an active promoter for STEM education
       and plays in a softball league in San Francisco.
+    link: 'https://www.linkedin.com/in/djgoodman '
     name: 'Daniel Goodman, M.S.'
     title: Research Associate
-    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6741.jpg
   - bio: >-
       At Mantra, Mitch handles all things operational. From ordering to
@@ -55,9 +55,9 @@ employees:
       Cell and Molecular Biology from UC Santa Cruz with a minor in
       Bioinformatics. Outside of work you’ll find Mitch biking, baking, and
       backpacking- or racing sailboats on the Bay.
+    link: 'https://www.linkedin.com/in/migordonsc'
     name: Mitch Gordon
     title: Business Ops. Associate
-    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6717.jpg
   - bio: >-
       As Mantra’s protein engineer, Colin leads the efforts behind cell line
@@ -71,9 +71,9 @@ employees:
       Stanford University.  Outside of work Colin is passionate about public
       policy activism, getting outside, and spending time with animals of all
       kinds (particularly dogs).
+    link: 'https://www.linkedin.com/in/colingottliebphd '
     name: 'Colin Gottlieb, Ph.D.'
     title: Scientist
-    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6485.jpg
   - bio: >-
       At Mantra Bio, Ginny leads preclinical research study efforts. From *in
@@ -87,9 +87,9 @@ employees:
       in Chemistry from the National Tsing-Hua University in Taiwan. In her free
       time Ginny enjoys attending the opera, symphony, and other musical
       performances.
+    link: 'https://www.linkedin.com/in/chichihkang '
     name: 'Ginny Kang, Ph.D.'
     title: Scientist
-    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6693.jpg
   - bio: >-
       Alexis an entrepreneur with over a decade’s experience in building life
@@ -97,9 +97,9 @@ employees:
       (acquired by Merck KgAA), a UC Berkeley spin-out based on microfluidic
       organ-on-chip technology. Alex has also held senior product management and
       director level strategy positions within multiple life science companies.
+    link: 'https://www.linkedin.com/in/mokalex'
     name: Alex Mok
     title: CEO & Co-founder
-    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6501.jpg
   - bio: >-
       As Mantra Bio’s Director of Process Science, Ishai leads upstream and
@@ -109,9 +109,9 @@ employees:
       Stemcentrx/Abbvie. Ishai holds B.S. and M.S. degrees in Chemical
       Engineering from Drexel University. Ishai enjoys spending time with his
       family, playing guitar, and traveling.
+    link: 'https://www.linkedin.com/in/ishai-padawer-762a7721 '
     name: 'Ishai Padawer, M.S.'
     title: Director of Process Sciences
-    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6792.jpg
   - bio: >-
       As Mantra Bio’s CTO, Katie Planey leads indications selection, patent
@@ -128,9 +128,9 @@ employees:
       enjoys mentoring young graduates interested in data science or business
       careers, connecting people in her network to help them find fulfilling
       careers, high intensity exercise, and taking care of her cats.
+    link: 'https://www.linkedin.com/in/katieplaney '
     name: 'Katie Planey, M.B.A., Ph.D.'
     title: CTO & Co-founder
-    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6605.jpg
   - bio: >-
       Jacob is part of Mantra Bio’s Process Sciences team where he handles assay
@@ -140,9 +140,9 @@ employees:
       Berkeley focused on healthcare systems. Jacob holds a B.A. in Molecular
       and Cell Biology from UC Berkeley and enjoys spending time with family and
       friends, reading, and hiking.
+    link: 'http://www.linkedin.com'
     name: Jacob Strelnikov
     title: Research Associate
-    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6661.jpg
   - bio: >-
       Zachary is part of Mantra’s process sciences team working on downstream
@@ -152,9 +152,9 @@ employees:
       earned B.S. degrees in both Microbiology and Molecular & Cellular biology
       from Cal Poly San Luis Obispo. His passions outside of work include eating
       food, exploring the mountains, and the Green Bay Packers.
+    link: 'https://www.linkedin.com/in/zswinney '
     name: Zachary Swinney
     title: Research Associate
-    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6440.jpg
   - bio: >-
       Linda brings a deep expertise in developing statistical models and
@@ -172,9 +172,9 @@ employees:
       from SF State in Cell and Molecular Biology. Between making sure the dog
       gets enough exercise and the kids get enough sleep, Linda enjoys rock
       climbing, ice hockey, and running.
+    link: 'https://www.linkedin.com/in/linda-szabo-72a9431/ '
     name: 'Linda Szabo, M.S., Ph.D.'
     title: Lead Data Scientist
-    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6805.jpg
   - bio: >-
       Raeline is part of Mantra Bio’s preclinical development team where she
@@ -185,31 +185,31 @@ employees:
       2018 MIC Image Competition for her microscopy work. Raeline is a
       passionate music playlist crafter, latte art expert, and would be excited
       to read your horoscope.
+    link: 'https://www.linkedin.com/in/raeline-valbuena '
     name: Raeline Valbuena
     title: Research Associate
-    link: http://www.linkedin.com
     image: /img/portraits/mantrabio-6561.jpg
 advisors:
   - affiliation: Advisor
+    bio: Lorem ipsum
     image: /img/doberstein_steve-2019-009.jpg
     link: 'https://www.linkedin.com/in/steve-doberstein-41b0171/'
     name: 'Steve Doberstein, Ph.D.'
-    bio: Lorem ipsum
   - affiliation: Advisor
+    bio: Lorem ipsum
     image: /img/img_1888.jpg
     link: 'https://www.linkedin.com/in/hari-kumar-a305027/'
     name: 'Hari Kumar, Ph.D.'
-    bio: Lorem ipsum
   - affiliation: Advisor
+    bio: Lorem ipsum
     image: /img/andy-crop-headshot-2.jpg
     link: 'https://www.vpd.net/management_team/Perlman.html'
     name: 'Andrew Perlman, M.D., Ph.D.'
-    bio: Lorem ipsum
   - affiliation: Advisor
+    bio: Lorem ipsum
     image: /img/saks-2.jpg
     link: 'https://mantrabio.netlify.com/team/'
     name: 'Sam Saks, M.D.'
-    bio: Lorem ipsum
 investors:
   - image: /img/8vc-logo-white.png
   - image: /img/fpo-box.png
