@@ -3,6 +3,17 @@ title: We are Mantra Bio
 subtitle: ''
 image: /img/header-team.jpg
 employees:
+  - bio: .
+    link: 'https://www.linkedin.com/in/callahanca/'
+    name: Conor Callahan
+    title: Site Reliability Engineer
+    image: /img/fpo-box.png
+  - bio: .
+    link: >-
+      https://www.linkedin.com/in/karen-christopherson-3354441/?trk=people-guest_people_search-card
+    name: 'Karen Christopherson, Ph.D.'
+    title: Director of Preclinical Development
+    image: /img/fpo-box.png
   - bio: >-
       As part of the Preclinical R&D team, Pranali leads the efforts behind
       payload packaging strategies and analytical characterization methods. Her
@@ -91,6 +102,11 @@ employees:
     name: 'Ginny Kang, Ph.D.'
     title: Scientist
     image: /img/portraits/mantrabio-6693.jpg
+  - bio: .
+    link: 'https://www.linkedin.com/in/sidharth-menon-8a8b98127/'
+    name: Sidharth Menon
+    title: Data Engineer
+    image: /img/fpo-box.png
   - bio: >-
       Alexis an entrepreneur with over a decade’s experience in building life
       science businesses. Alex was Head of Commercialization at CellASIC
@@ -212,7 +228,7 @@ advisors:
     name: 'Sam Saks, M.D.'
 investors:
   - image: /img/8vc-logo-white.png
-  - image: /img/fpo-box.png
+  - image: /img/vkg-vikingonly-rgb.jpg
   - image: /img/fpo-box.png
   - image: /img/fpo-box.png
   - image: /img/tencent-logo-black-.png
