@@ -229,8 +229,7 @@ advisors:
 investors:
   - image: /img/8vc-logo-white.png
   - image: /img/vkg-vikingonly-rgb.jpg
-  - image: /img/fpo-box.png
-  - image: /img/fpo-box.png
+  - image: /img/hires-illumina-logo-rgb.jpg
   - image: /img/tencent-logo-black-.png
   - image: /img/boxgroup-logo.png
 ---
