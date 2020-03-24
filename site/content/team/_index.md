@@ -228,8 +228,8 @@ advisors:
     name: 'Sam Saks, M.D.'
 investors:
   - image: /img/8vc-logo-white.png
-  - image: /img/vkg-vikingonly-rgb.jpg
-  - image: /img/hires-illumina-logo-rgb.jpg
+  - image: /img/vkg-vikingonly-rgb.png
+  - image: /img/illumina-white.png
   - image: /img/tencent-logo-black-.png
   - image: /img/boxgroup-logo.png
 ---
