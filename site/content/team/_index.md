@@ -7,13 +7,13 @@ employees:
     link: 'https://www.linkedin.com/in/callahanca/'
     name: Conor Callahan
     title: Site Reliability Engineer
-    image: /img/fpo-box.png
+    image: /img/fpo-head.png
   - bio: .
     link: >-
       https://www.linkedin.com/in/karen-christopherson-3354441/?trk=people-guest_people_search-card
     name: 'Karen Christopherson, Ph.D.'
     title: Director of Preclinical Development
-    image: /img/fpo-box.png
+    image: /img/fpo-head.png
   - bio: >-
       As part of the Preclinical R&D team, Pranali leads the efforts behind
       payload packaging strategies and analytical characterization methods. Her
@@ -56,7 +56,7 @@ employees:
     link: 'https://www.linkedin.com/in/djgoodman '
     name: 'Daniel Goodman, M.S.'
     title: Research Associate
-    image: /img/portraits/mantrabio-6741.jpg
+    image: /img/portraits/mantrabio-6732.jpg
   - bio: >-
       At Mantra, Mitch handles all things operational. From ordering to
       recruiting, facilities management and business strategy projects, Mitch
@@ -106,7 +106,7 @@ employees:
     link: 'https://www.linkedin.com/in/sidharth-menon-8a8b98127/'
     name: Sidharth Menon
     title: Data Engineer
-    image: /img/fpo-box.png
+    image: /img/fpo-head.png
   - bio: >-
       Alexis an entrepreneur with over a decade’s experience in building life
       science businesses. Alex was Head of Commercialization at CellASIC
