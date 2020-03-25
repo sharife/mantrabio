@@ -117,6 +117,11 @@ employees:
     name: Alex Mok
     title: CEO & Co-founder
     image: /img/portraits/mantrabio-6501.jpg
+  - bio: .
+    link: 'https://www.linkedin.com/in/cfoconnect'
+    name: Ed O'Sullivan
+    title: CFO
+    image: /img/img_e4868-2-.jpg
   - bio: >-
       As Mantra Bio’s Director of Process Science, Ishai leads upstream and
       downstream process development and scale up efforts. Ishai brings an
@@ -205,11 +210,6 @@ employees:
     name: Raeline Valbuena
     title: Research Associate
     image: /img/portraits/mantrabio-6561.jpg
-  - bio: .
-    link: 'https://www.linkedin.com/in/cfoconnect'
-    name: Ed O'Sullivan
-    title: CFO
-    image: /img/img_e4868-2-.jpg
 advisors:
   - affiliation: Advisor
     bio: Lorem ipsum
