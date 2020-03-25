@@ -119,7 +119,7 @@ employees:
     image: /img/portraits/mantrabio-6501.jpg
   - bio: .
     link: 'https://www.linkedin.com/in/cfoconnect'
-    name: Ed O'Sullivan
+    name: 'Ed O''Sullivan, M.B.A.'
     title: CFO
     image: /img/img_e4868-2-.jpg
   - bio: >-
