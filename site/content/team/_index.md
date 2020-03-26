@@ -212,22 +212,22 @@ employees:
     image: /img/portraits/mantrabio-6561.jpg
 advisors:
   - affiliation: Advisor
-    bio: Lorem ipsum
+    bio: .
     image: /img/doberstein_steve-2019-009.jpg
     link: 'https://www.linkedin.com/in/steve-doberstein-41b0171/'
     name: 'Steve Doberstein, Ph.D.'
   - affiliation: Advisor
-    bio: Lorem ipsum
+    bio: .
     image: /img/img_1888.jpg
     link: 'https://www.linkedin.com/in/hari-kumar-a305027/'
     name: 'Hari Kumar, Ph.D.'
   - affiliation: Advisor
-    bio: Lorem ipsum
+    bio: .
     image: /img/andy-crop-headshot-2.jpg
     link: 'https://www.vpd.net/management_team/Perlman.html'
     name: 'Andrew Perlman, M.D., Ph.D.'
   - affiliation: Advisor
-    bio: Lorem ipsum
+    bio: .
     image: /img/saks-2.jpg
     link: 'https://mantrabio.netlify.com/team/'
     name: 'Sam Saks, M.D.'
