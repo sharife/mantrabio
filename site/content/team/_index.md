@@ -3,17 +3,6 @@ title: We are Mantra Bio
 subtitle: ''
 image: /img/header-team.jpg
 employees:
-  - bio: .
-    link: 'https://www.linkedin.com/in/callahanca/'
-    name: Conor Callahan
-    title: Site Reliability Engineer
-    image: /img/fpo-head.png
-  - bio: .
-    link: >-
-      https://www.linkedin.com/in/karen-christopherson-3354441/?trk=people-guest_people_search-card
-    name: 'Karen Christopherson, Ph.D.'
-    title: Director of Preclinical Development
-    image: /img/fpo-head.png
   - bio: >-
       As part of the Preclinical R&D team, Pranali leads the efforts behind
       payload packaging strategies and analytical characterization methods. Her
@@ -102,13 +91,8 @@ employees:
     name: 'Ginny Kang, Ph.D.'
     title: Scientist
     image: /img/portraits/mantrabio-6693.jpg
-  - bio: .
-    link: 'https://www.linkedin.com/in/sidharth-menon-8a8b98127/'
-    name: Sidharth Menon
-    title: Data Engineer
-    image: /img/fpo-head.png
   - bio: >-
-      Alexis an entrepreneur with over a decade’s experience in building life
+      Alex is an entrepreneur with over a decade’s experience in building life
       science businesses. Alex was Head of Commercialization at CellASIC
       (acquired by Merck KgAA), a UC Berkeley spin-out based on microfluidic
       organ-on-chip technology. Alex has also held senior product management and
@@ -117,11 +101,11 @@ employees:
     name: Alex Mok
     title: CEO & Co-founder
     image: /img/portraits/mantrabio-6501.jpg
-  - bio: .
+  - bio: 
     link: 'https://www.linkedin.com/in/cfoconnect'
     name: 'Ed O''Sullivan, M.B.A.'
     title: CFO
-    image: /img/img_e4868-2-.jpg
+    image: /img/portraits/mantrabio-e4868.jpg
   - bio: >-
       As Mantra Bio’s Director of Process Science, Ishai leads upstream and
       downstream process development and scale up efforts. Ishai brings an
@@ -210,24 +194,40 @@ employees:
     name: Raeline Valbuena
     title: Research Associate
     image: /img/portraits/mantrabio-6561.jpg
+  - bio: 
+    link: 'https://www.linkedin.com/in/callahanca/'
+    name: Conor Callahan
+    title: Site Reliability Engineer
+    image: /img/fpo-head.png
+  - bio: 
+    link: >-
+      https://www.linkedin.com/in/karen-christopherson-3354441/?trk=people-guest_people_search-card
+    name: 'Karen Christopherson, Ph.D.'
+    title: Director of Preclinical Development
+    image: /img/fpo-head.png
+  - bio: 
+    link: 'https://www.linkedin.com/in/sidharth-menon-8a8b98127/'
+    name: Sidharth Menon
+    title: Data Engineer
+    image: /img/fpo-head.png
 advisors:
   - affiliation: Advisor
-    bio: .
+    bio: 
     image: /img/doberstein_steve-2019-009.jpg
     link: 'https://www.linkedin.com/in/steve-doberstein-41b0171/'
     name: 'Steve Doberstein, Ph.D.'
   - affiliation: Advisor
-    bio: .
+    bio: 
     image: /img/img_1888.jpg
     link: 'https://www.linkedin.com/in/hari-kumar-a305027/'
     name: 'Hari Kumar, Ph.D.'
   - affiliation: Advisor
-    bio: .
+    bio: 
     image: /img/andy-crop-headshot-2.jpg
     link: 'https://www.vpd.net/management_team/Perlman.html'
     name: 'Andrew Perlman, M.D., Ph.D.'
   - affiliation: Advisor
-    bio: .
+    bio: 
     image: /img/saks-2.jpg
     link: 'https://mantrabio.netlify.com/team/'
     name: 'Sam Saks, M.D.'

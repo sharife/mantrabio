@@ -1,18 +1,41 @@
-<div class="pv3 pv1-l hideme" style="background: linear-gradient(rgba(0,0,0,.35), rgba(0,0,0,.7)), url('{{.image}}') no-repeat center; background-size: cover;">
-	<div class="ph3 mw7 center pa6 white">
+<div class="fullimage-bg">
+	<div class="pv3 pv1-l hideme" style="background: linear-gradient(rgba(0,0,0,.35), rgba(0,0,0,.7)), url('{{.image}}') no-repeat center; background-size: cover;">
+		<div class="ph3 mw7 center pa6 white">
 
-		<h2 class="f3 b lh-title mb2 tc hideme">{{.heading}}</h2>
-		<p class="center tc hideme">{{.text}}</p>
-		{{ if .buttonText }}
-		<div class="tc mb4 hideme">
-			<div class="center tc f6 b module-border-wrap">
-				<a href="{{.buttonLink}}" class="no-underline">
-			      <div class="module">
-			        {{.buttonText}}
-			      </div>
-			    </a>
+			<h2 class="f3 b lh-title mb2 tc hideme">{{.heading}}</h2>
+			<p class="center tc hideme">{{.text}}</p>
+			{{ if .buttonText }}
+			<div class="tc mb4 hideme">
+				<div class="center tc f6 b module-border-wrap">
+					<a href="{{.buttonLink}}" class="no-underline">
+				      <div class="module">
+				        {{.buttonText}}
+				      </div>
+				    </a>
+				</div>
 			</div>
+			{{ end }}
 		</div>
-		{{ end }}
+	</div>
+</div>
+
+<div class="fullimage-bg-alt">
+	<div class="pv3 pv1-l hideme" style="background: linear-gradient(rgba(0,0,0,.35), rgba(0,0,0,.7)), url('{{.altimage}}') no-repeat center; background-size: cover;">
+		<div class="ph3 mw7 center pa6 white">
+
+			<h2 class="f3 b lh-title mb2 tc hideme">{{.heading}}</h2>
+			<p class="center tc hideme">{{.text}}</p>
+			{{ if .buttonText }}
+			<div class="tc mb4 hideme">
+				<div class="center tc f6 b module-border-wrap">
+					<a href="{{.buttonLink}}" class="no-underline">
+				      <div class="module">
+				        {{.buttonText}}
+				      </div>
+				    </a>
+				</div>
+			</div>
+			{{ end }}
+		</div>
 	</div>
 </div>

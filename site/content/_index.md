@@ -40,5 +40,6 @@ careers:
   buttonText: Join us
   heading: We’re looking for extraordinary people to join us in finding cures.
   image: /img/montage.jpg
+  altimage: /img/careers-alt.jpg
 ---
 

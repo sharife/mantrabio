@@ -5,21 +5,6 @@ media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 
 collections: # A list of collections the CMS should be able to edit
-  - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "News" # Used in the UI, ie.: "New Post"
-    preview: false
-    folder: "site/content/news" # The path to the folder where the documents are stored
-    create: true # Allow users to create new documents in this collection
-    editor:
-      preview: false
-    fields: # The fields each document in this collection have
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Category", name: "category", widget: "string"}
-      - {label: "Link", name: "link", widget: "string"}
-      - {label: "Intro", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image", required: false}
-      - {label: "Body", name: "body", widget: "markdown", required: false}
   - name: "pages"
     label: "Pages"
     preview: false
@@ -49,6 +34,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Careers", name: "careers", widget: "object", fields: [
               {label: "Heading", name: "heading", widget: string},
               {label: "Image", name: "image", widget: "image"},
+              {label: "Alt. Image", name: "altimage", widget: "image", required: false},
               {label: "Button label", name: "buttonText", widget: "string"}]}
       - file: "site/content/science/_index.md"
         label: "Science Page"
@@ -108,14 +94,14 @@ collections: # A list of collections the CMS should be able to edit
               {label: "Name", name: "name", widget: string},
               {label: "Title", name: "title", widget: string},
               {label: Image, name: image, widget: image},
-              {label: "Bio", name: "bio", widget: "markdown"},
-              {label: "Link", name: "link", widget: "string"}]}
+              {label: "Bio", name: "bio", widget: "markdown", required: false},
+              {label: "Link", name: "link", widget: "string", required: false}]}
           - {label: "Advisors", name: advisors, widget: list, fields: [
               {label: "Name", name: "name", widget: string},
               {label: "Affiliation", name: "affiliation", widget: string},
               {label: Image, name: image, widget: image},
-              {label: "Bio", name: "bio", widget: "markdown"},
-              {label: "Link", name: "link", widget: "string"}]}
+              {label: "Bio", name: "bio", widget: "markdown", required: false},
+              {label: "Link", name: "link", widget: "string", required: false}]}
           - {label: "Investors", name: investors, widget: list, fields: [
               {label: Image, name: image, widget: image}]}
       - file: "site/content/careers/_index.md"
@@ -170,3 +156,18 @@ collections: # A list of collections the CMS should be able to edit
               - label: Text
                 name: text
                 widget: text
+  - name: "news" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "News" # Used in the UI, ie.: "New Post"
+    preview: false
+    folder: "site/content/news" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    editor:
+      preview: false
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Category", name: "category", widget: "string"}
+      - {label: "Link", name: "link", widget: "string"}
+      - {label: "Intro", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: false}

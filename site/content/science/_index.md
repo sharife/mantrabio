@@ -39,7 +39,7 @@ part1:
     technologies to deepen our understanding of our exosome products and to
     ensure safety and potency of every formulation.
   heading: Scalable Manufacturing
-  image: /img/fpo-box.png
+  image: /img/montage-vertical-2.jpg
 part2:
   description: >-
     Mantra Bio is developing a pipeline of exosome therapeutics in undisclosed
