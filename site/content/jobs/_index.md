@@ -1,5 +1,6 @@
 ---
 title: "Join Us"
-subtitle: Lorem ipsom dolor sit amet prius executor unum
+subtitle: Mantra Bio is always looking for passionate and talented individuals to join
+  our team.
 image: /img/header-careers.jpg
 ---
