@@ -101,7 +101,28 @@ employees:
     name: Alex Mok
     title: CEO & Co-founder
     image: /img/portraits/mantrabio-6501.jpg
-  - bio: 
+  - bio: >-
+      Ed is the founder and Managing Partner of CFO Connect®. CFO Connect® is a
+      business management and financial services firm providing part-time CFO
+      services to early stage, venture backed, life sciences and technology
+      companies. 
+
+
+      Prior to CFO Connect®, Ed served as CFO for Nextec Applications, Inc., a
+      thin film polymer company. Prior to that he was CFO at Newpoint, Inc. , a
+      power products company. And prior to that, served as Director of Finance
+      at Fluid Systems, Inc., a division of Allied Signal, Inc., now Honeywell,
+      Inc., a thin film polymer company.
+
+
+      Ed currently serves on the Board of Directors for DCS, Inc., Let’s Go
+      Robotics, Inc. and serves on the Advisory Board of Endeavor Bank, Inc..
+
+
+      Ed has a BA degree from the University of California, San Diego, Revelle
+      College and an MBA degree from the University of San Diego. He has also
+      completed executive education courses in Corporate Governance at Harvard
+      Business School.
     link: 'https://www.linkedin.com/in/cfoconnect'
     name: 'Ed O''Sullivan, M.B.A.'
     title: CFO
@@ -194,40 +215,50 @@ employees:
     name: Raeline Valbuena
     title: Research Associate
     image: /img/portraits/mantrabio-6561.jpg
-  - bio: 
-    link: 'https://www.linkedin.com/in/callahanca/'
-    name: Conor Callahan
+  - name: Conor Callahan
     title: Site Reliability Engineer
     image: /img/fpo-head.png
-  - bio: 
-    link: >-
-      https://www.linkedin.com/in/karen-christopherson-3354441/?trk=people-guest_people_search-card
-    name: 'Karen Christopherson, Ph.D.'
+    link: 'https://www.linkedin.com/in/callahanca/'
+  - name: 'Karen Christopherson, Ph.D.'
     title: Director of Preclinical Development
     image: /img/fpo-head.png
-  - bio: 
-    link: 'https://www.linkedin.com/in/sidharth-menon-8a8b98127/'
-    name: Sidharth Menon
+    link: >-
+      https://www.linkedin.com/in/karen-christopherson-3354441/?trk=people-guest_people_search-card
+  - name: Sidharth Menon
     title: Data Engineer
     image: /img/fpo-head.png
+    link: 'https://www.linkedin.com/in/sidharth-menon-8a8b98127/'
 advisors:
   - affiliation: Advisor
-    bio: 
+    bio: >-
+      Steve Doberstein is an experienced and innovative leader of pharmaceutical
+      Research and Development organizations. For the last decade, Steve was
+      Chief Scientific Fellow and Chief Research and Development Officer at
+      Nektar Therapeutics. He was previously Vice President of Research at Xoma,
+      FivePrime, and Xencor, having started his career at Exelixis.
+
+
+      Steve studied Chemical Engineering at the University of Delaware,
+      receiving a B.S.Ch.E., and studied molecular and cell biology at the Johns
+      Hopkins University School of Medicine, where he was awarded a Ph.D. from
+      the laboratory of Dr. Thomas Pollard. He studied genetics as a
+      postdoctoral fellow in the laboratory of Dr. Corey Goodman at UC Berkeley.
+
+
+      Steve currently serves on the Board of Directors of Dicerna
+      Pharmaceuticals (DRNA).
     image: /img/doberstein_steve-2019-009.jpg
     link: 'https://www.linkedin.com/in/steve-doberstein-41b0171/'
     name: 'Steve Doberstein, Ph.D.'
   - affiliation: Advisor
-    bio: 
     image: /img/img_1888.jpg
     link: 'https://www.linkedin.com/in/hari-kumar-a305027/'
     name: 'Hari Kumar, Ph.D.'
   - affiliation: Advisor
-    bio: 
     image: /img/andy-crop-headshot-2.jpg
     link: 'https://www.vpd.net/management_team/Perlman.html'
     name: 'Andrew Perlman, M.D., Ph.D.'
   - affiliation: Advisor
-    bio: 
     image: /img/saks-2.jpg
     link: 'https://mantrabio.netlify.com/team/'
     name: 'Sam Saks, M.D.'
