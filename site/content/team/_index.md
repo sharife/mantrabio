@@ -73,7 +73,7 @@ employees:
       kinds (particularly dogs).
     link: 'https://www.linkedin.com/in/colingottliebphd '
     name: 'Colin Gottlieb, Ph.D.'
-    title: Scientist
+    title: Sr. Scientist
     image: /img/portraits/mantrabio-6485.jpg
   - bio: >-
       At Mantra Bio, Ginny leads preclinical research study efforts. From *in
@@ -89,7 +89,7 @@ employees:
       performances.
     link: 'https://www.linkedin.com/in/chichihkang '
     name: 'Ginny Kang, Ph.D.'
-    title: Scientist
+    title: Sr. Scientist
     image: /img/portraits/mantrabio-6693.jpg
   - bio: >-
       Alex is an entrepreneur with over a decade’s experience in building life
@@ -168,7 +168,7 @@ employees:
       friends, reading, and hiking.
     link: 'http://www.linkedin.com'
     name: Jacob Strelnikov
-    title: Research Associate
+    title: Research Associate II
     image: /img/portraits/mantrabio-6661.jpg
   - bio: >-
       Zachary is part of Mantra’s process sciences team working on downstream
@@ -180,7 +180,7 @@ employees:
       food, exploring the mountains, and the Green Bay Packers.
     link: 'https://www.linkedin.com/in/zswinney '
     name: Zachary Swinney
-    title: Research Associate
+    title: Research Associate II
     image: /img/portraits/mantrabio-6440.jpg
   - bio: >-
       Linda brings a deep expertise in developing statistical models and
@@ -213,14 +213,14 @@ employees:
       to read your horoscope.
     link: 'https://www.linkedin.com/in/raeline-valbuena '
     name: Raeline Valbuena
-    title: Research Associate
+    title: Research Associate II
     image: /img/portraits/mantrabio-6561.jpg
   - name: Conor Callahan
     title: Site Reliability Engineer
     image: /img/fpo-head.png
     link: 'https://www.linkedin.com/in/callahanca/'
   - name: 'Karen Christopherson, Ph.D.'
-    title: Director of Preclinical Development
+    title: Sr. Director of Preclinical Development
     image: /img/fpo-head.png
     link: >-
       https://www.linkedin.com/in/karen-christopherson-3354441/?trk=people-guest_people_search-card
