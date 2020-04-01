@@ -109,7 +109,7 @@ employees:
 
 
       Prior to CFO Connect®, Ed served as CFO for Nextec Applications, Inc., a
-      thin film polymer company. Prior to that he was CFO at Newpoint, Inc. , a
+      thin film polymer company. Prior to that he was CFO at Newpoint, Inc., a
       power products company. And prior to that, served as Director of Finance
       at Fluid Systems, Inc., a division of Allied Signal, Inc., now Honeywell,
       Inc., a thin film polymer company.
@@ -215,19 +215,40 @@ employees:
     name: Raeline Valbuena
     title: Research Associate II
     image: /img/portraits/mantrabio-6561.jpg
-  - name: Conor Callahan
-    title: Site Reliability Engineer
-    image: /img/fpo-head.png
+  - bio: >-
+      Conor has extensive experience in cloud computing infrastructure, scalable
+      systems design, containers, and security in complex environments. At
+      Mantra he maintains and develops internal infrastructure, ensures
+      technical compliance with data regulations, and provides company wide
+      support with their computing needs. Prior to Mantra, Conor worked at Zoosk
+      for 5 years where he led the migration to containers and cloud
+      infrastructure. During this time, he earned the SANS Institute's 2019
+      Difference Maker Award for leading a cross-team effort fighting fraud on
+      the platform. Prior to his career in tech, Conor's interest in the biotech
+      field was solidified with two internships studying an assay for the
+      prediction of autoimmune diabetes in Mike Lenardo's lab at NIAID. Outside
+      of work Conor can be found cooking, baking, traveling, and doing
+      photography.
     link: 'https://www.linkedin.com/in/callahanca/'
+    name: Conor Callahan
+    title: Lead Site Reliability Engineer
+    image: /img/fpo-head.png
   - name: 'Karen Christopherson, Ph.D.'
     title: Sr. Director of Preclinical Development
     image: /img/fpo-head.png
     link: >-
       https://www.linkedin.com/in/karen-christopherson-3354441/?trk=people-guest_people_search-card
-  - name: Sidharth Menon
+  - bio: >-
+      Sidharth brings expertise in software development and data infrastructure,
+      with previous experience working for health tech and clean energy
+      startups. He earned his B.A. in Biology with minors in both Computer
+      Science and Bioinformatics from the University of Southern California.
+      Sidharth enjoys playing video and board games, along with basketball in
+      his spare time.
+    link: 'https://www.linkedin.com/in/sidharth-menon-8a8b98127/'
+    name: Sidharth Menon
     title: Data Engineer
     image: /img/fpo-head.png
-    link: 'https://www.linkedin.com/in/sidharth-menon-8a8b98127/'
 advisors:
   - affiliation: Advisor
     bio: >-
@@ -255,6 +276,7 @@ advisors:
     link: 'https://www.linkedin.com/in/hari-kumar-a305027/'
     name: 'Hari Kumar, Ph.D.'
   - affiliation: Advisor
+    bio: ''
     image: /img/andy-crop-headshot-2.jpg
     link: 'https://www.vpd.net/management_team/Perlman.html'
     name: 'Andrew Perlman, M.D., Ph.D.'
