@@ -233,11 +233,6 @@ employees:
     name: Conor Callahan
     title: Lead Site Reliability Engineer
     image: /img/fpo-head.png
-  - name: 'Karen Christopherson, Ph.D.'
-    title: Sr. Director of Preclinical Development
-    image: /img/fpo-head.png
-    link: >-
-      https://www.linkedin.com/in/karen-christopherson-3354441/?trk=people-guest_people_search-card
   - bio: >-
       Sidharth brings expertise in software development and data infrastructure,
       with previous experience working for health tech and clean energy
