@@ -236,6 +236,7 @@ employees:
   - name: 'Robert Halenbeck, Ph.D.'
     title: Principal Scientist
     image: /img/fpo-head.png
+    link: 'https://www.linkedin.com/in/robert-halenbeck-a8479215/'
   - bio: >-
       Sidharth brings expertise in software development and data infrastructure,
       with previous experience working for health tech and clean energy
