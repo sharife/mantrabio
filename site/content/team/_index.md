@@ -233,6 +233,9 @@ employees:
     name: Conor Callahan
     title: Lead Site Reliability Engineer
     image: /img/fpo-head.png
+  - name: 'Robert Halenbeck, Ph.D.'
+    title: Principal Scientist
+    image: /img/fpo-head.png
   - bio: >-
       Sidharth brings expertise in software development and data infrastructure,
       with previous experience working for health tech and clean energy
@@ -243,6 +246,9 @@ employees:
     link: 'https://www.linkedin.com/in/sidharth-menon-8a8b98127/'
     name: Sidharth Menon
     title: Data Engineer
+    image: /img/fpo-head.png
+  - name: Abhishek Ramini
+    title: Research Associate
     image: /img/fpo-head.png
 advisors:
   - affiliation: Advisor
