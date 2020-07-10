@@ -251,6 +251,10 @@ employees:
   - name: Abhishek Ramini
     title: Research Associate
     image: /img/fpo-head.png
+  - name: 'Natalia Santos, Ph.D.'
+    title: Sr. Scientist
+    image: /img/fpo-head.png
+    link: 'https://www.linkedin.com/in/natalia-santos-9351524'
 advisors:
   - affiliation: Advisor
     bio: >-
