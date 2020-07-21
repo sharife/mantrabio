@@ -157,7 +157,7 @@ employees:
     link: 'https://www.linkedin.com/in/katieplaney '
     name: 'Katie Planey, M.B.A., Ph.D.'
     title: CTO & Co-founder
-    image: /img/portraits/mantrabio-6605.jpg
+    image: /img/portraits/headshot-katie.jpg
   - bio: >-
       Jacob is part of Mantra Bio’s Process Sciences team where he handles assay
       development, cell line development, and flow cytometry. Previously Jacob
