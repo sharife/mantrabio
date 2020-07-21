@@ -48,7 +48,7 @@ employees:
     image: /img/portraits/mantrabio-6732.jpg
   - bio: >-
       At Mantra, Mitch handles all things operational. From ordering to
-      recruiting, facilities management and business strategy projects, Mitch
+      recruiting, facilities management, and business strategy projects, Mitch
       ensures all the trains run on time. His past experiences include working
       as a researcher for the SF Veterans Affairs Hospital, and instructing
       microscopy classes at Merritt Community College. He earned his B.S. in
@@ -233,10 +233,24 @@ employees:
     name: Conor Callahan
     title: Lead Site Reliability Engineer
     image: /img/fpo-head.png
-  - name: 'Robert Halenbeck, Ph.D.'
-    title: Principal Scientist
-    image: /img/fpo-head.png
+  - bio: >-
+      Robert is in charge of the Protein Engineering Team, responsible for
+      developing novel targeting scaffolds for Mantra Bio’s exosome vehicles.
+      Throughout his career, Robert has played a key role in the discovery,
+      engineering, and development of many novel therapeutics, from secreted
+      ligands such as Proleukin (IL-2) and Betaseron (IFN-B), to receptor-Fc
+      fusions, and highly engineered antibodies. Robert received his Bachelor’s
+      and Master’s degrees at the University of California, Santa Barbara in
+      biochemistry before moving to the Bay Area where he worked for Cetus,
+      Chiron (Novartis), FivePrime, and BioMarin. Robert is an author or
+      co-author on 25 publications, and an inventor on 42 issued US patents.
+      Outside of work he can be found truck camping at one of the lakes in
+      Northern California with his family, where he loves to hike, fish,
+      waterski, and sail.
     link: 'https://www.linkedin.com/in/robert-halenbeck-a8479215/'
+    name: 'Robert Halenbeck, M.S.'
+    title: 'Principal Scientist, Protein Engineering'
+    image: /img/fpo-head.png
   - bio: >-
       Sidharth brings expertise in software development and data infrastructure,
       with previous experience working for health tech and clean energy
@@ -251,10 +265,23 @@ employees:
   - name: Abhishek Ramini
     title: Research Associate
     image: /img/fpo-head.png
-  - name: 'Natalia Santos, Ph.D.'
+  - bio: >-
+      Natalia leads analytical development as part of the Process Sciences team
+      at Mantra Bio. Her efforts drive the development and qualification of
+      Mantra’s in-house exosome therapeutic characterization assays. Natalia’s
+      previous experiences include the development of a cell-free protein
+      expression platform at an early stage startup, and establishing an
+      analytical lab to support drug discovery efforts at the Oligonucleotide
+      Center of Excellence, part of Alios Biopharma (acquired by Johnson and
+      Johnson). Natalia holds a Ph.D. in Molecular Biology & Biophysical
+      Chemistry from Uppsala University, Sweden as well as two Master’s degrees
+      in Molecular & Microbiology Biology and Environmental Biology from Sofia
+      University, Bulgaria. Natalia’s passions outside of work include dance,
+      traveling, hiking and martial arts.
+    link: 'https://www.linkedin.com/in/natalia-santos-9351524'
+    name: 'Natalia Santos, Ph.D.'
     title: Sr. Scientist
     image: /img/fpo-head.png
-    link: 'https://www.linkedin.com/in/natalia-santos-9351524'
 advisors:
   - affiliation: Advisor
     bio: >-
