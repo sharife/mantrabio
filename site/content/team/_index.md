@@ -210,7 +210,7 @@ employees:
     link: https://www.linkedin.com/in/callahanca/
     name: Conor Callahan
     title: Lead Site Reliability Engineer
-    image: /img/fpo-head.png
+    image: /img/portraits/headshot-conor.jpg
   - bio: Robert is in charge of the Protein Engineering Team, responsible for
       developing novel targeting scaffolds for Mantra Bio’s exosome vehicles.
       Throughout his career, Robert has played a key role in the discovery,
