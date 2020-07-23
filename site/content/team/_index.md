@@ -227,7 +227,7 @@ employees:
     link: https://www.linkedin.com/in/robert-halenbeck-a8479215/
     name: Robert Halenbeck, M.S.
     title: Principal Scientist, Protein Engineering
-    image: /img/fpo-head.png
+    image: /img/portraits/headshot-robert.jpg
   - bio: Sidharth brings expertise in software development and data infrastructure,
       with previous experience working for health tech and clean energy
       startups. He earned his B.A. in Biology with minors in both Computer
@@ -240,7 +240,7 @@ employees:
     image: /img/fpo-head.png
   - name: Abhishek Ramini
     title: Research Associate II
-    image: /img/fpo-head.png
+    image: /img/portraits/headshot-abhi.jpg
     bio: As a research associate on Mantra’s Preclinical Sciences team, Abhishek
       focuses on in vitro assay development, in vivo study design, and cell
       culture. Previously, he worked in the Murphy-Russell-Thomasy lab studying
