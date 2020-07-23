@@ -119,16 +119,6 @@ employees:
     name: Ginny Kang, Ph.D.
     title: Sr. Scientist
     image: /img/portraits/mantrabio-6693.jpg
-  - bio: Sidharth brings expertise in software development and data infrastructure,
-      with previous experience working for health tech and clean energy
-      startups. He earned his B.A. in Biology with minors in both Computer
-      Science and Bioinformatics from the University of Southern California.
-      Sidharth enjoys playing video and board games, along with basketball in
-      his spare time.
-    link: https://www.linkedin.com/in/sidharth-menon-8a8b98127/
-    name: Sidharth Menon
-    title: Data Engineer
-    image: /img/fpo-head.png
   - bio: Alex is an entrepreneur with over a decade’s experience in building life
       science businesses. Alex was Head of Commercialization at CellASIC
       (acquired by Merck KgAA), a UC Berkeley spin-out based on microfluidic
