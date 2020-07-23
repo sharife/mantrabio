@@ -103,7 +103,7 @@ employees:
     link: https://www.linkedin.com/in/robert-halenbeck-a8479215/
     name: Robert Halenbeck, M.S.
     title: Principal Scientist, Protein Engineering
-    image: /img/fpo-head.png
+    image: /img/portraits/headshot-robert.jpg
   - bio: At Mantra Bio, Ginny leads preclinical research study efforts. From *in
       vitro* potency, to *in vivo* biodistribution and efficacy studies, Ginny
       leads study design, execution, supervising CROs and data analysis. An
@@ -185,6 +185,16 @@ employees:
     name: Katie Planey, M.B.A., Ph.D.
     title: CTO & Co-founder
     image: /img/portraits/headshot-katie.jpg
+  - name: Abhishek Ramini
+    title: Research Associate II
+    image: /img/portraits/headshot-abhi.jpg
+    bio: As a research associate on Mantra’s Preclinical Sciences team, Abhishek
+      focuses on in vitro assay development, in vivo study design, and cell
+      culture. Previously, he worked in the Murphy-Russell-Thomasy lab studying
+      the effect of biophysical cues of the stromal matrix on corneal wound
+      healing. Abhishek earned his Bachelor’s degree in microbiology at the
+      University of California, Davis and loves adrenaline-filled activities
+      like sky diving, or simply jogging with his dog, and listening to music.
   - bio: Jacob is part of Mantra Bio’s Process Sciences team where he handles assay
       development, cell line development, and flow cytometry. Previously Jacob
       held a position as a researcher at C.H.O.R.I. (Children's Hospital Oakland
@@ -238,40 +248,6 @@ employees:
     name: Raeline Valbuena
     title: Research Associate II
     image: /img/portraits/mantrabio-6561.jpg
-  - bio: Conor has extensive experience in cloud computing infrastructure, scalable
-      systems design, containers, and security in complex environments. At
-      Mantra he maintains and develops internal infrastructure, ensures
-      technical compliance with data regulations, and provides company wide
-      support with their computing needs. Prior to Mantra, Conor worked at Zoosk
-      for 5 years where he led the migration to containers and cloud
-      infrastructure. During this time, he earned the SANS Institute's 2019
-      Difference Maker Award for leading a cross-team effort fighting fraud on
-      the platform. Prior to his career in tech, Conor's interest in the biotech
-      field was solidified with two internships studying an assay for the
-      prediction of autoimmune diabetes in Mike Lenardo's lab at NIAID. Outside
-      of work Conor can be found cooking, baking, traveling, and doing
-      photography.
-    link: https://www.linkedin.com/in/callahanca/
-    name: Conor Callahan
-    title: Lead Site Reliability Engineer
-    image: /img/portraits/headshot-conor.jpg
-  - bio: Robert is in charge of the Protein Engineering Team, responsible for
-      developing novel targeting scaffolds for Mantra Bio’s exosome vehicles.
-      Throughout his career, Robert has played a key role in the discovery,
-      engineering, and development of many novel therapeutics, from secreted
-      ligands such as Proleukin (IL-2) and Betaseron (IFN-B), to receptor-Fc
-      fusions, and highly engineered antibodies. Robert received his Bachelor’s
-      and Master’s degrees at the University of California, Santa Barbara in
-      biochemistry before moving to the Bay Area where he worked for Cetus,
-      Chiron (Novartis), FivePrime, and BioMarin. Robert is an author or
-      co-author on 25 publications, and an inventor on 42 issued US patents.
-      Outside of work he can be found truck camping at one of the lakes in
-      Northern California with his family, where he loves to hike, fish,
-      waterski, and sail.
-    link: https://www.linkedin.com/in/robert-halenbeck-a8479215/
-    name: Robert Halenbeck, M.S.
-    title: Principal Scientist, Protein Engineering
-    image: /img/portraits/headshot-robert.jpg
   - bio: Sidharth brings expertise in software development and data infrastructure,
       with previous experience working for health tech and clean energy
       startups. He earned his B.A. in Biology with minors in both Computer
@@ -286,16 +262,6 @@ employees:
     title: Senior Director of Preclinical Development
     image: img/fpo-head.png
     link: https://www.linkedin.com/in/liliana-maruri-avidal/
-  - name: Abhishek Ramini
-    title: Research Associate II
-    image: /img/portraits/headshot-abhi.jpg
-    bio: As a research associate on Mantra’s Preclinical Sciences team, Abhishek
-      focuses on in vitro assay development, in vivo study design, and cell
-      culture. Previously, he worked in the Murphy-Russell-Thomasy lab studying
-      the effect of biophysical cues of the stromal matrix on corneal wound
-      healing. Abhishek earned his Bachelor’s degree in microbiology at the
-      University of California, Davis and loves adrenaline-filled activities
-      like sky diving, or simply jogging with his dog, and listening to music.
   - bio: Natalia leads analytical development as part of the Process Sciences team
       at Mantra Bio. Her efforts drive the development and qualification of
       Mantra’s in-house exosome therapeutic characterization assays. Natalia’s
