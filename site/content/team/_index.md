@@ -238,7 +238,6 @@ employees:
     name: Raeline Valbuena
     title: Research Associate II
     image: /img/portraits/mantrabio-6561.jpg
-<<<<<<< HEAD
   - bio: Conor has extensive experience in cloud computing infrastructure, scalable
       systems design, containers, and security in complex environments. At
       Mantra he maintains and develops internal infrastructure, ensures
@@ -283,12 +282,10 @@ employees:
     name: Sidharth Menon
     title: Data Engineer
     image: /img/fpo-head.png
-=======
   - name: Liliana Maruri Avidal, Ph.D.
     title: Senior Director of Preclinical Development
     image: img/fpo-head.png
     link: https://www.linkedin.com/in/liliana-maruri-avidal/
->>>>>>> 8b7f4006810882f358a12da93d335d5c734778da
   - name: Abhishek Ramini
     title: Research Associate II
     image: /img/portraits/headshot-abhi.jpg
