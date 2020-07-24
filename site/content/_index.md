@@ -12,6 +12,7 @@ overview:
     therapeutics, enabling unprecedented targeted delivery of therapeutic
     agents. Importantly, exosome therapeutics have been shown to be safe in
     many human trials.
+  videolink: Play video
 intro:
   heading: Exosome therapeutics powered by REVEAL™
   text: >-

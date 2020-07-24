@@ -14,6 +14,14 @@
       </div>
     </div>
     {{ end }}
+    {{ if .videolink }}
+    <div class="mb3">
+      <a href="#open-modal-video" onclick="playVid()" class="no-underline f6 secondary raise">
+        <img src="/img/btn-play.svg" class="mw2 pr2" style="vertical-align:middle" />
+        {{.videolink}}
+      </a>
+    </div>
+    {{ end }}
   </div>
 
   <div class="ph3-m w-50-ns flex" style="align-items: flex-end;">
@@ -21,3 +29,29 @@
   </div>
 
 </div>
+
+
+<div id="open-modal-video" class="modal-window">
+  <a class="cancel" href="#!" onclick="pauseVid()"></a>
+  <div>
+    <a href="#!" onclick="pauseVid()" title="Close" class="modal-close"><img src="/img/close-button.svg" alt="close" class="w-40 mt2 ml3"></a>
+    <div>
+      <video id="overview" controls>
+        <source src="/overview.mp4" type="video/mp4" />
+      </video>
+    </div>
+  </div>
+</div>
+
+
+<script> 
+var vid = document.getElementById("overview"); 
+
+function playVid() { 
+  vid.play(); 
+} 
+
+function pauseVid() { 
+  vid.pause(); 
+} 
+</script>

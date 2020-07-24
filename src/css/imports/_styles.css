@@ -228,3 +228,9 @@ hr {
   height: 100%;
   cursor: default;
 }
+
+
+video {
+  width: 100% !important;
+  height: auto !important;
+}
