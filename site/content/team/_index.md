@@ -79,7 +79,7 @@ employees:
       changes in proteasome ubiquitylation in response to the unfolding of a
       single protein in live cells. Colin holds a B.A. in Environmental,
       Population and Organismic Biology from the University of Colorado, a Ph.D.
-      in Pharmacology from Cornell University, and completed a post doc At
+      in Pharmacology from Cornell University, and completed a post doc at
       Stanford University.  Outside of work Colin is passionate about public
       policy activism, getting outside, and spending time with animals of all
       kinds (particularly dogs).
@@ -105,25 +105,31 @@ employees:
     title: Principal Scientist, Protein Engineering
     image: /img/portraits/headshot-robert.jpg
   - bio: At Mantra Bio, Ginny leads preclinical research study efforts. From *in
-      vitro* potency, to *in vivo* biodistribution and efficacy studies, Ginny
-      leads study design, execution, supervising CROs and data analysis. An
-      accomplished scientist in her field, Ginny holds multiple biomedical
-      patents and awards. She has completed postdoctoral fellowships at UC
-      Berkeley, Lawrence Berkeley National Laboratory, and the Institute of
-      Atomic and Molecular Sciences in Taiwan. Ginny earned her B.S. in Plant
-      Pathology and Microbiology from National Taiwan University, and her Ph.D.
-      in Chemistry from the National Tsing-Hua University in Taiwan. In her free
-      time Ginny enjoys attending the opera, symphony, and other musical
-      performances.
+      vitro* potency assays to *in vivo* efficacy studies, Ginny leads study
+      design, execution, and data analysis. An accomplished scientist in her
+      field, Ginny holds multiple biomedical patents and awards. She has
+      completed postdoctoral fellowships at UC Berkeley, Lawrence Berkeley
+      National Laboratory, and the Institute of Atomic and Molecular Sciences in
+      Taiwan. Ginny earned her B.S. in Plant Pathology and Microbiology from
+      National Taiwan University, and her Ph.D. in Chemistry from the National
+      Tsing-Hua University in Taiwan. In her free time Ginny enjoys attending
+      the opera, symphony, and other musical performances.
     link: "https://www.linkedin.com/in/chichihkang "
     name: Ginny Kang, Ph.D.
     title: Sr. Scientist
     image: /img/portraits/mantrabio-6693.jpg
   - bio: Alex is an entrepreneur with over a decade’s experience in building life
-      science businesses. Alex was Head of Commercialization at CellASIC
-      (acquired by Merck KgAA), a UC Berkeley spin-out based on microfluidic
-      organ-on-chip technology. Alex has also held senior product management and
-      director level strategy positions within multiple life science companies.
+      science businesses. He was head of commercialization at CellASIC (acquired
+      by Merck KgAA), a UC Berkeley microfluidic organ-on-chip technology
+      spin-out, and has also held senior product management and strategy
+      positions within multiple life science companies including Millipore Sigma
+      and Fluidigm. Alex is proud to have worked with strong technical teams and
+      led the development of platforms that have been awarded R&D100's New
+      Product Award, the Laboratory Automation New Product Award, and *The
+      Scientist's* Top 10 Innovations Award. Alex holds a B.S. in Bioengineering
+      from UC Berkeley. As part of his morning routine, you'll find Alex
+      practicing mindfulness in the Soto Zen Buddhism tradition and passing
+      coffee up for a cold shower and a sparring session.
     link: https://www.linkedin.com/in/mokalex
     name: Alex Mok
     title: CEO & Co-founder
