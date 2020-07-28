@@ -304,32 +304,29 @@ advisors:
       Roche in 1999.
 
 
-      He moved to Amira Pharmaceuticals, Inc. in 2007 as Chief Business Officer and after Amira’s acquisition in 2011, became Chief Executive Officer of Panmira Pharmaceuticals LLC.
+      He moved to Amira Pharmaceuticals, Inc. in 2007 as Chief Business Officer and after Amira’s acquisition in 2011 by Bristol Myers Squibb, became Chief Executive Officer of Panmira Pharmaceuticals LLC.
 
 
-      In his time, Dr. Kumar has overseen the launch of the immunosuppressive, CellCept®, the Alzheimer’s drug, Aricept® and gastric ulcer drug, Aciphex®. He was also involved in guiding cross functional teams at Roche for the Transplantation franchise which resulted in the growth of the products in the franchise to achieve billion dollar sales. In his role as lead in-licensing person for inflammation at Roche, he identified and partnered valuable products that have enhanced Roche’s portfolio. He was instrumental in partnerships with Isotechnika, Biotie, Biocryst and Actellion. Experience in almost all aspects of the pharmaceutical industry has given Dr. Kumar a unique understanding on what makes a successful drug.
+      In his time, Dr. Kumar has overseen the launch of the immunosuppressive, CellCept®, the Alzheimer’s drug, Aricept® and gastric ulcer drug, Aciphex®. He was also involved in guiding cross functional teams at Roche for the Transplantation franchise which resulted in the growth of the products in the franchise to achieve billion dollar sales. He was instrumental in partnerships with Isotechnika, Biotie, Biocryst and Actellion. 
 
 
-      At Amira, Dr. Kumar led the process that resulted in the acquisition by Bristol Myers Squibb in 2011. He has since then led the spin out company, Panmira Pharmaceuticals LLC.
-
-
-      Having trained as an immunologist at University College London where he completed his PhD under the supervision of Professor N.A. Mitchison, Dr. Kumar completed a postdoctoral fellowship at Tufts New England Medical Center in Boston and another fellowship at the Marie Curie Cancer Research Centre in UK.
+      Dr. Kumar is a trained immunologist from University College London where he completed his PhD under the supervision of Professor N.A. Mitchison and completed a postdoctoral fellowship at Tufts New England Medical Center in Boston and at the Marie Curie Cancer Research Centre in UK.
   - affiliation: Advisor
     bio: >-
       Andy has had a notable career in drug development, most significantly at
       Genentech from 1988 to 1993, where as Senior Director of Clinical Research
       he played a key role in the development, FDA approval and marketing of
-      human growth hormone (hGH, Nutropin). He was also responsible for the
-      development of Genentech's entire portfolio of endocrine drugs and drug
-      candidates. In addition, he also maintained a research lab at Genentech
-      and was a member of the team responsible for evaluation and selection of
-      new therapeutic drug candidates.
+      human growth hormone (hGH, Nutropin). After Genentech, Andy was one of the
+      first hires at Tularik, a new drug discovery company, where he served as
+      Vice President and then Executive Vice President until 2004. While at
+      Tularik, Andy's responsibilities included participating in the selection
+      of promising targets for new drugs. In addition, he was responsible for
+      clinical trial design and implementation, filing Tularik's first IND and
+      initiating the relevant clinical trials. H played an active role in
+      Tularik's acquisition by Amgen in 2004 for $1.3 billion.
 
 
-      After Genentech, Andy was one of the first hires at Tularik, a new drug discovery company, where he served as Vice President and then Executive Vice President until 2004, except for a 9-month period in 2002 when he served as CEO of Affymax. While at Tularik, Andy's responsibilities included participating in the selection of promising targets for new drugs and compounds for further development. In addition, he was responsible for clinical trial design and implementation, filing Tularik's first IND and initiating the relevant clinical trials. Later he played an active role in Tularik's business development, investor relations and financing activities, culminating with Tularik's acquisition by Amgen in 2004 for $1.3 billion.
-
-
-      Following the acquisition of Tularik, Andy was founder and CEO of Innate Immune Inc., an early stage biotech company focusing on therapies for asthma and autoimmune diseases. He also worked with a team at The Palo Alto Research Center to determine the clinical value of a new technique for the identification and enumeration of rare tumor cells in peripheral circulation. Andy has a B.S. from MIT, an M.D. and a Ph.D. in physiology from New York University (NYU). He did his Ph.D. research in the laboratory of Nobel laureate Professor Eric Kandel. He received postgraduate clinical training at Stanford School of Medicine and NYU. He worked as a staff scientist at the Medical Research Council in London from 1983 to 1984, continuing his medical research on steroid hormone nuclear receptors. From 1984 to 1987 he was an assistant professor at Stanford University where he did clinical work, teaching and research on hypertension. He is also on the board of Ecumenical Hunger Project of East Palo Alto, CA.
+      Following the acquisition of Tularik, Andy was founder and CEO of Innate Immune Inc., an early stage biotech company focusing on therapies for asthma and autoimmune diseases.  Andy has a B.S. from MIT, an M.D. and a Ph.D. in physiology from New York University (NYU). He did his Ph.D. research in the laboratory of Nobel laureate Professor Eric Kandel. He received postgraduate clinical training at Stanford School of Medicine and NYU. From 1984 to 1987 he was an assistant professor at Stanford University where he did clinical work, teaching and research on hypertension.
     image: /img/andy-crop-headshot-2.jpg
     link: https://www.vpd.net/management_team/Perlman.html
     name: Andrew Perlman, M.D., Ph.D.
