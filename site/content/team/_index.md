@@ -79,7 +79,7 @@ employees:
       changes in proteasome ubiquitylation in response to the unfolding of a
       single protein in live cells. Colin holds a B.A. in Environmental,
       Population and Organismic Biology from the University of Colorado, a Ph.D.
-      in Pharmacology from Cornell University, and completed a post doc At
+      in Pharmacology from Cornell University, and completed a post doc at
       Stanford University.  Outside of work Colin is passionate about public
       policy activism, getting outside, and spending time with animals of all
       kinds (particularly dogs).
@@ -105,25 +105,31 @@ employees:
     title: Principal Scientist, Protein Engineering
     image: /img/portraits/headshot-robert.jpg
   - bio: At Mantra Bio, Ginny leads preclinical research study efforts. From *in
-      vitro* potency, to *in vivo* biodistribution and efficacy studies, Ginny
-      leads study design, execution, supervising CROs and data analysis. An
-      accomplished scientist in her field, Ginny holds multiple biomedical
-      patents and awards. She has completed postdoctoral fellowships at UC
-      Berkeley, Lawrence Berkeley National Laboratory, and the Institute of
-      Atomic and Molecular Sciences in Taiwan. Ginny earned her B.S. in Plant
-      Pathology and Microbiology from National Taiwan University, and her Ph.D.
-      in Chemistry from the National Tsing-Hua University in Taiwan. In her free
-      time Ginny enjoys attending the opera, symphony, and other musical
-      performances.
+      vitro* potency assays to *in vivo* efficacy studies, Ginny leads study
+      design, execution, and data analysis. An accomplished scientist in her
+      field, Ginny holds multiple biomedical patents and awards. She has
+      completed postdoctoral fellowships at UC Berkeley, Lawrence Berkeley
+      National Laboratory, and the Institute of Atomic and Molecular Sciences in
+      Taiwan. Ginny earned her B.S. in Plant Pathology and Microbiology from
+      National Taiwan University, and her Ph.D. in Chemistry from the National
+      Tsing-Hua University in Taiwan. In her free time Ginny enjoys attending
+      the opera, symphony, and other musical performances.
     link: "https://www.linkedin.com/in/chichihkang "
     name: Ginny Kang, Ph.D.
     title: Sr. Scientist
     image: /img/portraits/mantrabio-6693.jpg
   - bio: Alex is an entrepreneur with over a decade’s experience in building life
-      science businesses. Alex was Head of Commercialization at CellASIC
-      (acquired by Merck KgAA), a UC Berkeley spin-out based on microfluidic
-      organ-on-chip technology. Alex has also held senior product management and
-      director level strategy positions within multiple life science companies.
+      science businesses. He was head of commercialization at CellASIC (acquired
+      by Merck KgAA), a UC Berkeley microfluidic organ-on-chip technology
+      spin-out, and has also held senior product management and strategy
+      positions within multiple life science companies including Millipore Sigma
+      and Fluidigm. Alex is proud to have worked with strong technical teams and
+      led the development of platforms that have been awarded R&D100's New
+      Product Award, the Laboratory Automation New Product Award, and *The
+      Scientist's* Top 10 Innovations Award. Alex holds a B.S. in Bioengineering
+      from UC Berkeley. As part of his morning routine, you'll find Alex
+      practicing mindfulness in the Soto Zen Buddhism tradition and passing
+      coffee up for a cold shower and a sparring session.
     link: https://www.linkedin.com/in/mokalex
     name: Alex Mok
     title: CEO & Co-founder
@@ -289,8 +295,41 @@ advisors:
     image: /img/img_1888.jpg
     link: https://www.linkedin.com/in/hari-kumar-a305027/
     name: Hari Kumar, Ph.D.
+    bio: >-
+      Dr. Kumar has over 25 years of pharmaceutical experience. He spent a
+      number of years at Hoffmann La Roche starting in basic research and then
+      moving to sales and marketing, lifecycle management and finally to
+      business development. During the period 1996 through 1999, Dr. Kumar moved
+      to Eisai Ltd, as their European Marketing Director before returning to
+      Roche in 1999.
+
+
+      He moved to Amira Pharmaceuticals, Inc. in 2007 as Chief Business Officer and after Amira’s acquisition in 2011, became Chief Executive Officer of Panmira Pharmaceuticals LLC.
+
+
+      In his time, Dr. Kumar has overseen the launch of the immunosuppressive, CellCept®, the Alzheimer’s drug, Aricept® and gastric ulcer drug, Aciphex®. He was also involved in guiding cross functional teams at Roche for the Transplantation franchise which resulted in the growth of the products in the franchise to achieve billion dollar sales. In his role as lead in-licensing person for inflammation at Roche, he identified and partnered valuable products that have enhanced Roche’s portfolio. He was instrumental in partnerships with Isotechnika, Biotie, Biocryst and Actellion. Experience in almost all aspects of the pharmaceutical industry has given Dr. Kumar a unique understanding on what makes a successful drug.
+
+
+      At Amira, Dr. Kumar led the process that resulted in the acquisition by Bristol Myers Squibb in 2011. He has since then led the spin out company, Panmira Pharmaceuticals LLC.
+
+
+      Having trained as an immunologist at University College London where he completed his PhD under the supervision of Professor N.A. Mitchison, Dr. Kumar completed a postdoctoral fellowship at Tufts New England Medical Center in Boston and another fellowship at the Marie Curie Cancer Research Centre in UK.
   - affiliation: Advisor
-    bio: ""
+    bio: >-
+      Andy has had a notable career in drug development, most significantly at
+      Genentech from 1988 to 1993, where as Senior Director of Clinical Research
+      he played a key role in the development, FDA approval and marketing of
+      human growth hormone (hGH, Nutropin). He was also responsible for the
+      development of Genentech's entire portfolio of endocrine drugs and drug
+      candidates. In addition, he also maintained a research lab at Genentech
+      and was a member of the team responsible for evaluation and selection of
+      new therapeutic drug candidates.
+
+
+      After Genentech, Andy was one of the first hires at Tularik, a new drug discovery company, where he served as Vice President and then Executive Vice President until 2004, except for a 9-month period in 2002 when he served as CEO of Affymax. While at Tularik, Andy's responsibilities included participating in the selection of promising targets for new drugs and compounds for further development. In addition, he was responsible for clinical trial design and implementation, filing Tularik's first IND and initiating the relevant clinical trials. Later he played an active role in Tularik's business development, investor relations and financing activities, culminating with Tularik's acquisition by Amgen in 2004 for $1.3 billion.
+
+
+      Following the acquisition of Tularik, Andy was founder and CEO of Innate Immune Inc., an early stage biotech company focusing on therapies for asthma and autoimmune diseases. He also worked with a team at The Palo Alto Research Center to determine the clinical value of a new technique for the identification and enumeration of rare tumor cells in peripheral circulation. Andy has a B.S. from MIT, an M.D. and a Ph.D. in physiology from New York University (NYU). He did his Ph.D. research in the laboratory of Nobel laureate Professor Eric Kandel. He received postgraduate clinical training at Stanford School of Medicine and NYU. He worked as a staff scientist at the Medical Research Council in London from 1983 to 1984, continuing his medical research on steroid hormone nuclear receptors. From 1984 to 1987 he was an assistant professor at Stanford University where he did clinical work, teaching and research on hypertension. He is also on the board of Ecumenical Hunger Project of East Palo Alto, CA.
     image: /img/andy-crop-headshot-2.jpg
     link: https://www.vpd.net/management_team/Perlman.html
     name: Andrew Perlman, M.D., Ph.D.
@@ -298,6 +337,18 @@ advisors:
     image: /img/saks-2.jpg
     link: https://mantrabio.netlify.com/team/
     name: Sam Saks, M.D.
+    bio: Dr. Saks has served as Chief Medical Officer for Protagonist Therapeutics
+      since May 2019. Prior to joining Protagonist Therapeutics, Dr. Saks served
+      as Chief Development Officer and board member at Auspex Pharmaceuticals
+      until the time of its acquisition by Teva Pharmaceuticals. Before his
+      tenure at Auspex, Dr. Saks was a co-founder of Jazz Pharmaceuticals where
+      he also served as Chief Executive Officer. Earlier in his career, Dr. Saks
+      held positions as company group chairman of ALZA Corporation and member of
+      the Johnson & Johnson Pharmaceutical Operating Committee. Dr. Saks has
+      also held leadership and management positions at Schering-Plough, Xoma and
+      Genentech. Dr. Saks serves on the boards of directors of Quanta
+      Therapeutics and Hinge Bio. Dr. Saks received a B.S. in Biology and his
+      M.D. from the University of Illinois.
 investors:
   - image: /img/8vc-logo-white.png
   - image: /img/vkg-vikingonly-rgb.png
