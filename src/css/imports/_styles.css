@@ -234,3 +234,9 @@ video {
   width: 100% !important;
   height: auto !important;
 }
+
+#banner {
+  width: 100vw;
+  position: absolute;
+  bottom:0;
+}
