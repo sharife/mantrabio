@@ -216,7 +216,7 @@ hr {
   &>div .scrollme {
     display: inline-block;
     max-height:30rem;
-    overflow-y: scroll;
+    overflow-y: auto;
   }
   header {
     font-weight: bold;
