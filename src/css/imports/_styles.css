@@ -6,6 +6,27 @@ body {
   background: var(--grey-4);
 }
 
+
+html {
+  --scrollbarBG: #CFD8DC;
+  --thumbBG: #90A4AE;
+}
+body::-webkit-scrollbar {
+  width: 10px;
+}
+body {
+  scrollbar-width: thin;
+  scrollbar-color: var(--black) var(--grey-3);
+}
+body::-webkit-scrollbar-track {
+  background: var(--black);
+}
+body::-webkit-scrollbar-thumb {
+  background-color: var(--grey-3);
+  border-radius: 6px;
+  border: 3px solid var(--black);
+}
+
 p {
   font-size: 0.85em;
 }
@@ -195,9 +216,7 @@ hr {
   &>div .scrollme {
     display: inline-block;
     max-height:30rem;
-    overflow: scroll;
-    --scrollbarBG: var(--black);
-    --thumbBG: var(--grey-2);
+    overflow-y: scroll;
   }
   header {
     font-weight: bold;
@@ -207,6 +226,23 @@ hr {
     margin: 0 0 15px;
     color: white;
   }
+}
+
+
+.scrollme::-webkit-scrollbar {
+  width: 10px;
+}
+.scrollme {
+  scrollbar-width: thin;
+  scrollbar-color: var(--black) var(--grey-3);
+}
+.scrollme::-webkit-scrollbar-track {
+  background: var(--black);
+}
+.scrollme::-webkit-scrollbar-thumb {
+  background-color: var(--grey-3);
+  border-radius: 6px;
+  border: 3px solid var(--black);
 }
 
 .modal-close {
