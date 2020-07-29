@@ -4,6 +4,7 @@
 
 body {
   background: var(--grey-4);
+  overflow-x: hidden;
 }
 
 
