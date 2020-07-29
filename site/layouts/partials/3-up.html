@@ -1,9 +1,9 @@
 <div class="bg-grey-4 white pv4">
-  <div class="ph3 mw7 center tc pb3">
+  <div class="ph3 mw7 center pb3">
     {{ if .intro.heading }}
-    <h2 class="f3 b lh-title mb2 hideme">{{.intro.heading}}</h2>
+    <h2 class="f3 b lh-title mb2 tc hideme">{{.intro.heading}}</h2>
     {{ end }}
-    <p class="center mb4 mw6 hideme">{{.intro.text | markdownify}}</p>
+    <p class="center mb4 mw6 hideme tc-ns">{{.intro.text | markdownify}}</p>
 
     <div class="flex-ns mhn2-ns mb3">
       {{ range .items }}
