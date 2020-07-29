@@ -4,7 +4,7 @@ subtitle: 'We harness exosomes to deliver safe, highly targeted medicines.'
 image: /img/cover-bg-alt.jpg
 overview:
   heading: Targeted exosomes - a new paradigm for drug delivery
-  image: /img/illustration-exosome-2.png
+  image: /img/illustration-exosome-4.png
   text: >
     Exosomes are powerful nano-messengers that comprise nature’s cellular
     communication network. After decades of scientific discovery, exosomes are

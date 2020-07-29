@@ -14,18 +14,24 @@
       </div>
     </div>
     {{ end }}
-    {{ if .videolink }}
+    <!-- {{ if .videolink }}
     <div class="mb3">
       <a href="#open-modal-video" onclick="playVid()" class="no-underline f6 secondary raise">
         <img src="/img/btn-play.svg" class="mw2 pr2" style="vertical-align:middle" />
         {{.videolink}}
       </a>
     </div>
-    {{ end }}
+    {{ end }} -->
   </div>
 
   <div class="ph3-m w-50-ns flex" style="align-items: flex-end;">
+    {{ if .videolink }}
+    <a href="#open-modal-video" onclick="playVid()">
+      {{ end }}
     <img src="{{.imageUrl}}" alt="" class="db mb0 br0 w-100">
+    {{ if .videolink }}
+    </a>
+    {{ end }}
   </div>
 
 </div>
