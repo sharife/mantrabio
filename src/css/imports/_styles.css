@@ -196,6 +196,8 @@ hr {
     display: inline-block;
     max-height:30rem;
     overflow: scroll;
+    --scrollbarBG: var(--black);
+    --thumbBG: var(--grey-2);
   }
   header {
     font-weight: bold;
