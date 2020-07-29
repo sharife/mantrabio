@@ -9,7 +9,7 @@
       {{ range .items }}
       <div class="ph2-ns w-33-ns">
         <img src="{{.image}}" alt="" class="center db mb3 hideme" style="max-width: 120px">
-        {{if .heading }}<h3 class="b f6 mb1 pr4 pl4 lh-title hideme">{{.heading}}</h3>{{ end }}
+        {{if .heading }}<h3 class="b f6 mb1 pr4 pl4 lh-title tc hideme">{{.heading}}</h3>{{ end }}
         <p class="small tl hideme">{{.text | markdownify}}</p>
       </div>
       {{ end }}
