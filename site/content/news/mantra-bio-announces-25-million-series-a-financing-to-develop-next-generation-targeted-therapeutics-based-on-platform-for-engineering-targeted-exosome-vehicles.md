@@ -1,12 +1,11 @@
 ---
-title: Mantra Bio Announces $25 Million Series A Financing to Develop Next
-  Generation Targeted Therapeutics Based on Platform for Engineering Targeted
-  Exosome Vehicles
+title: "Mantra Bio Announces $25 Million Series A Financing "
 date: 2020-07-29T14:00:00.000Z
 category: Press Release
 link: http://www.prnewswire.com/news-releases/mantra-bio-announces-25-million-series-a-financing-to-develop-next-generation-targeted-therapeutics-based-on-platform-for-engineering-targeted-exosome-vehicles-301100664.html?tc=eml_cleartime
-description: "Mantra Bio announces it has raised $25 million in a Series A
-  financing round. "
+description: Mantra Bio announces it has raised $25 million in a Series A
+  financing round to develop next generation targeted therapeutics based on a
+  platform for engineering targeted exosome vehicles.
 ---
 SAN FRANCISCO, July 29, 2020 /PRNewswire/ -- Mantra Bio today announced it has raised $25 million in a Series A financing to advance development of next generation, precision therapeutics based on its proprietary platform for engineering Targeted Exosome Vehicles (TEVs). 8VC and Viking Global Investors led the round, which also included Box Group and Allen & Company LLC. Total investment in the Company to date, including a $5 million seed round, is $30 million.
 
