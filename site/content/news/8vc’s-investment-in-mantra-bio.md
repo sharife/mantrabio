@@ -3,15 +3,14 @@ title: 8VC’s Investment in Mantra Bio
 date: 2020-08-04T00:00:00.000Z
 category: Editorial
 link: https://8vc.com/2020/08/03/8vcs-investment-in-mantra-bio/#
-description: "Paul Ehrlich, one of the forefathers of modern medicine, famously
-  proposed the idea of a “magic bullet” that would selectively kill pathogens
-  while sparing the body. His research led to the first drug for syphilis and
-  established the chemistry-driven paradigm of therapeutics that would persist
-  for the next 70 years. Unfortunately, it turned out that there is no simple
-  way to achieve arbitrary targeting of cytotoxic chemical compounds, and these
-  magic bullet treatments proved difficult to reproduce. The lack of precision
-  delivery presents pharma with a double-edged sword: higher doses with elevated
-  toxicity, or lower doses that are potentially inefficacious."
+description: '"We are excited to announce that 8VC and Viking Global are
+  co-leading a $25M Series A investment into Mantra Bio to help them build out
+  their exosome therapeutics platform. 8VC has backed Mantra since its pre-seed
+  stage in 2017 when they were starting at the Illumina accelerator. The team
+  has shown amazing progress and exciting results around cell-specific targeted
+  exosomes. We are excited to partner with them as they expand their plans to
+  engineer, manufacture, and deliver novel treatments to patients in dire
+  need."'
 image: img/funding-announcement-headers_mantra-bio-2048x880.jpg
 ---
 Paul Ehrlich, one of the forefathers of modern medicine, famously proposed the idea of a “magic bullet” that would selectively kill pathogens while sparing the body. His research led to the first drug for syphilis and established the chemistry-driven paradigm of therapeutics that would persist for the next 70 years. Unfortunately, it turned out that there is no simple way to achieve arbitrary targeting of cytotoxic chemical compounds, and these magic bullet treatments proved difficult to reproduce. The lack of precision delivery presents pharma with a double-edged sword: higher doses with elevated toxicity, or lower doses that are potentially inefficacious.
