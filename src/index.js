@@ -56,35 +56,13 @@ $(function() {
 });
 
 
+function setCookie(cname, cvalue, exdays) {
+  var d = new Date();
+  d.setTime(d.getTime() + (exdays*24*60*60*1000));
+  var expires = "expires="+ d.toUTCString();
+  document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+}
 
-// $(function() {
-//   var allowed = true;
-//   var heading = $('figheading');
-//   var output = $('figcaption');
-//   $('g').each(function() {
-//     var that = $(this);
-//     that.on('mouseenter', function() {
-//       allowed = true;
-//       //$(this).attr('fill', '#08f');
-//       //output.text($(this).attr('data-desc')); // Could grab a cool data-something description or link somewhere.
-//     });
-//     that.on('mouseleave', function() {
-//       //$(this).attr('fill', '#d3d3d3');
-//     });
-//     that.on('click', function() {
-//       //$(this).toggleClass('active'); Doesn't work with svg
-//       var that = $(this);
-//       // if (allowed === true) {
-//       //   alert($(this).attr('data-desc'));
-//       //   allowed = false;
-//       // }
-//       heading.text($(this).attr('data-title'));
-//       output.text($(this).attr('data-desc'));
-//       // (that.attr('data-active') === 'true') ? that.attr('data-active', 'false') : that.attr('data-active', 'true');      
-//     });
-//   });
-
-// });
 
 
 
@@ -126,3 +104,13 @@ $('a[href*="#"]')
       }
     }
   });
+
+
+$(function(){ 
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  const src = urlParams.get('gh_src');
+  if (src) {
+    setCookie('gh_src', src, 10);
+  }
+});
