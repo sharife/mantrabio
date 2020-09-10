@@ -13,36 +13,6 @@
 </div>
 
 <script src="https://boards.greenhouse.io/embed/job_board/js?for=mantrabio"></script>
-<script type="text/javascript">
-	window.setTimeout(checkCookie, 3000);
 
-	function checkCookie() {
-	  var src = getCookie("gh_src");
-	  if (src != "") {
-	    //alert("gh_src = " + src);
-	    let url = new URL(window.location);
-		//let params = new URLSearchParams(url.search.slice(1));
-		var params = url.searchParams
-		params.append('gh_src', src);
-		url.search = params.toString();
-	  }
-	}
-
-	function getCookie(cname) {
-	  var name = cname + "=";
-	  var ca = document.cookie.split(';');
-	  for(var i = 0; i < ca.length; i++) {
-	    var c = ca[i];
-	    while (c.charAt(0) == ' ') {
-	      c = c.substring(1);
-	    }
-	    if (c.indexOf(name) == 0) {
-	      return c.substring(name.length, c.length);
-	    }
-	  }
-	  return "";
-	}
-
-</script>
 
 {{ end }}
