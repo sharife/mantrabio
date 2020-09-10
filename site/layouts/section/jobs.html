@@ -23,6 +23,7 @@
 	    let url = new URL(window.location);
 		let params = new URLSearchParams(url.search.slice(1));
 		params.append('gh_src', src);
+		url.search = params.toString();
 	  }
 	}
 
