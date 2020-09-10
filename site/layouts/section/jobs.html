@@ -21,7 +21,8 @@
 	  if (src != "") {
 	    //alert("gh_src = " + src);
 	    let url = new URL(window.location);
-		let params = new URLSearchParams(url.search.slice(1));
+		//let params = new URLSearchParams(url.search.slice(1));
+		var params = url.searchParams
 		params.append('gh_src', src);
 		url.search = params.toString();
 	  }
