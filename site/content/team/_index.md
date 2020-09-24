@@ -287,6 +287,9 @@ employees:
     name: Natalia Santos, Ph.D.
     title: Sr. Scientist
     image: /img/fpo-head.png
+  - name: Oliver Wueseke, Ph.D.
+    title: Chief of Staff
+    image: img/fpo-head.png
 advisors:
   - affiliation: Advisor
     bio: >-
