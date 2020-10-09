@@ -70,7 +70,7 @@ employees:
       backpacking- or racing sailboats on the Bay.
     link: https://www.linkedin.com/in/migordonsc
     name: Mitch Gordon
-    title: Business Ops. Associate
+    title: Business Ops. Manager
     image: /img/portraits/mantrabio-6717.jpg
   - bio: As Mantra’s protein engineer, Colin leads the efforts behind cell line
       engineering, mass spectrometry, and other biochemistry projects. Through
