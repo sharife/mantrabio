@@ -287,9 +287,25 @@ employees:
     name: Natalia Santos, Ph.D.
     title: Sr. Scientist
     image: /img/fpo-head.png
+  - name: Thiruganesh Ramasamy, M. Pharm, Ph.D.
+    title: Scientist
+    image: img/fpo-head.png
+    link: https://www.linkedin.com/in/thiruganesh-ramasamy-13a171b5/
   - name: Oliver Wueseke, Ph.D.
     title: Chief of Staff
     image: img/fpo-head.png
+    bio: Oliver’s passion is building high performing R&D teams. At Mantra he leads
+      cultural and organizational development initiatives that promote a fun and
+      exciting work environment- a driving force behind Mantra Bio’s exceptional
+      level of innovation. Oliver, an HSFP Fellowship awardee, backs up his
+      operational leadership with a Ph.D from Max Planck Institute in Cell and
+      Molecular Biology, and 12 years of research experience on organoid
+      development and protein dynamics. Oliver previously worked as the R&D lead
+      at System1 Biosciences, in charge of developing their “brain-in-a-dish”
+      science. He is also the founder if Impuse Science Inc., a biotech start-up
+      coaching firm. Outside of work, Oliver can be found windsurfing across the
+      Bay, unleashing his creativity through photography and digital art, or
+      traveling the word.
 advisors:
   - affiliation: Advisor
     bio: >-
