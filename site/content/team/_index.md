@@ -294,12 +294,12 @@ employees:
   - name: Oliver Wueseke, Ph.D.
     title: Chief of Staff
     image: img/fpo-head.png
-    bio: Oliver’s passion is building high performing R&D teams. At Mantra he leads
-      cultural and organizational development initiatives that promote a fun and
-      exciting work environment- a driving force behind Mantra Bio’s exceptional
+    bio: Oliver’s passion is building high performing R&D teams. At Mantra Bio he
+      leads cultural and organizational development initiatives that make Mantra
+      Bio a fun and exciting place to work, driving Mantra Bio’s exceptional
       level of innovation. Oliver, an HSFP Fellowship awardee, backs up his
-      operational leadership with a Ph.D from Max Planck Institute in Cell and
-      Molecular Biology, and 12 years of research experience on organoid
+      operational leadership with a Ph.D from the Max Planck Institute in Cell
+      and Molecular Biology, and 12 years of research experience on organoid
       development and protein dynamics. Oliver previously worked as the R&D lead
       at System1 Biosciences, in charge of developing their “brain-in-a-dish”
       science. He is also the founder if Impuse Science Inc., a biotech start-up
