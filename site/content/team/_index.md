@@ -291,6 +291,16 @@ employees:
     title: Scientist
     image: img/fpo-head.png
     link: https://www.linkedin.com/in/thiruganesh-ramasamy-13a171b5/
+    bio: Thiruganesh is a drug delivery chemist working in the interdisciplinary
+      field of nanomedicine and biomaterials. At Mantra, he works on the
+      formulation and quality control testing of therapeutic exosome payloads.
+      Thiruganesh brings extensive experience in design, engineering,
+      optimization, and characterization of lipid and polymer-based
+      nanoparticles for cancer and cardiovascular diseases. In 2015 he received
+      a Ph.D. in Pharmaceutics and Drug Delivery from the Yeungnam University
+      (South Korea), and holds a Bachelor's in Pharmacy and a Master's in
+      Pharmaceutical Sciences from India. A avid runner, Thiruganesh competes in
+      half marathon races each year.
   - name: Oliver Wueseke, Ph.D.
     title: Chief of Staff
     image: img/fpo-head.png
