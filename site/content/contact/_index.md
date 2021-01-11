@@ -2,7 +2,7 @@
 title: Contact
 contact_entries:
   - heading: Mantra Bio
-    text: 455 Mission Bay Blvd South
-  - text: San Francisco, California 94158
+    text: 600 Gateway Boulevard, Suite 202
+  - text: South San Francisco, California 94080
   - text: info@mantrabio.com
 ---
