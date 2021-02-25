@@ -301,6 +301,16 @@ employees:
       (South Korea), and holds a Bachelor's in Pharmacy and a Master's in
       Pharmaceutical Sciences from India. A avid runner, Thiruganesh competes in
       half marathon races each year.
+  - name: Geoff Weiss
+    bio: Geoff Weiss, Mantra Bio’s lead Downstream Process Development Scientist,
+      brings decades of experience in the manufacturing of adeno-associated
+      virus and oligonucleotide products while at Sangamo Therapeutics and LGC
+      Biosearch, respectively. He holds a BS in Chemical Engineering from Lehigh
+      University in Bethlehem, PA. A long time Bay Area resident, Geoff enjoys
+      all the food, wine, hiking, and music culture the area has to offer.
+    image: img/fpo-head.png
+    link: https://www.linkedin.com/in/geoff-weiss-92a5886/
+    title: Sr. Process Development Scientist
   - name: Oliver Wueseke, Ph.D.
     title: Chief of Staff
     image: img/fpo-head.png
