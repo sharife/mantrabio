@@ -322,10 +322,10 @@ employees:
       and Molecular Biology, and 12 years of research experience on organoid
       development and protein dynamics. Oliver previously worked as the R&D lead
       at System1 Biosciences, in charge of developing their “brain-in-a-dish”
-      science. He is also the founder if Impuse Science Inc., a biotech start-up
-      coaching firm. Outside of work, Oliver can be found windsurfing across the
-      Bay, unleashing his creativity through photography and digital art, or
-      traveling the word.
+      science. He is also the founder if Impulse Science Inc., a biotech
+      start-up coaching firm. Outside of work, Oliver can be found windsurfing
+      across the Bay, unleashing his creativity through photography and digital
+      art, or traveling the world.
 advisors:
   - affiliation: Advisor
     bio: >-
