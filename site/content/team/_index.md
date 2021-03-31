@@ -191,17 +191,6 @@ employees:
       healing. Abhishek earned his Bachelor’s degree in microbiology at the
       University of California, Davis and loves adrenaline-filled activities
       like sky diving, or simply jogging with his dog, and listening to music.
-  - bio: Jacob is part of Mantra Bio’s Process Sciences team where he handles assay
-      development, cell line development, and flow cytometry. Previously Jacob
-      held a position as a researcher at C.H.O.R.I. (Children's Hospital Oakland
-      Research Institute) and taught peer-to-peer public health courses at UC
-      Berkeley focused on healthcare systems. Jacob holds a B.A. in Molecular
-      and Cell Biology from UC Berkeley and enjoys spending time with family and
-      friends, reading, and hiking.
-    link: http://www.linkedin.com
-    name: Jacob Strelnikov
-    title: Research Associate II
-    image: /img/portraits/mantrabio-6661.jpg
   - bio: Zachary is part of Mantra’s process sciences team working on downstream
       process development. He brings an intimate knowledge of process sciences
       from his time at Stemcentrx, and later AbbVie, where he developed antibody
@@ -232,18 +221,6 @@ employees:
     name: Linda Szabo, M.S., Ph.D.
     title: Lead Data Scientist
     image: /img/portraits/mantrabio-6805.jpg
-  - bio: Raeline is part of Mantra Bio’s preclinical development team where she
-      handles in-vitro assay development, in vivo study design, cell culture,
-      microscopy, and flow cytometry. Raeline holds B.A. degrees in Biochemistry
-      & Molecular Biology and English from UC Berkeley. After graduating, she
-      went on to do research as part of the He Lab, where she won UC Berkeley’s
-      2018 MIC Image Competition for her microscopy work. Raeline is a
-      passionate music playlist crafter, latte art expert, and would be excited
-      to read your horoscope.
-    link: "https://www.linkedin.com/in/raeline-valbuena "
-    name: Raeline Valbuena
-    title: Research Associate II
-    image: /img/portraits/mantrabio-6561.jpg
   - name: Liliana Maruri Avidal, Ph.D.
     title: Senior Director of Preclinical Development
     image: img/fpo-head.png
@@ -261,6 +238,10 @@ employees:
 
 
       Dr. Maruri Avidal enjoys traveling the world to lean about different cultures and food. Outside of work she can be found hiking, biking, cooking and gardening.
+  - name: Bryan McKernon
+    title: Software Engineer
+    image: img/fpo-head.png
+    link: https://www.linkedin.com/in/bryan-mckernon/
   - bio: Sidharth brings expertise in software development and data infrastructure,
       with previous experience working for health tech and clean energy
       startups. He earned his B.A. in Biology with minors in both Computer
@@ -271,6 +252,26 @@ employees:
     name: Sidharth Menon
     title: Data Engineer
     image: /img/fpo-head.png
+  - name: Fernando Moreno
+    title: Business Ops. Associate
+    image: img/fpo-head.png
+  - name: Sabrina Noritake
+    title: Research Associate
+    image: img/fpo-head.png
+  - name: Thiruganesh Ramasamy, M. Pharm, Ph.D.
+    title: Scientist
+    image: img/fpo-head.png
+    link: https://www.linkedin.com/in/thiruganesh-ramasamy-13a171b5/
+    bio: Thiruganesh is a drug delivery chemist working in the interdisciplinary
+      field of nanomedicine and biomaterials. At Mantra, he works on the
+      formulation and quality control testing of therapeutic exosome payloads.
+      Thiruganesh brings extensive experience in design, engineering,
+      optimization, and characterization of lipid and polymer-based
+      nanoparticles for cancer and cardiovascular diseases. In 2015 he received
+      a Ph.D. in Pharmaceutics and Drug Delivery from the Yeungnam University
+      (South Korea), and holds a Bachelor's in Pharmacy and a Master's in
+      Pharmaceutical Sciences from India. A avid runner, Thiruganesh competes in
+      half marathon races each year.
   - bio: Natalia leads analytical development as part of the Process Sciences team
       at Mantra Bio. Her efforts drive the development and qualification of
       Mantra’s in-house exosome therapeutic characterization assays. Natalia’s
@@ -287,20 +288,9 @@ employees:
     name: Natalia Santos, Ph.D.
     title: Sr. Scientist
     image: /img/fpo-head.png
-  - name: Thiruganesh Ramasamy, M. Pharm, Ph.D.
-    title: Scientist
+  - name: Alexis Toruño
+    title: Research Associate
     image: img/fpo-head.png
-    link: https://www.linkedin.com/in/thiruganesh-ramasamy-13a171b5/
-    bio: Thiruganesh is a drug delivery chemist working in the interdisciplinary
-      field of nanomedicine and biomaterials. At Mantra, he works on the
-      formulation and quality control testing of therapeutic exosome payloads.
-      Thiruganesh brings extensive experience in design, engineering,
-      optimization, and characterization of lipid and polymer-based
-      nanoparticles for cancer and cardiovascular diseases. In 2015 he received
-      a Ph.D. in Pharmaceutics and Drug Delivery from the Yeungnam University
-      (South Korea), and holds a Bachelor's in Pharmacy and a Master's in
-      Pharmaceutical Sciences from India. A avid runner, Thiruganesh competes in
-      half marathon races each year.
   - name: Geoff Weiss
     bio: Geoff Weiss, Mantra Bio’s lead Downstream Process Development Scientist,
       brings decades of experience in the manufacturing of adeno-associated
@@ -311,6 +301,9 @@ employees:
     image: img/fpo-head.png
     link: https://www.linkedin.com/in/geoff-weiss-92a5886/
     title: Sr. Process Development Scientist
+  - name: Ming Lun Wu
+    title: Research Associate
+    image: img/fpo-head.png
   - name: Oliver Wueseke, Ph.D.
     title: Chief of Staff
     image: img/fpo-head.png
