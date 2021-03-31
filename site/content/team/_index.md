@@ -242,6 +242,14 @@ employees:
     title: Software Engineer
     image: img/fpo-head.png
     link: https://www.linkedin.com/in/bryan-mckernon/
+    bio: Bryan is Mantra Bio’s Front End Software Engineer, leading web app
+      development, specializing in single page applications using React and
+      RESTful APIs. With a B.S. in Information Systems from San Jose State
+      University and previous experience developing a data glossary for Santa
+      Clara County's Criminal Justice Information System, Bryan adds significant
+      expertise to the Mantra Bio team. A true music lover, Bryan has played the
+      electric guitar for most of his life, and can be found jamming out with
+      friends outside of work.
   - bio: Sidharth brings expertise in software development and data infrastructure,
       with previous experience working for health tech and clean energy
       startups. He earned his B.A. in Biology with minors in both Computer
