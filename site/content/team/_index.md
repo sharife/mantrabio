@@ -263,9 +263,10 @@ employees:
   - name: Fernando Moreno
     title: Business Ops. Associate
     image: img/fpo-head.png
-  - name: Sabrina Noritake
-    title: Research Associate
+  - name: Sabrina Noritake, M.A.
+    title: Research Associate II
     image: img/fpo-head.png
+    link: https://www.linkedin.com/in/sabrina-noritake-36b55b65/
   - name: Thiruganesh Ramasamy, M. Pharm, Ph.D.
     title: Scientist
     image: img/fpo-head.png
@@ -310,8 +311,16 @@ employees:
     link: https://www.linkedin.com/in/geoff-weiss-92a5886/
     title: Sr. Process Development Scientist
   - name: Ming Lun Wu
-    title: Research Associate
+    title: Automation Engineer
     image: img/fpo-head.png
+    link: https://www.linkedin.com/in/minglwu/
+    bio: Ming Lun Wu joins Mantra Bio’s Automation team as an Automation Engineer.
+      Ming Lun is focused on making science easier and more efficient through
+      the automation of experiments and data analysis, with an emphasis on Flow
+      Cytometry workflows. Ming Lun holds a Bachelor’s of Science in Biomedical
+      Engineering from the University of Florida, and a Master’s of Science in
+      Bioengineering from the University of California, Los Angeles. Outside of
+      work Ming Lun can be found performing Latin Dance or playing video games.
   - name: Oliver Wueseke, Ph.D.
     title: Chief of Staff
     image: img/fpo-head.png
