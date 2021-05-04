@@ -267,6 +267,16 @@ employees:
     title: Research Associate II
     image: img/fpo-head.png
     link: https://www.linkedin.com/in/sabrina-noritake-36b55b65/
+    bio: As Mantra Bio’s *In Vivo* Research Associate, Sabrina Noritake plays a
+      major role in planning, execution, and data analysis for key *in vivo*
+      studies. Prior to joining Mantra, Sabrina attended  University of the
+      Pacific and received her Bachelor’s of Science degree in Biochemistry. She
+      later attended Sacramento State to complete a Professional Science
+      Master’s in Stem Cell Research. An active undergraduate researcher, in
+      2016 Sabrina was awarded with a summer research fellowship, and was named
+      *Outstanding Biochemistry Senior* in 2017. While not at work, Sabrina
+      enjoys hiking, eating good food, reading books, and saving the world with
+      her Dungeons and Dragons group.
   - name: Thiruganesh Ramasamy, M. Pharm, Ph.D.
     title: Scientist
     image: img/fpo-head.png
