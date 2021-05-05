@@ -308,8 +308,12 @@ employees:
     title: Sr. Scientist
     image: /img/fpo-head.png
   - name: Alexis Toruño
-    title: Research Associate
+    title: Research Associate II
     image: img/fpo-head.png
+    bio: As a research associate on Mantra Bio’s TEV Platform team, Alexis Toruño is
+      responsible for producing and characterizing exosome vehicles. Alexis
+      holds a Bachelor's Degree in Biological Sciences from Dominican
+      University.
   - name: Geoff Weiss
     bio: Geoff Weiss, Mantra Bio’s lead Downstream Process Development Scientist,
       brings decades of experience in the manufacturing of adeno-associated
