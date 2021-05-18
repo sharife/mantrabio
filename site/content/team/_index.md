@@ -221,6 +221,10 @@ employees:
     name: Linda Szabo, M.S., Ph.D.
     title: Lead Data Scientist
     image: /img/portraits/mantrabio-6805.jpg
+  - name: Zebulon LaPoint
+    title: Sr. Research Associate
+    link: https://www.linkedin.com/in/zebulon-lapoint-4648b075/
+    image: img/fpo-head.png
   - name: Liliana Maruri Avidal, Ph.D.
     title: Senior Director of Preclinical Development
     image: img/fpo-head.png
@@ -260,6 +264,10 @@ employees:
     name: Sidharth Menon
     title: Data Engineer
     image: /img/fpo-head.png
+  - name: Alaknanda Mishra, M.S., Ph.D.
+    title: Scientist
+    link: https://www.linkedin.com/in/alaknanda-mishra-a42279b7/
+    image: img/fpo-head.png
   - name: Fernando Moreno
     title: Business Ops. Associate
     image: img/fpo-head.png
