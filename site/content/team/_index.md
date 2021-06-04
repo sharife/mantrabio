@@ -225,6 +225,12 @@ employees:
     title: Sr. Research Associate
     link: https://www.linkedin.com/in/zebulon-lapoint-4648b075/
     image: img/fpo-head.png
+    bio: Zebulon joined Mantra Bio to help produce, purify, and characterize
+      extracellular vesicles as part of the Process Science team. Previously a
+      sergeant in the army, Zebulon turned to biology and then research after
+      earning a B.S. in Zoology at San Francisco State University. Outside of
+      work Zebulon likes to roast coffee and make cheese, when not hiking or
+      pretending to garden.
   - name: Liliana Maruri Avidal, Ph.D.
     title: Senior Director of Preclinical Development
     image: img/fpo-head.png
@@ -265,9 +271,10 @@ employees:
     title: Data Engineer
     image: /img/fpo-head.png
   - name: Alaknanda Mishra, M.S., Ph.D.
-    title: Scientist
+    title: In Vivo Scientist, Preclinical Sciences
     link: https://www.linkedin.com/in/alaknanda-mishra-a42279b7/
     image: img/fpo-head.png
+    bio: ""
   - name: Fernando Moreno
     title: Business Ops. Associate
     image: img/fpo-head.png
