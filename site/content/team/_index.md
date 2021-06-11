@@ -274,7 +274,15 @@ employees:
     title: In Vivo Scientist, Preclinical Sciences
     link: https://www.linkedin.com/in/alaknanda-mishra-a42279b7/
     image: img/fpo-head.png
-    bio: ""
+    bio: As Mantra Bio's lead *in vivo* scientist on the Preclinical Team, Alaknanda
+      manages therapeutic efficacy, safety, toxicity, and PK/PD studies, along
+      with model development and characterization. Having published sixteen
+      papers, Alaknanda brings a great depth of experience in developing gene
+      and cell therapy interventions for ocular diseases, with previous
+      postdoctoral fellow appointments at UC Davis and the National Eye
+      Institute, NIH. Alaknanda earned her Ph.D. from the National Institute of
+      Immunology, New Delhi, India. Outside of work Alaknanda likes traveling to
+      new places, backpacking, hiking, and painting.
   - name: Fernando Moreno
     title: Business Ops. Associate
     image: img/fpo-head.png
