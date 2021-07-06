@@ -221,6 +221,24 @@ employees:
     name: Linda Szabo, M.S., Ph.D.
     title: Lead Data Scientist
     image: /img/portraits/mantrabio-6805.jpg
+  - name: D. Andrew Carr, Ph.D.
+    title: Data Scientist
+    image: img/fpo-head.png
+    bio: >-
+      Andrew Carr is a Data Scientist with expertise in algorithms, machine
+      learning, and database design, and is responsible for advancing Mantra
+      Bio’s targeted exosome technologies. In a previous position as Director of
+      Bioinformatics at Accelerated Technology Laboratories Andrew developed
+      high through-put GPGPU accelerated algorithms for parsing bioinformatics
+      data to provide faster sequence comparison across multiple genomic
+      targets. As adjunct faculty at UNCC Andrew explored Covid-19 mRNA
+      molecular structure and propagation through a combination of machine
+      learning and bioinformatics tools, for linkage in potential exogenistic
+      molecular catalysis for genetic predisposed diseases. 
+
+
+      Andrew holds a Ph.D. in Bioinformatics from George Mason University and completed postdoctoral work at the University of North Carolina Charlotte where he managed the computational lab for micro-array biophysics research, while serving as DataFATE lead and project manager. Andrew also holds Bachelor’s degrees in both Mathematics and Ballet from Indiana University. Outside of work, Andrew coaches fitness and ballet, and also enjoys cooking and hiking.
+    link: www.linkedin.com/in/d-andrew-carr-65534849
   - name: Zebulon LaPoint
     title: Sr. Research Associate
     link: https://www.linkedin.com/in/zebulon-lapoint-4648b075/
