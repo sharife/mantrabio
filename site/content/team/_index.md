@@ -133,7 +133,7 @@ employees:
     link: https://www.linkedin.com/in/mokalex
     name: Alex Mok
     title: CEO & Co-founder
-    image: /img/portraits/mantrabio-6501.jpg
+    image: /img/portraits/mantrabio-7435.jpg
   - bio: >-
       Ed is the founder and Managing Partner of CFO Connect®. CFO Connect® is a
       business management and financial services firm providing part-time CFO
@@ -191,17 +191,6 @@ employees:
       healing. Abhishek earned his Bachelor’s degree in microbiology at the
       University of California, Davis and loves adrenaline-filled activities
       like sky diving, or simply jogging with his dog, and listening to music.
-  - bio: Jacob is part of Mantra Bio’s Process Sciences team where he handles assay
-      development, cell line development, and flow cytometry. Previously Jacob
-      held a position as a researcher at C.H.O.R.I. (Children's Hospital Oakland
-      Research Institute) and taught peer-to-peer public health courses at UC
-      Berkeley focused on healthcare systems. Jacob holds a B.A. in Molecular
-      and Cell Biology from UC Berkeley and enjoys spending time with family and
-      friends, reading, and hiking.
-    link: http://www.linkedin.com
-    name: Jacob Strelnikov
-    title: Research Associate II
-    image: /img/portraits/mantrabio-6661.jpg
   - bio: Zachary is part of Mantra’s process sciences team working on downstream
       process development. He brings an intimate knowledge of process sciences
       from his time at Stemcentrx, and later AbbVie, where he developed antibody
@@ -232,18 +221,34 @@ employees:
     name: Linda Szabo, M.S., Ph.D.
     title: Lead Data Scientist
     image: /img/portraits/mantrabio-6805.jpg
-  - bio: Raeline is part of Mantra Bio’s preclinical development team where she
-      handles in-vitro assay development, in vivo study design, cell culture,
-      microscopy, and flow cytometry. Raeline holds B.A. degrees in Biochemistry
-      & Molecular Biology and English from UC Berkeley. After graduating, she
-      went on to do research as part of the He Lab, where she won UC Berkeley’s
-      2018 MIC Image Competition for her microscopy work. Raeline is a
-      passionate music playlist crafter, latte art expert, and would be excited
-      to read your horoscope.
-    link: "https://www.linkedin.com/in/raeline-valbuena "
-    name: Raeline Valbuena
-    title: Research Associate II
-    image: /img/portraits/mantrabio-6561.jpg
+  - name: D. Andrew Carr, Ph.D.
+    title: Data Scientist
+    image: img/fpo-head.png
+    bio: >-
+      Andrew Carr is a Data Scientist with expertise in algorithms, machine
+      learning, and database design, and is responsible for advancing Mantra
+      Bio’s targeted exosome technologies. In a previous position as Director of
+      Bioinformatics at Accelerated Technology Laboratories Andrew developed
+      high through-put GPGPU accelerated algorithms for parsing bioinformatics
+      data to provide faster sequence comparison across multiple genomic
+      targets. As adjunct faculty at UNCC Andrew explored Covid-19 mRNA
+      molecular structure and propagation through a combination of machine
+      learning and bioinformatics tools, for linkage in potential exogenistic
+      molecular catalysis for genetic predisposed diseases. 
+
+
+      Andrew holds a Ph.D. in Bioinformatics from George Mason University and completed postdoctoral work at the University of North Carolina Charlotte where he managed the computational lab for micro-array biophysics research, while serving as DataFATE lead and project manager. Andrew also holds Bachelor’s degrees in both Mathematics and Ballet from Indiana University. Outside of work, Andrew coaches fitness and ballet, and also enjoys cooking and hiking.
+    link: www.linkedin.com/in/d-andrew-carr-65534849
+  - name: Zebulon LaPoint
+    title: Sr. Research Associate
+    link: https://www.linkedin.com/in/zebulon-lapoint-4648b075/
+    image: img/portraits/mantrabio-7484.jpg
+    bio: Zebulon joined Mantra Bio to help produce, purify, and characterize
+      extracellular vesicles as part of the Process Science team. Previously a
+      sergeant in the army, Zebulon turned to biology and then research after
+      earning a B.S. in Zoology at San Francisco State University. Outside of
+      work Zebulon likes to roast coffee and make cheese, when not hiking or
+      pretending to garden.
   - name: Liliana Maruri Avidal, Ph.D.
     title: Senior Director of Preclinical Development
     image: img/fpo-head.png
@@ -261,6 +266,18 @@ employees:
 
 
       Dr. Maruri Avidal enjoys traveling the world to lean about different cultures and food. Outside of work she can be found hiking, biking, cooking and gardening.
+  - name: Bryan McKernon
+    title: Software Engineer
+    image: img/portraits/mantrabio-7592.jpg
+    link: https://www.linkedin.com/in/bryan-mckernon/
+    bio: Bryan is Mantra Bio’s Front End Software Engineer, leading web app
+      development, specializing in single page applications using React and
+      RESTful APIs. With a B.S. in Information Systems from San Jose State
+      University and previous experience developing a data glossary for Santa
+      Clara County's Criminal Justice Information System, Bryan adds significant
+      expertise to the Mantra Bio team. A true music lover, Bryan has played the
+      electric guitar for most of his life, and can be found jamming out with
+      friends outside of work.
   - bio: Sidharth brings expertise in software development and data infrastructure,
       with previous experience working for health tech and clean energy
       startups. He earned his B.A. in Biology with minors in both Computer
@@ -271,6 +288,36 @@ employees:
     name: Sidharth Menon
     title: Data Engineer
     image: /img/portraits/mantrabio-3050.jpg
+  - name: Alaknanda Mishra, M.S., Ph.D.
+    title: In Vivo Scientist, Preclinical Sciences
+    link: https://www.linkedin.com/in/alaknanda-mishra-a42279b7/
+    image: img/portraits/mantrabio-7446.jpg
+    bio: As Mantra Bio's lead *in vivo* scientist on the Preclinical Team, Alaknanda
+      manages therapeutic efficacy, safety, toxicity, and PK/PD studies, along
+      with model development and characterization. Having published sixteen
+      papers, Alaknanda brings a great depth of experience in developing gene
+      and cell therapy interventions for ocular diseases, with previous
+      postdoctoral fellow appointments at UC Davis and the National Eye
+      Institute, NIH. Alaknanda earned her Ph.D. from the National Institute of
+      Immunology, New Delhi, India. Outside of work Alaknanda likes traveling to
+      new places, backpacking, hiking, and painting.
+  - name: Fernando Moreno
+    title: Business Ops. Associate
+    image: img/portraits/mantrabio-7356.jpg
+  - name: Sabrina Noritake, M.A.
+    title: Research Associate II
+    image: img/portraits/mantrabio-7459.jpg
+    link: https://www.linkedin.com/in/sabrina-noritake-36b55b65/
+    bio: As Mantra Bio’s *In Vivo* Research Associate, Sabrina Noritake plays a
+      major role in planning, execution, and data analysis for key *in vivo*
+      studies. Prior to joining Mantra, Sabrina attended  University of the
+      Pacific and received her Bachelor’s of Science degree in Biochemistry. She
+      later attended Sacramento State to complete a Professional Science
+      Master’s in Stem Cell Research. An active undergraduate researcher, in
+      2016 Sabrina was awarded with a summer research fellowship, and was named
+      *Outstanding Biochemistry Senior* in 2017. While not at work, Sabrina
+      enjoys hiking, eating good food, reading books, and saving the world with
+      her Dungeons and Dragons group.
   - bio: Natalia leads analytical development as part of the Process Sciences team
       at Mantra Bio. Her efforts drive the development and qualification of
       Mantra’s in-house exosome therapeutic characterization assays. Natalia’s
@@ -301,6 +348,13 @@ employees:
       (South Korea), and holds a Bachelor's in Pharmacy and a Master's in
       Pharmaceutical Sciences from India. A avid runner, Thiruganesh competes in
       half marathon races each year.
+  - name: Alexis Toruño
+    title: Research Associate II
+    image: img/portraits/mantrabio-7403.jpg
+    bio: As a research associate on Mantra Bio’s TEV Platform team, Alexis Toruño is
+      responsible for producing and characterizing exosome vehicles. Alexis
+      holds a Bachelor's Degree in Biological Sciences from Dominican
+      University.
   - name: Geoff Weiss
     bio: Geoff Weiss, Mantra Bio’s lead Downstream Process Development Scientist,
       brings decades of experience in the manufacturing of adeno-associated
@@ -311,6 +365,17 @@ employees:
     image: img/portraits/mantrabio-7496.jpg
     link: https://www.linkedin.com/in/geoff-weiss-92a5886/
     title: Sr. Process Development Scientist
+  - name: Ming Lun Wu
+    title: Automation Engineer
+    image: img/portraits/mantrabio-7379.jpg
+    link: https://www.linkedin.com/in/minglwu/
+    bio: Ming Lun Wu joins Mantra Bio’s Automation team as an Automation Engineer.
+      Ming Lun is focused on making science easier and more efficient through
+      the automation of experiments and data analysis, with an emphasis on Flow
+      Cytometry workflows. Ming Lun holds a Bachelor’s of Science in Biomedical
+      Engineering from the University of Florida, and a Master’s of Science in
+      Bioengineering from the University of California, Los Angeles. Outside of
+      work Ming Lun can be found performing Latin Dance or playing video games.
   - name: Oliver Wueseke, Ph.D.
     title: Chief of Staff
     image: img/portraits/mantrabio-7368.jpg
@@ -322,10 +387,10 @@ employees:
       and Molecular Biology, and 12 years of research experience on organoid
       development and protein dynamics. Oliver previously worked as the R&D lead
       at System1 Biosciences, in charge of developing their “brain-in-a-dish”
-      science. He is also the founder if Impuse Science Inc., a biotech start-up
-      coaching firm. Outside of work, Oliver can be found windsurfing across the
-      Bay, unleashing his creativity through photography and digital art, or
-      traveling the word.
+      science. He is also the founder if Impulse Science Inc., a biotech
+      start-up coaching firm. Outside of work, Oliver can be found windsurfing
+      across the Bay, unleashing his creativity through photography and digital
+      art, or traveling the world.
 advisors:
   - affiliation: Advisor
     bio: >-
