@@ -270,7 +270,7 @@ employees:
     link: https://www.linkedin.com/in/sidharth-menon-8a8b98127/
     name: Sidharth Menon
     title: Data Engineer
-    image: /img/fpo-head.png
+    image: /img/portraits/mantrabio-3050.jpg
   - bio: Natalia leads analytical development as part of the Process Sciences team
       at Mantra Bio. Her efforts drive the development and qualification of
       Mantra’s in-house exosome therapeutic characterization assays. Natalia’s
@@ -286,10 +286,10 @@ employees:
     link: https://www.linkedin.com/in/natalia-santos-9351524
     name: Natalia Santos, Ph.D.
     title: Sr. Scientist
-    image: /img/fpo-head.png
+    image: /img/portraits/mantrabio-7519.jpg
   - name: Thiruganesh Ramasamy, M. Pharm, Ph.D.
     title: Scientist
-    image: img/fpo-head.png
+    image: img/portraits/mantrabio-7418.jpg
     link: https://www.linkedin.com/in/thiruganesh-ramasamy-13a171b5/
     bio: Thiruganesh is a drug delivery chemist working in the interdisciplinary
       field of nanomedicine and biomaterials. At Mantra, he works on the
@@ -308,12 +308,12 @@ employees:
       Biosearch, respectively. He holds a BS in Chemical Engineering from Lehigh
       University in Bethlehem, PA. A long time Bay Area resident, Geoff enjoys
       all the food, wine, hiking, and music culture the area has to offer.
-    image: img/fpo-head.png
+    image: img/portraits/mantrabio-7496.jpg
     link: https://www.linkedin.com/in/geoff-weiss-92a5886/
     title: Sr. Process Development Scientist
   - name: Oliver Wueseke, Ph.D.
     title: Chief of Staff
-    image: img/fpo-head.png
+    image: img/portraits/mantrabio-7368.jpg
     bio: Oliver’s passion is building high performing R&D teams. At Mantra Bio he
       leads cultural and organizational development initiatives that make Mantra
       Bio a fun and exciting place to work, driving Mantra Bio’s exceptional
