@@ -118,6 +118,62 @@ employees:
     name: Ginny Kang, Ph.D.
     title: Sr. Scientist
     image: /img/portraits/mantrabio-6693.jpg
+  - name: Zebulon LaPoint
+    title: Sr. Research Associate
+    link: https://www.linkedin.com/in/zebulon-lapoint-4648b075/
+    image: img/portraits/mantrabio-7484.jpg
+    bio: Zebulon joined Mantra Bio to help produce, purify, and characterize
+      extracellular vesicles as part of the Process Science team. Previously a
+      sergeant in the army, Zebulon turned to biology and then research after
+      earning a B.S. in Zoology at San Francisco State University. Outside of
+      work Zebulon likes to roast coffee and make cheese, when not hiking or
+      pretending to garden.
+  - name: Ming Lun Wu
+    title: Automation Engineer
+    image: img/portraits/mantrabio-7379.jpg
+    link: https://www.linkedin.com/in/minglwu/
+    bio: Ming Lun Wu joins Mantra Bio’s Automation team as an Automation Engineer.
+      Ming Lun is focused on making science easier and more efficient through
+      the automation of experiments and data analysis, with an emphasis on Flow
+      Cytometry workflows. Ming Lun holds a Bachelor’s of Science in Biomedical
+      Engineering from the University of Florida, and a Master’s of Science in
+      Bioengineering from the University of California, Los Angeles. Outside of
+      work Ming Lun can be found performing Latin Dance or playing video games.
+  - name: Bryan McKernon
+    title: Software Engineer
+    image: img/portraits/mantrabio-7592.jpg
+    link: https://www.linkedin.com/in/bryan-mckernon/
+    bio: Bryan is Mantra Bio’s Front End Software Engineer, leading web app
+      development, specializing in single page applications using React and
+      RESTful APIs. With a B.S. in Information Systems from San Jose State
+      University and previous experience developing a data glossary for Santa
+      Clara County's Criminal Justice Information System, Bryan adds significant
+      expertise to the Mantra Bio team. A true music lover, Bryan has played the
+      electric guitar for most of his life, and can be found jamming out with
+      friends outside of work.
+  - bio: Sidharth brings expertise in software development and data infrastructure,
+      with previous experience working for health tech and clean energy
+      startups. He earned his B.A. in Biology with minors in both Computer
+      Science and Bioinformatics from the University of Southern California.
+      Sidharth enjoys playing video and board games, along with basketball in
+      his spare time.
+    link: https://www.linkedin.com/in/sidharth-menon-8a8b98127/
+    name: Sidharth Menon
+    title: Data Engineer
+    image: /img/portraits/mantrabio-3050.jpg
+  - name: Alaknanda Mishra, M.S., Ph.D.
+    title: In Vivo Scientist, Preclinical Sciences
+    link: https://www.linkedin.com/in/alaknanda-mishra-a42279b7/
+    image: img/portraits/mantrabio-7446.jpg
+    bio: As Mantra Bio's lead *in vivo* scientist on the Preclinical Team, Alaknanda
+      manages therapeutic efficacy, safety, toxicity, and PK/PD studies, along
+      with model development and characterization. Having published sixteen
+      papers, Alaknanda brings a great depth of experience in developing gene
+      and cell therapy interventions for ocular diseases, with previous
+      postdoctoral fellow appointments at UC Davis and the National Eye
+      Institute, NIH. Alaknanda earned her Ph.D. from the National Institute of
+      Immunology, New Delhi, India. Outside of work Alaknanda likes traveling to
+      new places, backpacking, hiking, and painting.
   - bio: Alex is an entrepreneur with over a decade’s experience in building life
       science businesses. He was head of commercialization at CellASIC (acquired
       by Merck KgAA), a UC Berkeley microfluidic organ-on-chip technology
@@ -134,6 +190,23 @@ employees:
     name: Alex Mok
     title: CEO & Co-founder
     image: /img/portraits/mantrabio-7435.jpg
+  - name: Fernando Moreno
+    title: Business Ops. Associate
+    image: img/portraits/mantrabio-7356.jpg
+  - name: Sabrina Noritake, M.A.
+    title: Research Associate II
+    image: img/portraits/mantrabio-7459.jpg
+    link: https://www.linkedin.com/in/sabrina-noritake-36b55b65/
+    bio: As Mantra Bio’s *In Vivo* Research Associate, Sabrina Noritake plays a
+      major role in planning, execution, and data analysis for key *in vivo*
+      studies. Prior to joining Mantra, Sabrina attended  University of the
+      Pacific and received her Bachelor’s of Science degree in Biochemistry. She
+      later attended Sacramento State to complete a Professional Science
+      Master’s in Stem Cell Research. An active undergraduate researcher, in
+      2016 Sabrina was awarded with a summer research fellowship, and was named
+      *Outstanding Biochemistry Senior* in 2017. While not at work, Sabrina
+      enjoys hiking, eating good food, reading books, and saving the world with
+      her Dungeons and Dragons group.
   - bio: >-
       Ed is the founder and Managing Partner of CFO Connect®. CFO Connect® is a
       business management and financial services firm providing part-time CFO
@@ -181,6 +254,20 @@ employees:
     name: Katie Planey, M.B.A., Ph.D.
     title: CTO & Co-founder
     image: /img/portraits/headshot-katie.jpg
+  - name: Thiruganesh Ramasamy, M. Pharm, Ph.D.
+    title: Scientist
+    image: img/portraits/mantrabio-7418.jpg
+    link: https://www.linkedin.com/in/thiruganesh-ramasamy-13a171b5/
+    bio: Thiruganesh is a drug delivery chemist working in the interdisciplinary
+      field of nanomedicine and biomaterials. At Mantra, he works on the
+      formulation and quality control testing of therapeutic exosome payloads.
+      Thiruganesh brings extensive experience in design, engineering,
+      optimization, and characterization of lipid and polymer-based
+      nanoparticles for cancer and cardiovascular diseases. In 2015 he received
+      a Ph.D. in Pharmaceutics and Drug Delivery from the Yeungnam University
+      (South Korea), and holds a Bachelor's in Pharmacy and a Master's in
+      Pharmaceutical Sciences from India. A avid runner, Thiruganesh competes in
+      half marathon races each year.
   - name: Abhishek Ramini
     title: Research Associate II
     image: /img/portraits/headshot-abhi.jpg
@@ -191,6 +278,22 @@ employees:
       healing. Abhishek earned his Bachelor’s degree in microbiology at the
       University of California, Davis and loves adrenaline-filled activities
       like sky diving, or simply jogging with his dog, and listening to music.
+  - bio: Natalia leads analytical development as part of the Process Sciences team
+      at Mantra Bio. Her efforts drive the development and qualification of
+      Mantra’s in-house exosome therapeutic characterization assays. Natalia’s
+      previous experiences include the development of a cell-free protein
+      expression platform at an early stage startup, and establishing an
+      analytical lab to support drug discovery efforts at the Oligonucleotide
+      Center of Excellence, part of Alios Biopharma (acquired by Johnson and
+      Johnson). Natalia holds a Ph.D. in Molecular Biology & Biophysical
+      Chemistry from Uppsala University, Sweden as well as two Master’s degrees
+      in Molecular & Microbiology Biology and Environmental Biology from Sofia
+      University, Bulgaria. Natalia’s passions outside of work include dance,
+      traveling, hiking and martial arts.
+    link: https://www.linkedin.com/in/natalia-santos-9351524
+    name: Natalia Santos, Ph.D.
+    title: Sr. Scientist
+    image: /img/portraits/mantrabio-7519.jpg
   - bio: Zachary is part of Mantra’s process sciences team working on downstream
       process development. He brings an intimate knowledge of process sciences
       from his time at Stemcentrx, and later AbbVie, where he developed antibody
@@ -221,6 +324,38 @@ employees:
     name: Linda Szabo, M.S., Ph.D.
     title: Lead Data Scientist
     image: /img/portraits/mantrabio-6805.jpg
+  - name: Alexis Toruño
+    title: Research Associate II
+    image: img/portraits/mantrabio-7403.jpg
+    bio: As a research associate on Mantra Bio’s TEV Platform team, Alexis Toruño is
+      responsible for producing and characterizing exosome vehicles. Alexis
+      holds a Bachelor's Degree in Biological Sciences from Dominican
+      University.
+  - name: Geoff Weiss
+    bio: Geoff Weiss, Mantra Bio’s lead Downstream Process Development Scientist,
+      brings decades of experience in the manufacturing of adeno-associated
+      virus and oligonucleotide products while at Sangamo Therapeutics and LGC
+      Biosearch, respectively. He holds a BS in Chemical Engineering from Lehigh
+      University in Bethlehem, PA. A long time Bay Area resident, Geoff enjoys
+      all the food, wine, hiking, and music culture the area has to offer.
+    image: img/portraits/mantrabio-7496.jpg
+    link: https://www.linkedin.com/in/geoff-weiss-92a5886/
+    title: Sr. Process Development Scientist
+  - name: Oliver Wueseke, Ph.D.
+    title: Chief of Staff
+    image: img/portraits/mantrabio-7368.jpg
+    bio: Oliver’s passion is building high performing R&D teams. At Mantra Bio he
+      leads cultural and organizational development initiatives that make Mantra
+      Bio a fun and exciting place to work, driving Mantra Bio’s exceptional
+      level of innovation. Oliver, an HSFP Fellowship awardee, backs up his
+      operational leadership with a Ph.D from the Max Planck Institute in Cell
+      and Molecular Biology, and 12 years of research experience on organoid
+      development and protein dynamics. Oliver previously worked as the R&D lead
+      at System1 Biosciences, in charge of developing their “brain-in-a-dish”
+      science. He is also the founder if Impulse Science Inc., a biotech
+      start-up coaching firm. Outside of work, Oliver can be found windsurfing
+      across the Bay, unleashing his creativity through photography and digital
+      art, or traveling the world.
   - name: D. Andrew Carr, Ph.D.
     title: Data Scientist
     image: img/fpo-head.png
@@ -239,16 +374,9 @@ employees:
 
       Andrew holds a Ph.D. in Bioinformatics from George Mason University and completed postdoctoral work at the University of North Carolina Charlotte where he managed the computational lab for micro-array biophysics research, while serving as DataFATE lead and project manager. Andrew also holds Bachelor’s degrees in both Mathematics and Ballet from Indiana University. Outside of work, Andrew coaches fitness and ballet, and also enjoys cooking and hiking.
     link: www.linkedin.com/in/d-andrew-carr-65534849
-  - name: Zebulon LaPoint
-    title: Sr. Research Associate
-    link: https://www.linkedin.com/in/zebulon-lapoint-4648b075/
-    image: img/portraits/mantrabio-7484.jpg
-    bio: Zebulon joined Mantra Bio to help produce, purify, and characterize
-      extracellular vesicles as part of the Process Science team. Previously a
-      sergeant in the army, Zebulon turned to biology and then research after
-      earning a B.S. in Zoology at San Francisco State University. Outside of
-      work Zebulon likes to roast coffee and make cheese, when not hiking or
-      pretending to garden.
+  - name: Anna Martinez, Ph.D.
+    title: Scientist
+    image: img/fpo-head.png
   - name: Liliana Maruri Avidal, Ph.D.
     title: Senior Director of Preclinical Development
     image: img/fpo-head.png
@@ -266,131 +394,9 @@ employees:
 
 
       Dr. Maruri Avidal enjoys traveling the world to lean about different cultures and food. Outside of work she can be found hiking, biking, cooking and gardening.
-  - name: Bryan McKernon
-    title: Software Engineer
-    image: img/portraits/mantrabio-7592.jpg
-    link: https://www.linkedin.com/in/bryan-mckernon/
-    bio: Bryan is Mantra Bio’s Front End Software Engineer, leading web app
-      development, specializing in single page applications using React and
-      RESTful APIs. With a B.S. in Information Systems from San Jose State
-      University and previous experience developing a data glossary for Santa
-      Clara County's Criminal Justice Information System, Bryan adds significant
-      expertise to the Mantra Bio team. A true music lover, Bryan has played the
-      electric guitar for most of his life, and can be found jamming out with
-      friends outside of work.
-  - bio: Sidharth brings expertise in software development and data infrastructure,
-      with previous experience working for health tech and clean energy
-      startups. He earned his B.A. in Biology with minors in both Computer
-      Science and Bioinformatics from the University of Southern California.
-      Sidharth enjoys playing video and board games, along with basketball in
-      his spare time.
-    link: https://www.linkedin.com/in/sidharth-menon-8a8b98127/
-    name: Sidharth Menon
-    title: Data Engineer
-    image: /img/portraits/mantrabio-3050.jpg
-  - name: Alaknanda Mishra, M.S., Ph.D.
-    title: In Vivo Scientist, Preclinical Sciences
-    link: https://www.linkedin.com/in/alaknanda-mishra-a42279b7/
-    image: img/portraits/mantrabio-7446.jpg
-    bio: As Mantra Bio's lead *in vivo* scientist on the Preclinical Team, Alaknanda
-      manages therapeutic efficacy, safety, toxicity, and PK/PD studies, along
-      with model development and characterization. Having published sixteen
-      papers, Alaknanda brings a great depth of experience in developing gene
-      and cell therapy interventions for ocular diseases, with previous
-      postdoctoral fellow appointments at UC Davis and the National Eye
-      Institute, NIH. Alaknanda earned her Ph.D. from the National Institute of
-      Immunology, New Delhi, India. Outside of work Alaknanda likes traveling to
-      new places, backpacking, hiking, and painting.
-  - name: Fernando Moreno
-    title: Business Ops. Associate
-    image: img/portraits/mantrabio-7356.jpg
-  - name: Sabrina Noritake, M.A.
-    title: Research Associate II
-    image: img/portraits/mantrabio-7459.jpg
-    link: https://www.linkedin.com/in/sabrina-noritake-36b55b65/
-    bio: As Mantra Bio’s *In Vivo* Research Associate, Sabrina Noritake plays a
-      major role in planning, execution, and data analysis for key *in vivo*
-      studies. Prior to joining Mantra, Sabrina attended  University of the
-      Pacific and received her Bachelor’s of Science degree in Biochemistry. She
-      later attended Sacramento State to complete a Professional Science
-      Master’s in Stem Cell Research. An active undergraduate researcher, in
-      2016 Sabrina was awarded with a summer research fellowship, and was named
-      *Outstanding Biochemistry Senior* in 2017. While not at work, Sabrina
-      enjoys hiking, eating good food, reading books, and saving the world with
-      her Dungeons and Dragons group.
-  - bio: Natalia leads analytical development as part of the Process Sciences team
-      at Mantra Bio. Her efforts drive the development and qualification of
-      Mantra’s in-house exosome therapeutic characterization assays. Natalia’s
-      previous experiences include the development of a cell-free protein
-      expression platform at an early stage startup, and establishing an
-      analytical lab to support drug discovery efforts at the Oligonucleotide
-      Center of Excellence, part of Alios Biopharma (acquired by Johnson and
-      Johnson). Natalia holds a Ph.D. in Molecular Biology & Biophysical
-      Chemistry from Uppsala University, Sweden as well as two Master’s degrees
-      in Molecular & Microbiology Biology and Environmental Biology from Sofia
-      University, Bulgaria. Natalia’s passions outside of work include dance,
-      traveling, hiking and martial arts.
-    link: https://www.linkedin.com/in/natalia-santos-9351524
-    name: Natalia Santos, Ph.D.
-    title: Sr. Scientist
-    image: /img/portraits/mantrabio-7519.jpg
-  - name: Thiruganesh Ramasamy, M. Pharm, Ph.D.
-    title: Scientist
-    image: img/portraits/mantrabio-7418.jpg
-    link: https://www.linkedin.com/in/thiruganesh-ramasamy-13a171b5/
-    bio: Thiruganesh is a drug delivery chemist working in the interdisciplinary
-      field of nanomedicine and biomaterials. At Mantra, he works on the
-      formulation and quality control testing of therapeutic exosome payloads.
-      Thiruganesh brings extensive experience in design, engineering,
-      optimization, and characterization of lipid and polymer-based
-      nanoparticles for cancer and cardiovascular diseases. In 2015 he received
-      a Ph.D. in Pharmaceutics and Drug Delivery from the Yeungnam University
-      (South Korea), and holds a Bachelor's in Pharmacy and a Master's in
-      Pharmaceutical Sciences from India. A avid runner, Thiruganesh competes in
-      half marathon races each year.
-  - name: Alexis Toruño
-    title: Research Associate II
-    image: img/portraits/mantrabio-7403.jpg
-    bio: As a research associate on Mantra Bio’s TEV Platform team, Alexis Toruño is
-      responsible for producing and characterizing exosome vehicles. Alexis
-      holds a Bachelor's Degree in Biological Sciences from Dominican
-      University.
-  - name: Geoff Weiss
-    bio: Geoff Weiss, Mantra Bio’s lead Downstream Process Development Scientist,
-      brings decades of experience in the manufacturing of adeno-associated
-      virus and oligonucleotide products while at Sangamo Therapeutics and LGC
-      Biosearch, respectively. He holds a BS in Chemical Engineering from Lehigh
-      University in Bethlehem, PA. A long time Bay Area resident, Geoff enjoys
-      all the food, wine, hiking, and music culture the area has to offer.
-    image: img/portraits/mantrabio-7496.jpg
-    link: https://www.linkedin.com/in/geoff-weiss-92a5886/
-    title: Sr. Process Development Scientist
-  - name: Ming Lun Wu
-    title: Automation Engineer
-    image: img/portraits/mantrabio-7379.jpg
-    link: https://www.linkedin.com/in/minglwu/
-    bio: Ming Lun Wu joins Mantra Bio’s Automation team as an Automation Engineer.
-      Ming Lun is focused on making science easier and more efficient through
-      the automation of experiments and data analysis, with an emphasis on Flow
-      Cytometry workflows. Ming Lun holds a Bachelor’s of Science in Biomedical
-      Engineering from the University of Florida, and a Master’s of Science in
-      Bioengineering from the University of California, Los Angeles. Outside of
-      work Ming Lun can be found performing Latin Dance or playing video games.
-  - name: Oliver Wueseke, Ph.D.
-    title: Chief of Staff
-    image: img/portraits/mantrabio-7368.jpg
-    bio: Oliver’s passion is building high performing R&D teams. At Mantra Bio he
-      leads cultural and organizational development initiatives that make Mantra
-      Bio a fun and exciting place to work, driving Mantra Bio’s exceptional
-      level of innovation. Oliver, an HSFP Fellowship awardee, backs up his
-      operational leadership with a Ph.D from the Max Planck Institute in Cell
-      and Molecular Biology, and 12 years of research experience on organoid
-      development and protein dynamics. Oliver previously worked as the R&D lead
-      at System1 Biosciences, in charge of developing their “brain-in-a-dish”
-      science. He is also the founder if Impulse Science Inc., a biotech
-      start-up coaching firm. Outside of work, Oliver can be found windsurfing
-      across the Bay, unleashing his creativity through photography and digital
-      art, or traveling the world.
+  - name: Patricia Vera-Gonzalez
+    title: Bioinformatician
+    image: img/fpo-head.png
 advisors:
   - affiliation: Advisor
     bio: >-
