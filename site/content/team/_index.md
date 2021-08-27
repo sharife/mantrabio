@@ -31,6 +31,31 @@ employees:
     name: Pranali Deshpande, Ph.D.
     title: Scientist
     image: /img/portraits/mantrabio-6528.jpg
+  - name: Maria Fuentes
+    title: Chief Scientific Officer
+    image: img/317b7808-76a4-40d4-880c-cd8b79000fce.png
+    bio: >-
+      Dr. Fuentes is a seasoned drug discovery executive with a track record of
+      advancing multiple assets into the clinic. Maria has led preclinical teams
+      to advance programs across multiple therapeutic areas, including
+      respiratory, autoimmune, fibrosis and others. Combined with the
+      significant progress Mantra Bio has made over the past 4 years in refining
+      and validating its Targeted Exosome delivery platform (REVEAL), Maria’s
+      deep experience in translational development will accelerate Mantra’s
+      unique platform towards clinical success.   
+
+
+      Most recently, Maria led Blade Therapeutics biology and translational activities to advance programs to clinical development, as Blade’s Executive Vice President of Research. Maria developed pre-clinical and biomarker strategy and provided key data for advancement of three cysteine protease inhibitors in fibrotic and neurodegenerative diseases.
+
+
+      Prior to Blade, she was Group Director, Fibrosis Discovery Biology at Bristol-Myers Squibb. In this position her focus was to advance into the clinic small molecules and antibody therapeutics for the treatment of fibrotic diseases, including interstitial pulmonary fibrosis (IPF) and nonalcoholic steatohepatitis (NASH). 
+
+
+      Dr. Fuentes has previously held leadership positions at Roche (Palo Alto) and Hoffmann-La Roche (Nutley, NJ), including as Research Director and Head of the Respiratory Drug Discovery Group. During her tenure, she was responsible for progressing several projects to clinical trials and collaborated closely with the company’s Early Development Groups to establish translational approaches, including biomarker discovery and proof of mechanism studies.
+
+
+      Dr. Fuentes received her PhD degree from the Catholic University of Chile and was a Fogarty post-doctoral fellow in the Pharmacology Department, School of Medicine, University of California San Diego, Biochemist from University of Chile.
+    link: https://www.linkedin.com/in/maria-e-fuentes-59a65b5
   - bio: Terry is in charge of building Mantra Bio’s internal technological
       capabilities to engineer and evaluate exosomes as a therapeutic modality.
       Through his career, he has consistently worked at the intersection of
@@ -374,6 +399,9 @@ employees:
 
       Andrew holds a Ph.D. in Bioinformatics from George Mason University and completed postdoctoral work at the University of North Carolina Charlotte where he managed the computational lab for micro-array biophysics research, while serving as DataFATE lead and project manager. Andrew also holds Bachelor’s degrees in both Mathematics and Ballet from Indiana University. Outside of work, Andrew coaches fitness and ballet, and also enjoys cooking and hiking.
     link: www.linkedin.com/in/d-andrew-carr-65534849
+  - name: Brendan Johnson
+    title: Research Associate
+    image: img/fpo-head.png
   - name: Anna Martinez, Ph.D.
     title: Scientist
     image: img/fpo-head.png
