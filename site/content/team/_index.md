@@ -442,6 +442,24 @@ advisors:
     image: /img/doberstein_steve-2019-009.jpg
     link: https://www.linkedin.com/in/steve-doberstein-41b0171/
     name: Steve Doberstein, Ph.D.
+  - name: Michael Kavanaugh, M.D.
+    bio: Dr. Kavanaugh currently serves as an associate clinical professor of
+      medicine at UCSF and on the Scientific Advisory Boards of multiple biotech
+      companies.  Most recently, he was senior vice president, chief scientific
+      officer and head of research and early development at CytomX Therapeutics.
+      Prior to joining CytomX, Dr. Kavanaugh was senior vice president and chief
+      scientific officer of Five Prime Therapeutics, vice president of Novartis
+      Vaccines & Diagnostics, Inc., Executive Director of Oncology Biologics in
+      the Novartis Institutes of Biomedical Research, and vice president and
+      head of antibody and protein therapeutics research at Chiron Corporation.
+      Dr. Kavanaugh received his medical doctorate from Vanderbilt University
+      and his bachelor’s degree in molecular biochemistry and biophysics from
+      Yale University. He completed training in internal medicine,
+      cardiovascular disease and molecular and cellular biology at the
+      University of California, San Francisco and the Cardiovascular Research
+      Institute.
+    affiliation: Advisor
+    image: img/advisor-mike.jpg
   - affiliation: Advisor
     image: /img/img_1888.jpg
     link: https://www.linkedin.com/in/hari-kumar-a305027/
