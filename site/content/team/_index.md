@@ -214,7 +214,7 @@ employees:
     link: https://www.linkedin.com/in/mokalex
     name: Alex Mok
     title: CEO & Co-founder
-    image: /img/portraits/mantrabio-7435.jpg
+    image: img/alexmok_0621_1200.jpg
   - name: Fernando Moreno
     title: Business Ops. Associate
     image: img/portraits/mantrabio-7356.jpg
