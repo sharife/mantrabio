@@ -3,7 +3,7 @@ title: Mantra Bio Announces Appointment of Maria Fuentes, Ph.D. as Chief
   Scientific Officer
 date: 2021-09-21T13:00:00.000Z
 category: PRESS RELEASE
-link: www.mantrabio.com/news
+link: https://www.prnewswire.com/news-releases/mantra-bio-announces-appointment-of-maria-fuentes-phd-as-chief-scientific-officer-301380847.html
 description: Mantra Bio today announced the appointment of Maria Fuentes, Ph.D.
   as the company’s Chief Scientific Officer. Dr. Fuentes joins Mantra Bio after
   holding research leadership positions at Roche, Bristol-Myers Squibb, and most
