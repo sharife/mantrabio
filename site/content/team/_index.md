@@ -293,16 +293,6 @@ employees:
       (South Korea), and holds a Bachelor's in Pharmacy and a Master's in
       Pharmaceutical Sciences from India. A avid runner, Thiruganesh competes in
       half marathon races each year.
-  - name: Abhishek Ramini
-    title: Research Associate II
-    image: /img/portraits/headshot-abhi.jpg
-    bio: As a research associate on Mantra’s Preclinical Sciences team, Abhishek
-      focuses on in vitro assay development, in vivo study design, and cell
-      culture. Previously, he worked in the Murphy-Russell-Thomasy lab studying
-      the effect of biophysical cues of the stromal matrix on corneal wound
-      healing. Abhishek earned his Bachelor’s degree in microbiology at the
-      University of California, Davis and loves adrenaline-filled activities
-      like sky diving, or simply jogging with his dog, and listening to music.
   - bio: Natalia leads analytical development as part of the Process Sciences team
       at Mantra Bio. Her efforts drive the development and qualification of
       Mantra’s in-house exosome therapeutic characterization assays. Natalia’s
@@ -356,16 +346,6 @@ employees:
       responsible for producing and characterizing exosome vehicles. Alexis
       holds a Bachelor's Degree in Biological Sciences from Dominican
       University.
-  - name: Geoff Weiss
-    bio: Geoff Weiss, Mantra Bio’s lead Downstream Process Development Scientist,
-      brings decades of experience in the manufacturing of adeno-associated
-      virus and oligonucleotide products while at Sangamo Therapeutics and LGC
-      Biosearch, respectively. He holds a BS in Chemical Engineering from Lehigh
-      University in Bethlehem, PA. A long time Bay Area resident, Geoff enjoys
-      all the food, wine, hiking, and music culture the area has to offer.
-    image: img/portraits/mantrabio-7496.jpg
-    link: https://www.linkedin.com/in/geoff-weiss-92a5886/
-    title: Sr. Process Development Scientist
   - name: Oliver Wueseke, Ph.D.
     title: Chief of Staff
     image: img/portraits/mantrabio-7368.jpg
@@ -381,6 +361,12 @@ employees:
       start-up coaching firm. Outside of work, Oliver can be found windsurfing
       across the Bay, unleashing his creativity through photography and digital
       art, or traveling the world.
+  - name: Vaishnavi Beena Valsan
+    title: Research Associate
+    image: img/fpo-head.png
+  - name: Jamison Buendia
+    title: Sr. Animal Technician
+    image: img/fpo-head.png
   - name: D. Andrew Carr, Ph.D.
     title: Data Scientist
     image: img/fpo-head.png
@@ -422,6 +408,9 @@ employees:
 
 
       Dr. Maruri Avidal enjoys traveling the world to lean about different cultures and food. Outside of work she can be found hiking, biking, cooking and gardening.
+  - name: Christian Torres
+    title: Research Associate
+    image: img/fpo-head.png
   - name: Patricia Vera-Gonzalez
     title: Bioinformatician
     image: img/fpo-head.png
