@@ -388,26 +388,19 @@ employees:
   - name: Brendan Johnson
     title: Research Associate
     image: img/fpo-head.png
+    link: https://www.linkedin.com/in/brendan-johnson-892455153/
+    bio: As part of Mantra Bio’s Platform team, Brendan handles small batch exosome
+      production, purification, and characterization for various teams and
+      experiments. While earning his Bachelors of Science in Biomolecular
+      Engineering from Santa Clara University, Brendan studied exosome surface
+      engineering methods. In addition, he has prior experience in polymer
+      chemistry research- developing novel polymerization methods to minimize or
+      even eliminate the use of toxic metal catalyst in these reactions. Outside
+      of work Brendan loves health & fitness, learning about outer space,
+      playing poker with friends, and practicing guitar.
   - name: Anna Martinez, Ph.D.
     title: Scientist
     image: img/fpo-head.png
-  - name: Liliana Maruri Avidal, Ph.D.
-    title: Senior Director of Preclinical Development
-    image: img/fpo-head.png
-    link: https://www.linkedin.com/in/liliana-maruri-avidal/
-    bio: >-
-      Dr. Maruri Avidal is Mantra Bio’s Senior Director of Preclinical
-      Development, responsible for developing Mantra’s EV therapeutic candidates
-      towards IND.
-
-
-      Dr. Maruri Avidal has more than 15 years of experience in virology, molecular, and cellular biology, with six years of experience developing oncolytic virotherapies and gene therapies. In her last position she was appointed Senior Director of R&D at Ignite Immunotherapy where she designed the lab, built, and lead the R&D team in development of preclinical candidates.
-
-
-      After graduating with honors in biology at the National Autonomous University of Mexico (UNAM), Dr. Maruri Avidal went on to obtain a Ph.D. in Biochemistry from the Biotechnology Institute UNAM. Her doctoral studies, which were awarded a fellowship from the Mexican National Council on Science and Technology (CONACyT), focused on the discovery and characterization of novel mechanisms involved in the viral replicative cycle. Dr. Maruri Avidal completed her postdoctoral training at the prestigious laboratory of Dr. Bernard Moss at the National Institutes of Health (NIH) where She received an NIH postdoctoral fellowship and was awarded in the Salzman abstract competition. Dr. Maruri Avidal has produced over 20 publications, presentations and patent applications.
-
-
-      Dr. Maruri Avidal enjoys traveling the world to lean about different cultures and food. Outside of work she can be found hiking, biking, cooking and gardening.
   - name: Christian Torres
     title: Research Associate
     image: img/fpo-head.png
