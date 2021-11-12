@@ -401,9 +401,17 @@ employees:
   - name: Anna Martinez, Ph.D.
     title: Scientist
     image: img/fpo-head.png
-  - name: Christian Torres
-    title: Research Associate
+  - name: Christian Torres, M.S.
+    title: Research Associate II
     image: img/fpo-head.png
+    bio: At Mantra Bio, Christian is responsible for the optimization of production
+      parameters and assays related to targeted exosomes. Holding a Masters of
+      Science in Stem Cell Biology from Sacramento State University, Christian
+      is passionate about creating ways to support diversity and inclusion in
+      science. One of his achievements includes the creation of a scholarship at
+      his alma mater for students of color to pursue a graduate degree in
+      science.
+    link: https://www.linkedin.com/in/christian-torres-ma
   - name: Patricia Vera-Gonzalez
     title: Bioinformatician
     image: img/fpo-head.png
