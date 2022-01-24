@@ -385,6 +385,10 @@ employees:
 
       Andrew holds a Ph.D. in Bioinformatics from George Mason University and completed postdoctoral work at the University of North Carolina Charlotte where he managed the computational lab for micro-array biophysics research, while serving as DataFATE lead and project manager. Andrew also holds Bachelor’s degrees in both Mathematics and Ballet from Indiana University. Outside of work, Andrew coaches fitness and ballet, and also enjoys cooking and hiking.
     link: www.linkedin.com/in/d-andrew-carr-65534849
+  - name: Jennifa Gosling, M.S.
+    title: Senior Director of Preclinical Development
+    link: https://www.linkedin.com/in/jennifa-gosling-b305429/
+    image: img/fpo-head.png
   - name: Brendan Johnson
     title: Research Associate
     image: img/fpo-head.png
@@ -398,6 +402,14 @@ employees:
       even eliminate the use of toxic metal catalyst in these reactions. Outside
       of work Brendan loves health & fitness, learning about outer space,
       playing poker with friends, and practicing guitar.
+  - name: Neeraj Kapoor, Ph.D.
+    title: Director of Protein Sciences
+    link: https://www.linkedin.com/in/neeraj-kapoor-685a8626/
+    image: img/fpo-head.png
+  - name: Natalie Kroll, PHR, SHRM-CP
+    title: "Sr. People Operations Manager "
+    image: img/fpo-head.png
+    link: https://www.linkedin.com/in/nataliekroll/
   - name: Anna Martinez, Ph.D.
     title: Scientist
     image: img/fpo-head.png
