@@ -361,6 +361,7 @@ employees:
       start-up coaching firm. Outside of work, Oliver can be found windsurfing
       across the Bay, unleashing his creativity through photography and digital
       art, or traveling the world.
+    link: https://www.linkedin.com/in/oliver-wueseke-81615393
   - name: Vaishnavi Beena Valsan
     title: Research Associate II
     image: img/fpo-head.png
@@ -409,6 +410,15 @@ employees:
     title: Senior Director of Preclinical Development
     link: https://www.linkedin.com/in/jennifa-gosling-b305429/
     image: img/fpo-head.png
+    bio: As Mantra Bio’s Senior Director of Preclinical Development, Jennifa Gosling
+      brings deep experience in cell biology and immunology across different
+      therapeutic areas and modalities, including drug development from target
+      ID to IND filing. Jennifa has held positions across academics, start up,
+      mid size biotechnology and “big pharma”, and in large and small molecule
+      development where she has progressed assets into the clinic. Jennifa holds
+      Bachelor’s and Master’s degrees in Biology from Worcester Polytechnic
+      Institute, in Worcester Massachusetts. Outside of work she enjoys wine,
+      live music, and sports (as an avid Warriors and Giants fan).
   - name: Brendan Johnson
     title: Research Associate
     image: img/fpo-head.png
@@ -467,6 +477,20 @@ employees:
   - name: Patricia Vera-Gonzalez
     title: Bioinformatician
     image: img/fpo-head.png
+    bio: >-
+      An expert in statistical analysis, Patricia consults with and trains
+      scientists on statistical tools, methods, and experimental design. She
+      also develops templates for in vivo studies and assay analyses. Patricia
+      holds a Bachelor’s of Science in Mathematics from the University of Puerto
+      Rico, Río Piedras Campus, and a Master’s in Biostatistics from Brown
+      University. 
+
+
+      While at Brown, Patricia used machine learning models and developed simulations in genome-wide association studies to identify key genetic variants associated with complex traits and diseases, with a focus in health disparities. At the Dana Farber Cancer Institute, she developed multivariate predictive models to study the effects of various cancer therapies on single nucleotide polymorphisms (SNPs) in the human genome. In a previous position at the National Institute on Aging (NIA) Patricia worked to quantify and identify trends that described the decline and disruption of neural networks in normal cognitive aging. For her devotion and achievement in the field of public health, she was inducted into Brown's Epsilon Iota Chapter of the Delta Omega Honorary Society.
+
+
+      Outside of work Patricia enjoys cooking, painting and sculpting, solving puzzles, basketball, and spending time at the beach.
+    link: https://www.linkedin.com/in/patricia-v-3891a219b
 advisors:
   - affiliation: Advisor
     bio: >-
