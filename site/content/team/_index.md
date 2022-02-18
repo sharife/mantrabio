@@ -362,11 +362,31 @@ employees:
       across the Bay, unleashing his creativity through photography and digital
       art, or traveling the world.
   - name: Vaishnavi Beena Valsan
-    title: Research Associate
+    title: Research Associate II
     image: img/fpo-head.png
+    bio: Vaishnavi is a Research Associate working on cell based assay development
+      within our Preclinical Sciences team. Prior to joining Mantra, Vaishnavi
+      completed a Master’s in Medical Biotechnology at the University of
+      Illinois, Chicago. While working on her Master’s, she contributed to
+      COVID-19 testing efforts, collecting samples on campus, and also worked in
+      the university’s Flow and Cell Sorter core facility. Vaishnavi holds a
+      Bachelors of Science in Biotechnology from the SRM Institute of Science
+      and Technology, in Chennai, India. Outside of work, she is a passionate
+      photographer and loves to play badminton!
+    link: https://www.linkedin.com/in/vaishnavi-beena-valsan/
   - name: Jamison Buendia
-    title: Sr. Animal Technician
+    title: Sr. In-Vivo Technician
     image: img/fpo-head.png
+    bio: Jamison is a Senior In-Vivo Technician at Mantra, supporting all animal
+      studies. Jamison brings twelve years of in-vivo experience; with a variety
+      of dosing, necropsy, animal-phlebotomy, sample-collection and policy
+      proficiencies pertaining to efficacy screening in biotechnology-research.
+      LAT Certified (AALAS, in 2018), Jamison has formerly sat on safety
+      committees and was a key member in achieving AAALAC accreditation at a
+      former facility. In a previous position, Jamison co-managed a twenty-two
+      room vivarium, responsible for documentation, logistics, training, and
+      technical applications. Outside of work Jamison enjoys spending time
+      outdoors, working on creative projects, and spending time with his family.
   - name: D. Andrew Carr, Ph.D.
     title: Data Scientist
     image: img/fpo-head.png
@@ -406,10 +426,30 @@ employees:
     title: Director of Protein Sciences
     link: https://www.linkedin.com/in/neeraj-kapoor-685a8626/
     image: img/fpo-head.png
+    bio: Director of Protein Sciences at Mantra Bio, Neeraj Kapoor brings a world of
+      expertise in developing new pipeline candidates. In a previous position at
+      Vaxcyte, working on bacterial conjugate vaccines, Neeraj and his team
+      successfully designed, purified and performed POC studies for a novel
+      multivalent vaccine against Group A Strep. His work lead to the Group A
+      Strep vaccine program being added to the company's product pipeline.
+      Neeraj holds a Ph.D. in Protein Biochemistry and Molecular Biology from
+      Rockefeller University and completed a post doc in immunology at
+      Genentech. Passionate about the outdoors, Neeraj enjoys playing sports,
+      hiking, and sight seeing while outside of work.
   - name: Natalie Kroll, PHR, SHRM-CP
     title: "Sr. People Operations Manager "
     image: img/fpo-head.png
     link: https://www.linkedin.com/in/nataliekroll/
+    bio: Building a great company takes finding and retaining great talent. Natalie
+      Kroll has more than a decade of Human Resources experience including HR
+      compliance, best practices, policy and procedure development, employment
+      law, and recruitment. She holds a Bachelor of Science degree in Marketing
+      from San Jose State University, and is recognized as a Certified
+      Professional from the Human Resources Certification Institute (PHR) and
+      the Society of Human Resources Management (SHRM-SCP). Outside of work,
+      Natalie can be found hiking, salsa dancing, traveling, snowboarding,
+      trying the latest high intensity exercise or creating new recipes to enjoy
+      with family and friends.
   - name: Anna Martinez, Ph.D.
     title: Scientist
     image: img/fpo-head.png
