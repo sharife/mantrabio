@@ -47,9 +47,9 @@ nav ul li a:hover {
   display: none;
 }
 
-#nav-main {
+/*#nav-main {
   opacity: 0;
-}
+}*/
 
 @media only screen and (max-width: 820px) {
   #nav-mobile, #smallloop {
