@@ -1,4 +1,4 @@
-<nav id="nav-main" class="overflow-x-scroll overflow-x-visible-ns items-center center bg-black divider-grey absolute fixed z-999 w-100 fade-3">
+{{ if .IsHome }}{{else}}<nav id="nav-main" class="overflow-x-scroll overflow-x-visible-ns items-center center bg-black divider-grey absolute fixed z-999 w-100 fade-3">
 	<div class="mw7 center flex justify-between">
 		<!-- Logo -->
 		<a href="/" class="pa3 db mr4 h-100 w6 flex-none">
@@ -21,7 +21,7 @@
 		</ul>
 	</div>
 </nav>
-
+{{end}}
 
 
 <nav id="nav-mobile" class="w-100 absolute fixed z-999">

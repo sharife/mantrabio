@@ -1,13 +1,5 @@
 {{ define "main" }}
 
-<style type="text/css">#nav-main { opacity:0; }</style>
-
-<script type="text/javascript">
-	window.onload = function(){
-		document.getElementById("nav-main").classList.add('remover');
-	}
-</script>
-
 {{ partial "cover" (dict "imageUrl" .Params.image "title" .Title "subtitle" .Params.subtitle) }}
 
 {{ partial "nav-alt" . }}
