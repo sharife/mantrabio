@@ -4,9 +4,12 @@ subtitle: >-
   Mantra Bio is always looking for passionate and talented individuals to join
   our team. 
 image: /img/header-careers.jpg
+photos: 
+  - image: /img/team-01.jpg
+  - image: /img/team-02.jpg
+  - image: /img/team-03.jpg
 values:
   heading: Discover with us
-  imageUrl: /img/careers-group.jpg
   text: >-
     Our team is comprised of a family of curious scientists, united under the
     common goal of making a difference and leaving the world a better place at

@@ -4,7 +4,11 @@
 
 <div class="mw7 center ph3 fade-4">
 
-  {{ partial "media-block-reverse" (dict "imageUrl" .Params.values.imageUrl "heading" .Params.values.heading "text" .Params.values.text) }}
+  <!-- {{ partial "media-block-reverse" (dict "imageUrl" .Params.values.imageUrl "heading" .Params.values.heading "text" .Params.values.text) }} -->
+
+  {{ partial "short-text" (dict "heading" .Params.values.heading "text" .Params.values.text) }}
+
+  {{ partial "3-up-alt" (dict "items" .Params.photos) }}
 
   {{ partial "values-diagram" .Params.diagram }}
 

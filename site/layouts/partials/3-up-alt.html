@@ -1,4 +1,4 @@
-<div class="bg-grey-4 white pv4">
+<div class="bg-grey-4 white pv3">
   <div class="ph3 mw7 center pb3">
     {{ if .intro.heading }}
     <h2 class="f3 b lh-title mb2 tc hideme">{{.intro.heading}}</h2>
@@ -8,8 +8,8 @@
     {{ end }}
     <div class="flex-ns mhn2-ns mb3">
       {{ range .items }}
-      <div class="ph2-ns w-33-ns">
-        <img src="{{.image}}" alt="" class="center db mb3 hideme" style="max-width: 120px">
+      <div class="ph1-ns w-33-ns">
+        <img src="{{.image}}" alt="" class="center db mb2 w-100">
         {{if .heading }}<h3 class="b f6 mb1 pr4 pl4 lh-title tc hideme">{{.heading}}</h3>{{ end }}
         {{if .text }}<p class="small tl hideme">{{.text | markdownify}}</p>{{ end }}
       </div>
