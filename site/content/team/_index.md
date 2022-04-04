@@ -153,17 +153,6 @@ employees:
       earning a B.S. in Zoology at San Francisco State University. Outside of
       work Zebulon likes to roast coffee and make cheese, when not hiking or
       pretending to garden.
-  - name: Ming Lun Wu
-    title: Automation Engineer
-    image: img/portraits/mantrabio-7379.jpg
-    link: https://www.linkedin.com/in/minglwu/
-    bio: Ming Lun Wu joins Mantra Bio’s Automation team as an Automation Engineer.
-      Ming Lun is focused on making science easier and more efficient through
-      the automation of experiments and data analysis, with an emphasis on Flow
-      Cytometry workflows. Ming Lun holds a Bachelor’s of Science in Biomedical
-      Engineering from the University of Florida, and a Master’s of Science in
-      Bioengineering from the University of California, Los Angeles. Outside of
-      work Ming Lun can be found performing Latin Dance or playing video games.
   - name: Bryan McKernon
     title: Software Engineer
     image: img/portraits/mantrabio-7592.jpg
@@ -186,19 +175,6 @@ employees:
     name: Sidharth Menon
     title: Data Engineer
     image: /img/portraits/mantrabio-3050.jpg
-  - name: Alaknanda Mishra, M.S., Ph.D.
-    title: In Vivo Scientist, Preclinical Sciences
-    link: https://www.linkedin.com/in/alaknanda-mishra-a42279b7/
-    image: img/portraits/mantrabio-7446.jpg
-    bio: As Mantra Bio's lead *in vivo* scientist on the Preclinical Team, Alaknanda
-      manages therapeutic efficacy, safety, toxicity, and PK/PD studies, along
-      with model development and characterization. Having published sixteen
-      papers, Alaknanda brings a great depth of experience in developing gene
-      and cell therapy interventions for ocular diseases, with previous
-      postdoctoral fellow appointments at UC Davis and the National Eye
-      Institute, NIH. Alaknanda earned her Ph.D. from the National Institute of
-      Immunology, New Delhi, India. Outside of work Alaknanda likes traveling to
-      new places, backpacking, hiking, and painting.
   - bio: Alex is an entrepreneur with over a decade’s experience in building life
       science businesses. He was head of commercialization at CellASIC (acquired
       by Merck KgAA), a UC Berkeley microfluidic organ-on-chip technology
@@ -279,20 +255,6 @@ employees:
     name: Katie Planey, M.B.A., Ph.D.
     title: CTO & Co-founder
     image: /img/portraits/headshot-katie.jpg
-  - name: Thiruganesh Ramasamy, M. Pharm, Ph.D.
-    title: Scientist
-    image: img/portraits/mantrabio-7418.jpg
-    link: https://www.linkedin.com/in/thiruganesh-ramasamy-13a171b5/
-    bio: Thiruganesh is a drug delivery chemist working in the interdisciplinary
-      field of nanomedicine and biomaterials. At Mantra, he works on the
-      formulation and quality control testing of therapeutic exosome payloads.
-      Thiruganesh brings extensive experience in design, engineering,
-      optimization, and characterization of lipid and polymer-based
-      nanoparticles for cancer and cardiovascular diseases. In 2015 he received
-      a Ph.D. in Pharmaceutics and Drug Delivery from the Yeungnam University
-      (South Korea), and holds a Bachelor's in Pharmacy and a Master's in
-      Pharmaceutical Sciences from India. A avid runner, Thiruganesh competes in
-      half marathon races each year.
   - bio: Natalia leads analytical development as part of the Process Sciences team
       at Mantra Bio. Her efforts drive the development and qualification of
       Mantra’s in-house exosome therapeutic characterization assays. Natalia’s
@@ -362,6 +324,9 @@ employees:
       across the Bay, unleashing his creativity through photography and digital
       art, or traveling the world.
     link: https://www.linkedin.com/in/oliver-wueseke-81615393
+  - name: Joshua Aldon
+    title: "Research Associate "
+    image: img/fpo-head.png
   - name: Vaishnavi Beena Valsan
     title: Research Associate II
     image: img/fpo-head.png
@@ -419,6 +384,9 @@ employees:
       Bachelor’s and Master’s degrees in Biology from Worcester Polytechnic
       Institute, in Worcester Massachusetts. Outside of work she enjoys wine,
       live music, and sports (as an avid Warriors and Giants fan).
+  - name: Mirella Huber
+    title: Research Associate II
+    image: img/fpo-head.png
   - name: Brendan Johnson
     title: Research Associate
     image: img/fpo-head.png
@@ -462,6 +430,9 @@ employees:
       with family and friends.
   - name: Anna Martinez, Ph.D.
     title: Scientist
+    image: img/fpo-head.png
+  - name: Alex Sabogal
+    title: Staff Scientist
     image: img/fpo-head.png
   - name: Christian Torres, M.S.
     title: Research Associate II
