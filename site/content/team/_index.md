@@ -325,8 +325,9 @@ employees:
       art, or traveling the world.
     link: https://www.linkedin.com/in/oliver-wueseke-81615393
   - name: Joshua Aldon
-    title: "Research Associate "
     image: img/fpo-head.png
+    title: Research Associate I
+    link: https://www.linkedin.com/in/joshualdon/
   - name: Vaishnavi Beena Valsan
     title: Research Associate II
     image: img/fpo-head.png
@@ -431,9 +432,10 @@ employees:
   - name: Anna Martinez, Ph.D.
     title: Scientist
     image: img/fpo-head.png
-  - name: Alex Sabogal
-    title: Staff Scientist
+  - name: Alex Sabogal, Ph.D.
+    title: Staff Scientist I
     image: img/fpo-head.png
+    link: https://www.linkedin.com/in/alex-sabogal-phd-3b50599/
   - name: Christian Torres, M.S.
     title: Research Associate II
     image: img/fpo-head.png
