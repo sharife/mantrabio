@@ -3,6 +3,10 @@ title: We are Mantra Bio
 subtitle: ""
 image: /img/header-team.jpg
 employees:
+  - name: Joshua Aldon
+    image: img/portraits/mantrabio-7692.jpg
+    title: Research Associate I
+    link: https://www.linkedin.com/in/joshualdon/
   - bio: Conor has extensive experience in cloud computing infrastructure, scalable
       systems design, containers, and security in complex environments. At
       Mantra he maintains and develops internal infrastructure, ensures
@@ -20,6 +24,22 @@ employees:
     name: Conor Callahan
     title: Lead Site Reliability Engineer
     image: /img/portraits/headshot-conor.jpg
+  - name: D. Andrew Carr, Ph.D.
+    title: Data Scientist
+    image: img/portraits/mantrabio-7791.jpg
+    bio: Andrew Carr is a Data Scientist with expertise in algorithms, machine
+      learning, and database design, and is responsible for advancing Mantra
+      Bio’s targeted exosome technologies. In a previous position as Director of
+      Bioinformatics at Accelerated Technology Laboratories Andrew developed
+      high through-put GPGPU accelerated algorithms for parsing bioinformatics
+      data to provide faster sequence comparison across multiple genomic
+      targets. As adjunct faculty at UNCC Andrew explored Covid-19 mRNA
+      molecular structure and propagation through a combination of machine
+      learning and bioinformatics tools, for linkage in potential exogenistic
+      molecular catalysis for genetic predisposed diseases. 
+
+      Andrew holds a Ph.D. in Bioinformatics from George Mason University and completed postdoctoral work at the University of North Carolina Charlotte where he managed the computational lab for micro-array biophysics research, while serving as DataFATE lead and project manager. Andrew also holds Bachelor’s degrees in both Mathematics and Ballet from Indiana University. Outside of work, Andrew coaches fitness and ballet, and also enjoys cooking and hiking.
+    link: www.linkedin.com/in/d-andrew-carr-65534849
   - bio: As part of the Preclinical R&D team, Pranali leads the efforts behind
       payload packaging strategies and analytical characterization methods. Her
       wide range of experiences include working as a research scientist in R&D
@@ -33,7 +53,7 @@ employees:
     image: /img/portraits/mantrabio-6528.jpg
   - name: Maria Fuentes
     title: Chief Scientific Officer
-    image: img/portrait-maria.jpg
+    image: img/portraits/mantrabio-7655.jpg
     bio: >-
       Dr. Fuentes is a seasoned drug discovery executive with a track record of
       advancing multiple assets into the clinic. Maria has led preclinical teams
@@ -85,18 +105,19 @@ employees:
     name: Daniel Goodman, M.S.
     title: Research Associate
     image: /img/portraits/mantrabio-6732.jpg
-  - bio: At Mantra, Mitch handles all things operational. From ordering to
-      recruiting, facilities management, and business strategy projects, Mitch
-      ensures all the trains run on time. His past experiences include working
-      as a researcher for the SF Veterans Affairs Hospital, and instructing
-      microscopy classes at Merritt Community College. He earned his B.S. in
-      Cell and Molecular Biology from UC Santa Cruz with a minor in
-      Bioinformatics. Outside of work you’ll find Mitch biking, baking, and
-      backpacking- or racing sailboats on the Bay.
-    link: https://www.linkedin.com/in/migordonsc
-    name: Mitch Gordon
-    title: Business Ops. Manager
-    image: /img/portraits/mantrabio-6717.jpg
+  - name: Jennifa Gosling, M.S.
+    title: Senior Director of Preclinical Development
+    link: https://www.linkedin.com/in/jennifa-gosling-b305429/
+    image: img/portraits/mantrabio-7701.jpg
+    bio: As Mantra Bio’s Senior Director of Preclinical Development, Jennifa Gosling
+      brings deep experience in cell biology and immunology across different
+      therapeutic areas and modalities, including drug development from target
+      ID to IND filing. Jennifa has held positions across academics, start up,
+      mid size biotechnology and “big pharma”, and in large and small molecule
+      development where she has progressed assets into the clinic. Jennifa holds
+      Bachelor’s and Master’s degrees in Biology from Worcester Polytechnic
+      Institute, in Worcester Massachusetts. Outside of work she enjoys wine,
+      live music, and sports (as an avid Warriors and Giants fan).
   - bio: As Mantra’s protein engineer, Colin leads the efforts behind cell line
       engineering, mass spectrometry, and other biochemistry projects. Through
       previous experiences, Colin has identified two zinc binding sites in the
@@ -129,6 +150,22 @@ employees:
     name: Robert Halenbeck, M.S.
     title: Principal Scientist, Protein Engineering
     image: /img/portraits/headshot-robert.jpg
+  - name: Mirella Huber
+    title: Research Associate II
+    image: img/portraits/mantrabio-7738.jpg
+  - name: Brendan Johnson
+    title: Research Associate
+    image: img/portraits/mantrabio-7778.jpg
+    link: https://www.linkedin.com/in/brendan-johnson-892455153/
+    bio: As part of Mantra Bio’s Platform team, Brendan handles small batch exosome
+      production, purification, and characterization for various teams and
+      experiments. While earning his Bachelors of Science in Biomolecular
+      Engineering from Santa Clara University, Brendan studied exosome surface
+      engineering methods. In addition, he has prior experience in polymer
+      chemistry research- developing novel polymerization methods to minimize or
+      even eliminate the use of toxic metal catalyst in these reactions. Outside
+      of work Brendan loves health & fitness, learning about outer space,
+      playing poker with friends, and practicing guitar.
   - bio: At Mantra Bio, Ginny leads preclinical research study efforts. From *in
       vitro* potency assays to *in vivo* efficacy studies, Ginny leads study
       design, execution, and data analysis. An accomplished scientist in her
@@ -153,6 +190,34 @@ employees:
       earning a B.S. in Zoology at San Francisco State University. Outside of
       work Zebulon likes to roast coffee and make cheese, when not hiking or
       pretending to garden.
+  - name: Neeraj Kapoor, Ph.D.
+    title: Director of Protein Sciences
+    link: https://www.linkedin.com/in/neeraj-kapoor-685a8626/
+    image: img/portraits/mantrabio-7637.jpg
+    bio: Director of Protein Sciences at Mantra Bio, Neeraj Kapoor brings a world of
+      expertise in developing new pipeline candidates. In a previous position at
+      Vaxcyte, working on bacterial conjugate vaccines, Neeraj and his team
+      successfully designed, purified and performed POC studies for a novel
+      multivalent vaccine against Group A Strep. His work lead to the Group A
+      Strep vaccine program being added to the company's product pipeline.
+      Neeraj holds a Ph.D. in Protein Biochemistry and Molecular Biology from
+      Rockefeller University and completed a post doc in immunology at
+      Genentech. Passionate about the outdoors, Neeraj enjoys playing sports,
+      hiking, and sight seeing while outside of work.
+  - name: Natalie Kroll, PHR, SHRM-CP
+    title: "Sr. People Operations Manager "
+    image: img/portraits/mantrabio-7830.jpg
+    link: https://www.linkedin.com/in/nataliekroll/
+    bio: Building a great company takes finding and retaining great talent. Natalie
+      Kroll has more than a decade of Human Resources experience including HR
+      compliance, best practices, policy and procedure development, employment
+      law, and recruitment. She holds a Bachelor of Science degree in Marketing
+      from San Jose State University, and is recognized as a Certified
+      Professional from the Human Resources Certification Institute (PHR) and
+      the Society of Human Resources Management (SHRM-SCP). Outside of work,
+      Natalie can be found hiking, salsa dancing, traveling, snowboarding,
+      trying the latest high intensity exercise or creating new recipes to enjoy
+      with family and friends.
   - name: Bryan McKernon
     title: Software Engineer
     image: img/portraits/mantrabio-7592.jpg
@@ -255,6 +320,10 @@ employees:
     name: Katie Planey, M.B.A., Ph.D.
     title: CTO & Co-founder
     image: /img/portraits/headshot-katie.jpg
+  - name: Alex Sabogal, Ph.D.
+    title: Staff Scientist I
+    image: img/portraits/mantrabio-7761.jpg
+    link: https://www.linkedin.com/in/alex-sabogal-phd-3b50599/
   - bio: Natalia leads analytical development as part of the Process Sciences team
       at Mantra Bio. Her efforts drive the development and qualification of
       Mantra’s in-house exosome therapeutic characterization assays. Natalia’s
@@ -301,13 +370,30 @@ employees:
     name: Linda Szabo, M.S., Ph.D.
     title: Lead Data Scientist
     image: /img/portraits/mantrabio-6805.jpg
-  - name: Alexis Toruño
+  - name: Christian Torres, M.S.
     title: Research Associate II
-    image: img/portraits/mantrabio-7403.jpg
-    bio: As a research associate on Mantra Bio’s TEV Platform team, Alexis Toruño is
-      responsible for producing and characterizing exosome vehicles. Alexis
-      holds a Bachelor's Degree in Biological Sciences from Dominican
-      University.
+    image: img/portraits/mantrabio-7662.jpg
+    bio: At Mantra Bio, Christian is responsible for the optimization of production
+      parameters and assays related to targeted exosomes. Holding a Masters of
+      Science in Stem Cell Biology from Sacramento State University, Christian
+      is passionate about creating ways to support diversity and inclusion in
+      science. One of his achievements includes the creation of a scholarship at
+      his alma mater for students of color to pursue a graduate degree in
+      science.
+    link: https://www.linkedin.com/in/christian-torres-ma
+  - name: Vaishnavi Beena Valsan
+    title: Research Associate II
+    image: img/portraits/mantrabio-7622.jpg
+    bio: Vaishnavi is a Research Associate working on cell based assay development
+      within our Preclinical Sciences team. Prior to joining Mantra, Vaishnavi
+      completed a Master’s in Medical Biotechnology at the University of
+      Illinois, Chicago. While working on her Master’s, she contributed to
+      COVID-19 testing efforts, collecting samples on campus, and also worked in
+      the university’s Flow and Cell Sorter core facility. Vaishnavi holds a
+      Bachelors of Science in Biotechnology from the SRM Institute of Science
+      and Technology, in Chennai, India. Outside of work, she is a passionate
+      photographer and loves to play badminton!
+    link: https://www.linkedin.com/in/vaishnavi-beena-valsan/
   - name: Oliver Wueseke, Ph.D.
     title: Chief of Staff
     image: img/portraits/mantrabio-7368.jpg
@@ -324,129 +410,6 @@ employees:
       across the Bay, unleashing his creativity through photography and digital
       art, or traveling the world.
     link: https://www.linkedin.com/in/oliver-wueseke-81615393
-  - name: Joshua Aldon
-    image: img/fpo-head.png
-    title: Research Associate I
-    link: https://www.linkedin.com/in/joshualdon/
-  - name: Vaishnavi Beena Valsan
-    title: Research Associate II
-    image: img/fpo-head.png
-    bio: Vaishnavi is a Research Associate working on cell based assay development
-      within our Preclinical Sciences team. Prior to joining Mantra, Vaishnavi
-      completed a Master’s in Medical Biotechnology at the University of
-      Illinois, Chicago. While working on her Master’s, she contributed to
-      COVID-19 testing efforts, collecting samples on campus, and also worked in
-      the university’s Flow and Cell Sorter core facility. Vaishnavi holds a
-      Bachelors of Science in Biotechnology from the SRM Institute of Science
-      and Technology, in Chennai, India. Outside of work, she is a passionate
-      photographer and loves to play badminton!
-    link: https://www.linkedin.com/in/vaishnavi-beena-valsan/
-  - name: Jamison Buendia
-    title: Sr. In-Vivo Technician
-    image: img/fpo-head.png
-    bio: Jamison is a Senior In-Vivo Technician at Mantra, supporting all animal
-      studies. Jamison brings twelve years of in-vivo experience; with a variety
-      of dosing, necropsy, animal-phlebotomy, sample-collection and policy
-      proficiencies pertaining to efficacy screening in biotechnology-research.
-      LAT Certified (AALAS, in 2018), Jamison has formerly sat on safety
-      committees and was a key member in achieving AAALAC accreditation at a
-      former facility. In a previous position, Jamison co-managed a twenty-two
-      room vivarium, responsible for documentation, logistics, training, and
-      technical applications. Outside of work Jamison enjoys spending time
-      outdoors, working on creative projects, and spending time with his family.
-  - name: D. Andrew Carr, Ph.D.
-    title: Data Scientist
-    image: img/fpo-head.png
-    bio: >-
-      Andrew Carr is a Data Scientist with expertise in algorithms, machine
-      learning, and database design, and is responsible for advancing Mantra
-      Bio’s targeted exosome technologies. In a previous position as Director of
-      Bioinformatics at Accelerated Technology Laboratories Andrew developed
-      high through-put GPGPU accelerated algorithms for parsing bioinformatics
-      data to provide faster sequence comparison across multiple genomic
-      targets. As adjunct faculty at UNCC Andrew explored Covid-19 mRNA
-      molecular structure and propagation through a combination of machine
-      learning and bioinformatics tools, for linkage in potential exogenistic
-      molecular catalysis for genetic predisposed diseases. 
-
-
-      Andrew holds a Ph.D. in Bioinformatics from George Mason University and completed postdoctoral work at the University of North Carolina Charlotte where he managed the computational lab for micro-array biophysics research, while serving as DataFATE lead and project manager. Andrew also holds Bachelor’s degrees in both Mathematics and Ballet from Indiana University. Outside of work, Andrew coaches fitness and ballet, and also enjoys cooking and hiking.
-    link: www.linkedin.com/in/d-andrew-carr-65534849
-  - name: Jennifa Gosling, M.S.
-    title: Senior Director of Preclinical Development
-    link: https://www.linkedin.com/in/jennifa-gosling-b305429/
-    image: img/fpo-head.png
-    bio: As Mantra Bio’s Senior Director of Preclinical Development, Jennifa Gosling
-      brings deep experience in cell biology and immunology across different
-      therapeutic areas and modalities, including drug development from target
-      ID to IND filing. Jennifa has held positions across academics, start up,
-      mid size biotechnology and “big pharma”, and in large and small molecule
-      development where she has progressed assets into the clinic. Jennifa holds
-      Bachelor’s and Master’s degrees in Biology from Worcester Polytechnic
-      Institute, in Worcester Massachusetts. Outside of work she enjoys wine,
-      live music, and sports (as an avid Warriors and Giants fan).
-  - name: Mirella Huber
-    title: Research Associate II
-    image: img/fpo-head.png
-  - name: Brendan Johnson
-    title: Research Associate
-    image: img/fpo-head.png
-    link: https://www.linkedin.com/in/brendan-johnson-892455153/
-    bio: As part of Mantra Bio’s Platform team, Brendan handles small batch exosome
-      production, purification, and characterization for various teams and
-      experiments. While earning his Bachelors of Science in Biomolecular
-      Engineering from Santa Clara University, Brendan studied exosome surface
-      engineering methods. In addition, he has prior experience in polymer
-      chemistry research- developing novel polymerization methods to minimize or
-      even eliminate the use of toxic metal catalyst in these reactions. Outside
-      of work Brendan loves health & fitness, learning about outer space,
-      playing poker with friends, and practicing guitar.
-  - name: Neeraj Kapoor, Ph.D.
-    title: Director of Protein Sciences
-    link: https://www.linkedin.com/in/neeraj-kapoor-685a8626/
-    image: img/fpo-head.png
-    bio: Director of Protein Sciences at Mantra Bio, Neeraj Kapoor brings a world of
-      expertise in developing new pipeline candidates. In a previous position at
-      Vaxcyte, working on bacterial conjugate vaccines, Neeraj and his team
-      successfully designed, purified and performed POC studies for a novel
-      multivalent vaccine against Group A Strep. His work lead to the Group A
-      Strep vaccine program being added to the company's product pipeline.
-      Neeraj holds a Ph.D. in Protein Biochemistry and Molecular Biology from
-      Rockefeller University and completed a post doc in immunology at
-      Genentech. Passionate about the outdoors, Neeraj enjoys playing sports,
-      hiking, and sight seeing while outside of work.
-  - name: Natalie Kroll, PHR, SHRM-CP
-    title: "Sr. People Operations Manager "
-    image: img/fpo-head.png
-    link: https://www.linkedin.com/in/nataliekroll/
-    bio: Building a great company takes finding and retaining great talent. Natalie
-      Kroll has more than a decade of Human Resources experience including HR
-      compliance, best practices, policy and procedure development, employment
-      law, and recruitment. She holds a Bachelor of Science degree in Marketing
-      from San Jose State University, and is recognized as a Certified
-      Professional from the Human Resources Certification Institute (PHR) and
-      the Society of Human Resources Management (SHRM-SCP). Outside of work,
-      Natalie can be found hiking, salsa dancing, traveling, snowboarding,
-      trying the latest high intensity exercise or creating new recipes to enjoy
-      with family and friends.
-  - name: Anna Martinez, Ph.D.
-    title: Scientist
-    image: img/fpo-head.png
-  - name: Alex Sabogal, Ph.D.
-    title: Staff Scientist I
-    image: img/fpo-head.png
-    link: https://www.linkedin.com/in/alex-sabogal-phd-3b50599/
-  - name: Christian Torres, M.S.
-    title: Research Associate II
-    image: img/fpo-head.png
-    bio: At Mantra Bio, Christian is responsible for the optimization of production
-      parameters and assays related to targeted exosomes. Holding a Masters of
-      Science in Stem Cell Biology from Sacramento State University, Christian
-      is passionate about creating ways to support diversity and inclusion in
-      science. One of his achievements includes the creation of a scholarship at
-      his alma mater for students of color to pursue a graduate degree in
-      science.
-    link: https://www.linkedin.com/in/christian-torres-ma
   - name: Patricia Vera-Gonzalez
     title: Bioinformatician
     image: img/fpo-head.png
