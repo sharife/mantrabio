@@ -54,7 +54,7 @@ employees:
     image: /img/portraits/mantrabio-6528.jpg
   - name: Maria Fuentes
     title: Chief Scientific Officer
-    image: img/portraits/mantrabio-7655.jpg
+    image: img/portrait-maria.jpg
     bio: >-
       Dr. Fuentes is a seasoned drug discovery executive with a track record of
       advancing multiple assets into the clinic. Maria has led preclinical teams
