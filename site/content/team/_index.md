@@ -27,7 +27,8 @@ employees:
   - name: D. Andrew Carr, Ph.D.
     title: Data Scientist
     image: img/portraits/mantrabio-7791.jpg
-    bio: Andrew Carr is a Data Scientist with expertise in algorithms, machine
+    bio: >-
+      Andrew Carr is a Data Scientist with expertise in algorithms, machine
       learning, and database design, and is responsible for advancing Mantra
       Bio’s targeted exosome technologies. In a previous position as Director of
       Bioinformatics at Accelerated Technology Laboratories Andrew developed
@@ -36,7 +37,7 @@ employees:
       targets. As adjunct faculty at UNCC Andrew explored Covid-19 mRNA
       molecular structure and propagation through a combination of machine
       learning and bioinformatics tools, for linkage in potential exogenistic
-      molecular catalysis for genetic predisposed diseases. 
+      molecular catalysis for genetic predisposed diseases.
 
       Andrew holds a Ph.D. in Bioinformatics from George Mason University and completed postdoctoral work at the University of North Carolina Charlotte where he managed the computational lab for micro-array biophysics research, while serving as DataFATE lead and project manager. Andrew also holds Bachelor’s degrees in both Mathematics and Ballet from Indiana University. Outside of work, Andrew coaches fitness and ballet, and also enjoys cooking and hiking.
     link: www.linkedin.com/in/d-andrew-carr-65534849
@@ -150,9 +151,6 @@ employees:
     name: Robert Halenbeck, M.S.
     title: Principal Scientist, Protein Engineering
     image: /img/portraits/headshot-robert.jpg
-  - name: Mirella Huber
-    title: Research Associate II
-    image: img/portraits/mantrabio-7738.jpg
   - name: Brendan Johnson
     title: Research Associate
     image: img/portraits/mantrabio-7778.jpg
@@ -190,20 +188,6 @@ employees:
       earning a B.S. in Zoology at San Francisco State University. Outside of
       work Zebulon likes to roast coffee and make cheese, when not hiking or
       pretending to garden.
-  - name: Neeraj Kapoor, Ph.D.
-    title: Director of Protein Sciences
-    link: https://www.linkedin.com/in/neeraj-kapoor-685a8626/
-    image: img/portraits/mantrabio-7637.jpg
-    bio: Director of Protein Sciences at Mantra Bio, Neeraj Kapoor brings a world of
-      expertise in developing new pipeline candidates. In a previous position at
-      Vaxcyte, working on bacterial conjugate vaccines, Neeraj and his team
-      successfully designed, purified and performed POC studies for a novel
-      multivalent vaccine against Group A Strep. His work lead to the Group A
-      Strep vaccine program being added to the company's product pipeline.
-      Neeraj holds a Ph.D. in Protein Biochemistry and Molecular Biology from
-      Rockefeller University and completed a post doc in immunology at
-      Genentech. Passionate about the outdoors, Neeraj enjoys playing sports,
-      hiking, and sight seeing while outside of work.
   - name: Natalie Kroll, PHR, SHRM-CP
     title: "Sr. People Operations Manager "
     image: img/portraits/mantrabio-7830.jpg
@@ -218,18 +202,6 @@ employees:
       Natalie can be found hiking, salsa dancing, traveling, snowboarding,
       trying the latest high intensity exercise or creating new recipes to enjoy
       with family and friends.
-  - name: Bryan McKernon
-    title: Software Engineer
-    image: img/portraits/mantrabio-7592.jpg
-    link: https://www.linkedin.com/in/bryan-mckernon/
-    bio: Bryan is Mantra Bio’s Front End Software Engineer, leading web app
-      development, specializing in single page applications using React and
-      RESTful APIs. With a B.S. in Information Systems from San Jose State
-      University and previous experience developing a data glossary for Santa
-      Clara County's Criminal Justice Information System, Bryan adds significant
-      expertise to the Mantra Bio team. A true music lover, Bryan has played the
-      electric guitar for most of his life, and can be found jamming out with
-      friends outside of work.
   - bio: Sidharth brings expertise in software development and data infrastructure,
       with previous experience working for health tech and clean energy
       startups. He earned his B.A. in Biology with minors in both Computer
@@ -259,20 +231,6 @@ employees:
   - name: Fernando Moreno
     title: Business Ops. Associate
     image: img/portraits/mantrabio-7356.jpg
-  - name: Sabrina Noritake, M.A.
-    title: Research Associate II
-    image: img/portraits/mantrabio-7459.jpg
-    link: https://www.linkedin.com/in/sabrina-noritake-36b55b65/
-    bio: As Mantra Bio’s *In Vivo* Research Associate, Sabrina Noritake plays a
-      major role in planning, execution, and data analysis for key *in vivo*
-      studies. Prior to joining Mantra, Sabrina attended  University of the
-      Pacific and received her Bachelor’s of Science degree in Biochemistry. She
-      later attended Sacramento State to complete a Professional Science
-      Master’s in Stem Cell Research. An active undergraduate researcher, in
-      2016 Sabrina was awarded with a summer research fellowship, and was named
-      *Outstanding Biochemistry Senior* in 2017. While not at work, Sabrina
-      enjoys hiking, eating good food, reading books, and saving the world with
-      her Dungeons and Dragons group.
   - bio: >-
       Ed is the founder and Managing Partner of CFO Connect®. CFO Connect® is a
       business management and financial services firm providing part-time CFO
@@ -302,24 +260,6 @@ employees:
     name: Ishai Padawer, M.S.
     title: Director of Process Sciences
     image: /img/portraits/mantrabio-6792.jpg
-  - bio: As Mantra Bio’s CTO, Katie Planey leads indications selection, patent
-      portfolio development, data science and infrastructure strategy. Prior to
-      the founding of Mantra, Katie published a dissertation in the journal of
-      Genome Medicine on *robust network-based omics unsupervised learning
-      methods* highlighted as Editor's choice by *Science Translational
-      Medicine*. She also led a winning team in an informatics healthcare
-      business case study challenge sponsored by J&J with a $20,000 prize and is
-      an alumnus of the Springboard Entrepreneurship Biotech Program. Katie
-      earned a B.S. in Biomedical Engineering from Yale (where she played 4
-      years of Division I women's rugby), and an M.B.A. and Ph.D. in Biomedical
-      Informatics from Stanford. Outside of her leadership role at Mantra, Katie
-      enjoys mentoring young graduates interested in data science or business
-      careers, connecting people in her network to help them find fulfilling
-      careers, high intensity exercise, and taking care of her cats.
-    link: "https://www.linkedin.com/in/katieplaney "
-    name: Katie Planey, M.B.A., Ph.D.
-    title: CTO & Co-founder
-    image: /img/portraits/headshot-katie.jpg
   - name: Alex Sabogal, Ph.D.
     title: Staff Scientist I
     image: img/portraits/mantrabio-7761.jpg
