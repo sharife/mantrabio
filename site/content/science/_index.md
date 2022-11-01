@@ -1,6 +1,6 @@
 ---
 title: Our Science and Technology
-subtitle: ''
+subtitle: ""
 image: /img/header-science.jpg
 intro:
   description: >-
@@ -12,19 +12,17 @@ intro:
     deploying their contents, thereby altering biological function.
 
 
-    Mantra Bio is harnessing the natural exosome pathway to generate engineered
-    Targeted Exosome Vehicles (TEVs) through our REVEAL™ Platform.
+    Mantra Bio is harnessing the natural exosome pathway to generate engineered Therapeutic Exosome Vehicles (TEVs) through our REVEAL™ Platform.
   heading: What are exosomes?
   image: /img/illustration-exosome-3.png
 approach:
-  after: >-
-    At the heart of REVEAL™ lies a powerful dry lab-to-wet lab interface that
+  after: At the heart of REVEAL™ lies a powerful dry lab-to-wet lab interface that
     drives the discovery of first-in-class medicines at unprecedented speeds. By
     leveraging rational design and cutting-edge technology in computation,
     robotics, and bioengineering, Mantra Bio is building next-generation
     therapies that can solve some of the most intractable diseases.
-  before: 'A dry lab to wet lab loop for TEV design, testing, and iteration.'
-  heading: 'Our exosome engineering platform: REVEAL™'
+  before: A dry lab to wet lab loop for TEV design, testing, and iteration.
+  heading: "Our exosome engineering platform: REVEAL™"
 part1:
   description: >-
     A key pillar at Mantra Bio is the development of a robust, scalable
@@ -35,16 +33,12 @@ part1:
     high purity. Our manufacturing process is scale-up compatible up to 2,000L.
 
 
-    We take pride in developing state-of-the-art exosome characterization
-    technologies to deepen our understanding of our exosome products and to
-    ensure safety and potency of every formulation.
+    We take pride in developing state-of-the-art exosome characterization technologies to deepen our understanding of our exosome products and to ensure safety and potency of every formulation.
   heading: Scalable Manufacturing
   image: /img/montage-vertical-2.jpg
 part2:
-  description: >-
-    Mantra Bio is developing a pipeline of exosome therapeutics in undisclosed
-    disease areas. Stay tuned for exciting announcements.
+  description: Mantra Bio is developing a pipeline of exosome therapeutics in
+    undisclosed disease areas. Stay tuned for exciting announcements.
   heading: Therapeutic applications
   image: /img/science-closeup.jpg
 ---
-
