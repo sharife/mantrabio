@@ -7,23 +7,6 @@ employees:
     image: img/portraits/mantrabio-7692.jpg
     title: Research Associate I
     link: https://www.linkedin.com/in/joshualdon/
-  - bio: Conor has extensive experience in cloud computing infrastructure, scalable
-      systems design, containers, and security in complex environments. At
-      Mantra he maintains and develops internal infrastructure, ensures
-      technical compliance with data regulations, and provides company wide
-      support with their computing needs. Prior to Mantra, Conor worked at Zoosk
-      for 5 years where he led the migration to containers and cloud
-      infrastructure. During this time, he earned the SANS Institute's 2019
-      Difference Maker Award for leading a cross-team effort fighting fraud on
-      the platform. Prior to his career in tech, Conor's interest in the biotech
-      field was solidified with two internships studying an assay for the
-      prediction of autoimmune diabetes in Mike Lenardo's lab at NIAID. Outside
-      of work Conor can be found cooking, baking, traveling, and doing
-      photography.
-    link: https://www.linkedin.com/in/callahanca/
-    name: Conor Callahan
-    title: Lead Site Reliability Engineer
-    image: /img/portraits/headshot-conor.jpg
   - name: D. Andrew Carr, Ph.D.
     title: Data Scientist
     image: img/portraits/mantrabio-7791.jpg
@@ -188,20 +171,6 @@ employees:
       earning a B.S. in Zoology at San Francisco State University. Outside of
       work Zebulon likes to roast coffee and make cheese, when not hiking or
       pretending to garden.
-  - name: Natalie Kroll, PHR, SHRM-CP
-    title: "Sr. People Operations Manager "
-    image: img/portraits/mantrabio-7830.jpg
-    link: https://www.linkedin.com/in/nataliekroll/
-    bio: Building a great company takes finding and retaining great talent. Natalie
-      Kroll has more than a decade of Human Resources experience including HR
-      compliance, best practices, policy and procedure development, employment
-      law, and recruitment. She holds a Bachelor of Science degree in Marketing
-      from San Jose State University, and is recognized as a Certified
-      Professional from the Human Resources Certification Institute (PHR) and
-      the Society of Human Resources Management (SHRM-SCP). Outside of work,
-      Natalie can be found hiking, salsa dancing, traveling, snowboarding,
-      trying the latest high intensity exercise or creating new recipes to enjoy
-      with family and friends.
   - bio: Sidharth brings expertise in software development and data infrastructure,
       with previous experience working for health tech and clean energy
       startups. He earned his B.A. in Biology with minors in both Computer
