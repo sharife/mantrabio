@@ -3,7 +3,7 @@ title: Mantra Bio Raises $9 Million in Series A-2 Financing to Advance
   Development of Lead Targeted Exosome Therapeutics Program
 date: 2023-01-05T17:29:58.633Z
 category: PRESS RELEASE
-link: https://www.prnewswire.com/news-releases/mantra-bio-announces-25-million-series-a-financing-to-develop-next-generation-targeted-therapeutics-based-on-platform-for-engineering-targeted-exosome-vehicles-301100664.html?tc=eml_cleartime
+link: https://www.prnewswire.com/news-releases/mantra-bio-raises-9-million-in-series-a-2-financing-to-advance-development-of-lead-targeted-exosome-therapeutics-program-301712744.html?tc=eml_cleartime
 description: Mantra Bio today announced it has raised $9 million in a Series A-2
   financing to advance the development of its lead targeted exosome therapeutics
   program. New investor, Samsung Securities, joined existing investors,
