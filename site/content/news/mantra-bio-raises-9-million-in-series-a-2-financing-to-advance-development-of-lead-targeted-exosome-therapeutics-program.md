@@ -4,8 +4,11 @@ title: Mantra Bio Raises $9 Million in Series A-2 Financing to Advance
 date: 2023-01-05T17:29:58.633Z
 category: PRESS RELEASE
 link: https://www.prnewswire.com/news-releases/mantra-bio-announces-25-million-series-a-financing-to-develop-next-generation-targeted-therapeutics-based-on-platform-for-engineering-targeted-exosome-vehicles-301100664.html?tc=eml_cleartime
-description: "***merging Therapeutic Pipeline Focused on Ophthalmology and
-  Infectious Disease***"
+description: >-
+  Emerging Therapeutic Pipeline Focused on Ophthalmology and Infectious Disease
+
+
+  San Francisco, January 4, 2023 – Mantra Bio today announced it has raised $9 million in a Series A-2 financing to advance the development of its lead targeted exosome therapeutics program. New investor, Samsung Securities, joined existing investors, including 8VC, Viking Global Investors, Illumina, BoxGroup and Allen & Company in the financing round. The company’s overall Series A funding, including a $25 million Series A-1, totals $34 million.
 ---
 **San Francisco, January 4, 2023 –** Mantra Bio today announced it has raised $9 million in a Series A-2 financing to advance the development of its lead targeted exosome therapeutics program. New investor, Samsung Securities, joined existing investors, including 8VC, Viking Global Investors, Illumina, BoxGroup and Allen & Company in the financing round. The company’s overall Series A funding, including a $25 million Series A-1, totals $34 million.
 
