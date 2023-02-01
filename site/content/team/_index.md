@@ -218,17 +218,6 @@ employees:
     name: Ed O'Sullivan, M.B.A.
     title: CFO
     image: /img/portraits/mantrabio-e4868.jpg
-  - bio: As Mantra Bio’s Director of Process Science, Ishai leads upstream and
-      downstream process development and scale up efforts. Ishai brings an
-      expertise in manufacturing of GLP Tox and Phase 1 Clinical material gained
-      from 8 years of experience working at both Merck & Co and
-      Stemcentrx/Abbvie. Ishai holds B.S. and M.S. degrees in Chemical
-      Engineering from Drexel University. Ishai enjoys spending time with his
-      family, playing guitar, and traveling.
-    link: "https://www.linkedin.com/in/ishai-padawer-762a7721 "
-    name: Ishai Padawer, M.S.
-    title: Director of Process Sciences
-    image: /img/portraits/mantrabio-6792.jpg
   - name: Alex Sabogal, Ph.D.
     title: Staff Scientist I
     image: img/portraits/mantrabio-7761.jpg
@@ -260,25 +249,6 @@ employees:
     name: Zachary Swinney
     title: Research Associate II
     image: /img/portraits/mantrabio-6440.jpg
-  - bio: Linda brings a deep expertise in developing statistical models and
-      algorithms that enable discoveries of novel human biology from large,
-      noisy clinical and omics datasets. She works closely with every scientist
-      at Mantra Bio to test, validate, and apply these models to generate
-      hypotheses enabling the discovery of new exosome biology with a focus on
-      applications for human health and disease. While starting her career as an
-      Information Architect and Software Engineer, Linda briefly considered
-      pursuing a career as a bench lab scientist early in graduate school before
-      finding her niche as a data scientist. Linda holds a B.S. in Symbolic
-      Systems and Ph.D in Biomedical Informatics from Stanford where she
-      received a predoctoral fellowship from Stanford’s Center for
-      Computational, Evolutionary, and Human Genomics. She also holds an M.S.
-      from SF State in Cell and Molecular Biology. Between making sure the dog
-      gets enough exercise and the kids get enough sleep, Linda enjoys rock
-      climbing, ice hockey, and running.
-    link: "https://www.linkedin.com/in/linda-szabo-72a9431/ "
-    name: Linda Szabo, M.S., Ph.D.
-    title: Lead Data Scientist
-    image: /img/portraits/mantrabio-6805.jpg
   - name: Christian Torres, M.S.
     title: Research Associate II
     image: img/portraits/mantrabio-7662.jpg
@@ -290,19 +260,6 @@ employees:
       his alma mater for students of color to pursue a graduate degree in
       science.
     link: https://www.linkedin.com/in/christian-torres-ma
-  - name: Vaishnavi Beena Valsan
-    title: Research Associate II
-    image: img/portraits/mantrabio-7622.jpg
-    bio: Vaishnavi is a Research Associate working on cell based assay development
-      within our Preclinical Sciences team. Prior to joining Mantra, Vaishnavi
-      completed a Master’s in Medical Biotechnology at the University of
-      Illinois, Chicago. While working on her Master’s, she contributed to
-      COVID-19 testing efforts, collecting samples on campus, and also worked in
-      the university’s Flow and Cell Sorter core facility. Vaishnavi holds a
-      Bachelors of Science in Biotechnology from the SRM Institute of Science
-      and Technology, in Chennai, India. Outside of work, she is a passionate
-      photographer and loves to play badminton!
-    link: https://www.linkedin.com/in/vaishnavi-beena-valsan/
   - name: Oliver Wueseke, Ph.D.
     title: Chief of Staff
     image: img/portraits/mantrabio-7368.jpg
