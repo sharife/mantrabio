@@ -7,6 +7,9 @@ employees:
     image: img/portraits/mantrabio-7692.jpg
     title: Research Associate I
     link: https://www.linkedin.com/in/joshualdon/
+  - name: "Avik Banerjee "
+    title: Scientist 1
+    image: img/fpo-head.png
   - name: D. Andrew Carr, Ph.D.
     title: Data Scientist
     image: img/portraits/mantrabio-7791.jpg
@@ -24,6 +27,9 @@ employees:
 
       Andrew holds a Ph.D. in Bioinformatics from George Mason University and completed postdoctoral work at the University of North Carolina Charlotte where he managed the computational lab for micro-array biophysics research, while serving as DataFATE lead and project manager. Andrew also holds Bachelor’s degrees in both Mathematics and Ballet from Indiana University. Outside of work, Andrew coaches fitness and ballet, and also enjoys cooking and hiking.
     link: www.linkedin.com/in/d-andrew-carr-65534849
+  - name: "Aivy David "
+    title: Laboratory Operations Associate 2
+    image: img/fpo-head.png
   - bio: As part of the Preclinical R&D team, Pranali leads the efforts behind
       payload packaging strategies and analytical characterization methods. Her
       wide range of experiences include working as a research scientist in R&D
@@ -134,6 +140,9 @@ employees:
     name: Robert Halenbeck, M.S.
     title: Principal Scientist, Protein Engineering
     image: /img/portraits/headshot-robert.jpg
+  - name: Lisa Hooi
+    title: Scientist 1
+    image: img/fpo-head.png
   - name: Brendan Johnson
     title: Research Associate
     image: img/portraits/mantrabio-7778.jpg
@@ -171,6 +180,9 @@ employees:
       earning a B.S. in Zoology at San Francisco State University. Outside of
       work Zebulon likes to roast coffee and make cheese, when not hiking or
       pretending to garden.
+  - name: "Weiqun Liu "
+    title: Staff Scientist I
+    image: img/fpo-head.png
   - bio: Sidharth brings expertise in software development and data infrastructure,
       with previous experience working for health tech and clean energy
       startups. He earned his B.A. in Biology with minors in both Computer
@@ -198,8 +210,11 @@ employees:
     title: CEO & Co-founder
     image: img/alexmok_0621_1200.jpg
   - name: Fernando Moreno
-    title: Business Ops. Associate
+    title: Business Ops. Associate 2
     image: img/portraits/mantrabio-7356.jpg
+  - name: "Florence Nguyen "
+    title: Sr. Research Associate
+    image: img/fpo-head.png
   - bio: >-
       Ed is the founder and Managing Partner of CFO Connect®. CFO Connect® is a
       business management and financial services firm providing part-time CFO
@@ -249,6 +264,9 @@ employees:
     name: Zachary Swinney
     title: Research Associate II
     image: /img/portraits/mantrabio-6440.jpg
+  - name: "Heather Tanner "
+    title: Flow Cytometry Specialist II
+    image: img/fpo-head.png
   - name: Christian Torres, M.S.
     title: Research Associate II
     image: img/portraits/mantrabio-7662.jpg
