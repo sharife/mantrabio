@@ -11,7 +11,7 @@ employees:
     title: Scientist 1
     image: img/fpo-head.png
   - name: D. Andrew Carr, Ph.D.
-    title: Data Scientist
+    title: Data Scientist IV
     image: img/portraits/mantrabio-7791.jpg
     bio: >-
       Andrew Carr is a Data Scientist with expertise in algorithms, machine
@@ -39,7 +39,7 @@ employees:
       and Drug Delivery from Northeastern University in Boston.
     link: "https://www.linkedin.com/in/pranalideshpande "
     name: Pranali Deshpande, Ph.D.
-    title: Scientist
+    title: Staff Scientist
     image: /img/portraits/mantrabio-6528.jpg
   - name: Maria Fuentes
     title: Chief Scientific Officer
@@ -93,10 +93,10 @@ employees:
       and plays in a softball league in San Francisco.
     link: "https://www.linkedin.com/in/djgoodman "
     name: Daniel Goodman, M.S.
-    title: Research Associate
+    title: Scientist
     image: /img/portraits/mantrabio-6732.jpg
   - name: Jennifa Gosling, M.S.
-    title: Senior Director of Preclinical Development
+    title: VP of Research
     link: https://www.linkedin.com/in/jennifa-gosling-b305429/
     image: img/portraits/mantrabio-7701.jpg
     bio: As Mantra Bio’s Senior Director of Preclinical Development, Jennifa Gosling
@@ -121,7 +121,7 @@ employees:
       kinds (particularly dogs).
     link: "https://www.linkedin.com/in/colingottliebphd "
     name: Colin Gottlieb, Ph.D.
-    title: Sr. Scientist
+    title: "Staff Scientist 2 "
     image: /img/portraits/mantrabio-6485.jpg
   - bio: Robert is in charge of the Protein Engineering Team, responsible for
       developing novel targeting scaffolds for Mantra Bio’s exosome vehicles.
@@ -144,7 +144,7 @@ employees:
     title: Scientist 1
     image: img/fpo-head.png
   - name: Brendan Johnson
-    title: Research Associate
+    title: Research Associate II
     image: img/portraits/mantrabio-7778.jpg
     link: https://www.linkedin.com/in/brendan-johnson-892455153/
     bio: As part of Mantra Bio’s Platform team, Brendan handles small batch exosome
@@ -168,7 +168,7 @@ employees:
       the opera, symphony, and other musical performances.
     link: "https://www.linkedin.com/in/chichihkang "
     name: Ginny Kang, Ph.D.
-    title: Sr. Scientist
+    title: Staff Scientist II
     image: /img/portraits/mantrabio-6693.jpg
   - name: Zebulon LaPoint
     title: Sr. Research Associate
@@ -191,7 +191,7 @@ employees:
       his spare time.
     link: https://www.linkedin.com/in/sidharth-menon-8a8b98127/
     name: Sidharth Menon
-    title: Data Engineer
+    title: Staff Data Engineer IV
     image: /img/portraits/mantrabio-3050.jpg
   - bio: Alex is an entrepreneur with over a decade’s experience in building life
       science businesses. He was head of commercialization at CellASIC (acquired
@@ -251,7 +251,7 @@ employees:
       traveling, hiking and martial arts.
     link: https://www.linkedin.com/in/natalia-santos-9351524
     name: Natalia Santos, Ph.D.
-    title: Sr. Scientist
+    title: Staff Scientist I
     image: /img/portraits/mantrabio-7519.jpg
   - bio: Zachary is part of Mantra’s process sciences team working on downstream
       process development. He brings an intimate knowledge of process sciences
@@ -262,13 +262,13 @@ employees:
       food, exploring the mountains, and the Green Bay Packers.
     link: "https://www.linkedin.com/in/zswinney "
     name: Zachary Swinney
-    title: Research Associate II
+    title: "Scientist "
     image: /img/portraits/mantrabio-6440.jpg
   - name: "Heather Tanner "
     title: Flow Cytometry Specialist II
     image: img/fpo-head.png
   - name: Christian Torres, M.S.
-    title: Research Associate II
+    title: "Sr. Research Associate "
     image: img/portraits/mantrabio-7662.jpg
     bio: At Mantra Bio, Christian is responsible for the optimization of production
       parameters and assays related to targeted exosomes. Holding a Masters of
@@ -295,7 +295,7 @@ employees:
       art, or traveling the world.
     link: https://www.linkedin.com/in/oliver-wueseke-81615393
   - name: Patricia Vera-Gonzalez
-    title: Bioinformatician
+    title: Data Scientist II
     image: img/fpo-head.png
     bio: >-
       An expert in statistical analysis, Patricia consults with and trains
