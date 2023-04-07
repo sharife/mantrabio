@@ -99,11 +99,11 @@ employees:
     title: VP of Research
     link: https://www.linkedin.com/in/jennifa-gosling-b305429/
     image: img/portraits/mantrabio-7701.jpg
-    bio: As Mantra Bio’s Senior Director of Preclinical Development, Jennifa Gosling
-      brings deep experience in cell biology and immunology across different
-      therapeutic areas and modalities, including drug development from target
-      ID to IND filing. Jennifa has held positions across academics, start up,
-      mid size biotechnology and “big pharma”, and in large and small molecule
+    bio: As Mantra Bio’s VP of Research, Jennifa Gosling brings deep experience in
+      cell biology and immunology across different therapeutic areas and
+      modalities, including drug development from target ID to IND filing.
+      Jennifa has held positions across academics, start up, mid size
+      biotechnology and “big pharma”, and in large and small molecule
       development where she has progressed assets into the clinic. Jennifa holds
       Bachelor’s and Master’s degrees in Biology from Worcester Polytechnic
       Institute, in Worcester Massachusetts. Outside of work she enjoys wine,
