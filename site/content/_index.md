@@ -18,7 +18,7 @@ intro:
   heading: Exosome therapeutics powered by REVEAL™
   text: Mantra Bio is the creator of REVEAL™, the world's leading exosome
     engineering platform that combines AI/ML computational biology and synthetic
-    biology to rapidly design and develop exosome therapeutic. REVEAL has
+    biology to rapidly design and develop exosome therapeutics. REVEAL has
     accelerated the development of a diverse pipeline in areas such as
     ophthalmology and infectious diseases.
 items:
