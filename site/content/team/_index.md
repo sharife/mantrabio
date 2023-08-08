@@ -99,11 +99,11 @@ employees:
     title: VP of Research
     link: https://www.linkedin.com/in/jennifa-gosling-b305429/
     image: img/portraits/mantrabio-7701.jpg
-    bio: As Mantra Bio’s Senior Director of Preclinical Development, Jennifa Gosling
-      brings deep experience in cell biology and immunology across different
-      therapeutic areas and modalities, including drug development from target
-      ID to IND filing. Jennifa has held positions across academics, start up,
-      mid size biotechnology and “big pharma”, and in large and small molecule
+    bio: As Mantra Bio’s VP of Research, Jennifa Gosling brings deep experience in
+      cell biology and immunology across different therapeutic areas and
+      modalities, including drug development from target ID to IND filing.
+      Jennifa has held positions across academics, start up, mid size
+      biotechnology and “big pharma”, and in large and small molecule
       development where she has progressed assets into the clinic. Jennifa holds
       Bachelor’s and Master’s degrees in Biology from Worcester Polytechnic
       Institute, in Worcester Massachusetts. Outside of work she enjoys wine,
@@ -123,39 +123,9 @@ employees:
     name: Colin Gottlieb, Ph.D.
     title: "Staff Scientist 2 "
     image: /img/portraits/mantrabio-6485.jpg
-  - bio: Robert is in charge of the Protein Engineering Team, responsible for
-      developing novel targeting scaffolds for Mantra Bio’s exosome vehicles.
-      Throughout his career, Robert has played a key role in the discovery,
-      engineering, and development of many novel therapeutics, from secreted
-      ligands such as Proleukin (IL-2) and Betaseron (IFN-B), to receptor-Fc
-      fusions, and highly engineered antibodies. Robert received his Bachelor’s
-      and Master’s degrees at the University of California, Santa Barbara in
-      biochemistry before moving to the Bay Area where he worked for Cetus,
-      Chiron (Novartis), FivePrime, and BioMarin. Robert is an author or
-      co-author on 25 publications, and an inventor on 42 issued US patents.
-      Outside of work he can be found truck camping at one of the lakes in
-      Northern California with his family, where he loves to hike, fish,
-      waterski, and sail.
-    link: https://www.linkedin.com/in/robert-halenbeck-a8479215/
-    name: Robert Halenbeck, M.S.
-    title: Principal Scientist, Protein Engineering
-    image: /img/portraits/headshot-robert.jpg
   - name: Lisa Hooi
     title: Scientist 1
     image: img/fpo-head.png
-  - name: Brendan Johnson
-    title: Research Associate II
-    image: img/portraits/mantrabio-7778.jpg
-    link: https://www.linkedin.com/in/brendan-johnson-892455153/
-    bio: As part of Mantra Bio’s Platform team, Brendan handles small batch exosome
-      production, purification, and characterization for various teams and
-      experiments. While earning his Bachelors of Science in Biomolecular
-      Engineering from Santa Clara University, Brendan studied exosome surface
-      engineering methods. In addition, he has prior experience in polymer
-      chemistry research- developing novel polymerization methods to minimize or
-      even eliminate the use of toxic metal catalyst in these reactions. Outside
-      of work Brendan loves health & fitness, learning about outer space,
-      playing poker with friends, and practicing guitar.
   - bio: At Mantra Bio, Ginny leads preclinical research study efforts. From *in
       vitro* potency assays to *in vivo* efficacy studies, Ginny leads study
       design, execution, and data analysis. An accomplished scientist in her
