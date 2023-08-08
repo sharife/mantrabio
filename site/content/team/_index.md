@@ -3,10 +3,6 @@ title: We are Mantra Bio
 subtitle: ""
 image: /img/header-team.jpg
 employees:
-  - name: Joshua Aldon
-    image: img/portraits/mantrabio-7692.jpg
-    title: Research Associate I
-    link: https://www.linkedin.com/in/joshualdon/
   - name: "Avik Banerjee "
     title: Scientist 1
     image: img/fpo-head.png
@@ -281,6 +277,15 @@ employees:
 
       Outside of work Patricia enjoys cooking, painting and sculpting, solving puzzles, basketball, and spending time at the beach.
     link: https://www.linkedin.com/in/patricia-v-3891a219b
+  - name: Bonnie Wu
+    title: Research Associate II
+    image: img/fpo-head.png
+  - name: Julian Tam
+    title: Research Associate II
+    image: img/fpo-head.png
+  - name: Shruti Singh Kakan
+    title: Bioinformatician II
+    image: img/fpo-head.png
 advisors:
   - affiliation: Advisor
     bio: >-
