@@ -3,9 +3,6 @@ title: We are Mantra Bio
 subtitle: ""
 image: /img/header-team.jpg
 employees:
-  - name: "Avik Banerjee "
-    title: Scientist 1
-    image: img/fpo-head.png
   - name: D. Andrew Carr, Ph.D.
     title: Data Scientist IV
     image: img/portraits/mantrabio-7791.jpg
@@ -146,19 +143,6 @@ employees:
       earning a B.S. in Zoology at San Francisco State University. Outside of
       work Zebulon likes to roast coffee and make cheese, when not hiking or
       pretending to garden.
-  - name: "Weiqun Liu "
-    title: Staff Scientist I
-    image: img/fpo-head.png
-  - bio: Sidharth brings expertise in software development and data infrastructure,
-      with previous experience working for health tech and clean energy
-      startups. He earned his B.A. in Biology with minors in both Computer
-      Science and Bioinformatics from the University of Southern California.
-      Sidharth enjoys playing video and board games, along with basketball in
-      his spare time.
-    link: https://www.linkedin.com/in/sidharth-menon-8a8b98127/
-    name: Sidharth Menon
-    title: Staff Data Engineer IV
-    image: /img/portraits/mantrabio-3050.jpg
   - bio: Alex is an entrepreneur with over a decade’s experience in building life
       science businesses. He was head of commercialization at CellASIC (acquired
       by Merck KgAA), a UC Berkeley microfluidic organ-on-chip technology
@@ -199,10 +183,6 @@ employees:
     name: Ed O'Sullivan, M.B.A.
     title: CFO
     image: /img/portraits/mantrabio-e4868.jpg
-  - name: Alex Sabogal, Ph.D.
-    title: Staff Scientist I
-    image: img/portraits/mantrabio-7761.jpg
-    link: https://www.linkedin.com/in/alex-sabogal-phd-3b50599/
   - bio: Natalia leads analytical development as part of the Process Sciences team
       at Mantra Bio. Her efforts drive the development and qualification of
       Mantra’s in-house exosome therapeutic characterization assays. Natalia’s
