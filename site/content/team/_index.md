@@ -210,9 +210,6 @@ employees:
     name: Zachary Swinney
     title: "Scientist "
     image: /img/portraits/mantrabio-6440.jpg
-  - name: "Heather Tanner "
-    title: Flow Cytometry Specialist II
-    image: img/fpo-head.png
   - name: Christian Torres, M.S.
     title: "Sr. Research Associate "
     image: img/portraits/mantrabio-7662.jpg
