@@ -3,9 +3,6 @@ title: We are Mantra Bio
 subtitle: ""
 image: /img/header-team.jpg
 employees:
-  - name: "Aivy David "
-    title: Laboratory Operations Associate 2
-    image: img/fpo-head.png
   - name: D. Andrew Carr, Ph.D.
     title: Data Scientist IV
     image: img/portraits/mantrabio-7791.jpg
@@ -23,6 +20,9 @@ employees:
 
       Andrew holds a Ph.D. in Bioinformatics from George Mason University and completed postdoctoral work at the University of North Carolina Charlotte where he managed the computational lab for micro-array biophysics research, while serving as DataFATE lead and project manager. Andrew also holds Bachelor’s degrees in both Mathematics and Ballet from Indiana University. Outside of work, Andrew coaches fitness and ballet, and also enjoys cooking and hiking.
     link: www.linkedin.com/in/d-andrew-carr-65534849
+  - name: "Aivy David "
+    title: Laboratory Operations Associate 2
+    image: img/fpo-head.png
   - bio: As part of the Preclinical R&D team, Pranali leads the efforts behind
       payload packaging strategies and analytical characterization methods. Her
       wide range of experiences include working as a research scientist in R&D
@@ -199,6 +199,9 @@ employees:
     name: Natalia Santos, Ph.D.
     title: Staff Scientist I
     image: /img/portraits/mantrabio-7519.jpg
+  - name: Shruti Singh Kakan
+    title: Bioinformatician II
+    image: img/fpo-head.png
   - bio: Zachary is part of Mantra’s process sciences team working on downstream
       process development. He brings an intimate knowledge of process sciences
       from his time at Stemcentrx, and later AbbVie, where he developed antibody
@@ -210,6 +213,9 @@ employees:
     name: Zachary Swinney
     title: "Scientist "
     image: /img/portraits/mantrabio-6440.jpg
+  - name: Julian Tam
+    title: Research Associate II
+    image: img/fpo-head.png
   - name: Christian Torres, M.S.
     title: "Sr. Research Associate "
     image: img/portraits/mantrabio-7662.jpg
@@ -221,22 +227,6 @@ employees:
       his alma mater for students of color to pursue a graduate degree in
       science.
     link: https://www.linkedin.com/in/christian-torres-ma
-  - name: Oliver Wueseke, Ph.D.
-    title: Chief of Staff
-    image: img/portraits/mantrabio-7368.jpg
-    bio: Oliver’s passion is building high performing R&D teams. At Mantra Bio he
-      leads cultural and organizational development initiatives that make Mantra
-      Bio a fun and exciting place to work, driving Mantra Bio’s exceptional
-      level of innovation. Oliver, an HSFP Fellowship awardee, backs up his
-      operational leadership with a Ph.D from the Max Planck Institute in Cell
-      and Molecular Biology, and 12 years of research experience on organoid
-      development and protein dynamics. Oliver previously worked as the R&D lead
-      at System1 Biosciences, in charge of developing their “brain-in-a-dish”
-      science. He is also the founder if Impulse Science Inc., a biotech
-      start-up coaching firm. Outside of work, Oliver can be found windsurfing
-      across the Bay, unleashing his creativity through photography and digital
-      art, or traveling the world.
-    link: https://www.linkedin.com/in/oliver-wueseke-81615393
   - name: Patricia Vera-Gonzalez
     title: Data Scientist II
     image: img/fpo-head.png
@@ -254,14 +244,24 @@ employees:
 
       Outside of work Patricia enjoys cooking, painting and sculpting, solving puzzles, basketball, and spending time at the beach.
     link: https://www.linkedin.com/in/patricia-v-3891a219b
+  - name: Oliver Wueseke, Ph.D.
+    title: Chief of Staff
+    image: img/portraits/mantrabio-7368.jpg
+    bio: Oliver’s passion is building high performing R&D teams. At Mantra Bio he
+      leads cultural and organizational development initiatives that make Mantra
+      Bio a fun and exciting place to work, driving Mantra Bio’s exceptional
+      level of innovation. Oliver, an HSFP Fellowship awardee, backs up his
+      operational leadership with a Ph.D from the Max Planck Institute in Cell
+      and Molecular Biology, and 12 years of research experience on organoid
+      development and protein dynamics. Oliver previously worked as the R&D lead
+      at System1 Biosciences, in charge of developing their “brain-in-a-dish”
+      science. He is also the founder if Impulse Science Inc., a biotech
+      start-up coaching firm. Outside of work, Oliver can be found windsurfing
+      across the Bay, unleashing his creativity through photography and digital
+      art, or traveling the world.
+    link: https://www.linkedin.com/in/oliver-wueseke-81615393
   - name: Bonnie Wu
     title: Research Associate II
-    image: img/fpo-head.png
-  - name: Julian Tam
-    title: Research Associate II
-    image: img/fpo-head.png
-  - name: Shruti Singh Kakan
-    title: Bioinformatician II
     image: img/fpo-head.png
 advisors:
   - affiliation: Advisor
