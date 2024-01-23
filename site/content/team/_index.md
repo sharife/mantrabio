@@ -3,6 +3,9 @@ title: We are Mantra Bio
 subtitle: ""
 image: /img/header-team.jpg
 employees:
+  - name: "Aivy David "
+    title: Laboratory Operations Associate 2
+    image: img/fpo-head.png
   - name: D. Andrew Carr, Ph.D.
     title: Data Scientist IV
     image: img/portraits/mantrabio-7791.jpg
@@ -20,9 +23,6 @@ employees:
 
       Andrew holds a Ph.D. in Bioinformatics from George Mason University and completed postdoctoral work at the University of North Carolina Charlotte where he managed the computational lab for micro-array biophysics research, while serving as DataFATE lead and project manager. Andrew also holds Bachelor’s degrees in both Mathematics and Ballet from Indiana University. Outside of work, Andrew coaches fitness and ballet, and also enjoys cooking and hiking.
     link: www.linkedin.com/in/d-andrew-carr-65534849
-  - name: "Aivy David "
-    title: Laboratory Operations Associate 2
-    image: img/fpo-head.png
   - bio: As part of the Preclinical R&D team, Pranali leads the efforts behind
       payload packaging strategies and analytical characterization methods. Her
       wide range of experiences include working as a research scientist in R&D
